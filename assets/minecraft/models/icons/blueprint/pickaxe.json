@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "builds/air",
+		"1": "icons/pickaxe",
+		"2": "icons/blueprint",
+		"particle": "builds/air"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 0, 2],
+			"to": [16, 16, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 2]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

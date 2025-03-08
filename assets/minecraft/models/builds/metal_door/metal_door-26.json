@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builds/metal_door/metal_door-0",
+	"texture_size": [32, 32],
+	"display": {
+		"head": {
+			"rotation": [0, 26, 0],
+			"translation": [12, -30.4, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

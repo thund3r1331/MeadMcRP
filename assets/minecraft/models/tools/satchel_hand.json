@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "tools/satchel_none",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "tools/satchel_charge"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-135, 0, -180],
+			"translation": [0, 2, 1.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-135, 0, -180],
+			"translation": [0, 2, 1.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [-8.7, 18.9, 35.75],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"translation": [-9.375, 18.9, 35.75],
+			"scale": [4, 4, 4]
+		}
+	}
+}

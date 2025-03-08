@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builds/research_table",
+	"textures": {
+		"0": "wiew/blue",
+		"particle": "wiew/blue"
+	}
+}

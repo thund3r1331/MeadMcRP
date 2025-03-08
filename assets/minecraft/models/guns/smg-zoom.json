@@ -1,0 +1,17 @@
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "guns/smg",
+	"texture_size": [32, 32],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [2, 0, 0],
+			"translation": [-5.37, 17.95, 39.5],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [2, 0, 0],
+			"translation": [-12.545, 17.95, 39.5],
+			"scale": [4, 4, 4]
+		}
+	}
+}

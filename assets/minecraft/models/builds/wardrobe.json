@@ -1,0 +1,78 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "builds/wardrobe",
+		"particle": "builds/wardrobe"
+	},
+	"elements": [
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [2, 0, -1.025],
+			"to": [15, 2.5, 17.05],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.875, 9.25, 8]},
+			"faces": {
+				"north": {"uv": [10.25, 5.375, 13.5, 6], "texture": "#1"},
+				"east": {"uv": [7.25, 12.5, 11.75, 13.125], "texture": "#1"},
+				"south": {"uv": [10.25, 4.625, 13.5, 5.25], "texture": "#1"},
+				"west": {"uv": [7.25, 13.25, 11.75, 13.875], "texture": "#1"},
+				"down": {"uv": [13.5, 0, 10.25, 4.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [1.5, 2.5, -1.5],
+			"to": [15.5, 32, 17.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.875, 9.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 7.375, 3.5, 14.625], "texture": "#1"},
+				"east": {"uv": [5, 0, 0, 7.25], "texture": "#1"},
+				"south": {"uv": [3.625, 7.375, 7.125, 14.625], "texture": "#1"},
+				"west": {"uv": [5.125, 0, 10.125, 7.25], "texture": "#1"},
+				"up": {"uv": [14.375, 12.375, 10.875, 7.375], "texture": "#1"},
+				"down": {"uv": [10.75, 7.375, 7.25, 12.375], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [1, 15.725, 6.575],
+			"to": [1.5, 16.75, 7.525],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.875, 9.25, 8]},
+			"faces": {
+				"north": {"uv": [7.25, 3.75, 7.375, 4], "texture": "#1"},
+				"south": {"uv": [7.375, 3.75, 7.5, 4], "texture": "#1"},
+				"west": {"uv": [7.25, 3.75, 7.5, 4], "texture": "#1"},
+				"up": {"uv": [7.5, 3.875, 7.25, 3.75], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [7.5, 3.875, 7.25, 4], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [1, 15.725, 8.475],
+			"to": [1.5, 16.75, 9.425],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.875, 9.25, 8]},
+			"faces": {
+				"north": {"uv": [7.75, 3.75, 7.875, 4], "texture": "#1"},
+				"south": {"uv": [7.875, 3.75, 8, 4], "texture": "#1"},
+				"west": {"uv": [7.75, 3.75, 8, 4], "texture": "#1"},
+				"up": {"uv": [8, 3.875, 7.75, 3.75], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [8, 3.875, 7.75, 4], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, -30.4, -0.8],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "Wardrobe",
+			"origin": [0, 0, 1.9],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

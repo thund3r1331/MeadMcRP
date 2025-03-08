@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "tools/satchel_none",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "builds/air",
+		"particle": "builds/air"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 7.61094, 0],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/green_stained_glass"
+  },
+  "overrides": [
+   {"predicate" : {"custom_model_data": 1 }, "model":"icons/on-1"},
+   {"predicate" : {"custom_model_data": 2 }, "model":"icons/on-2"},
+   {"predicate" : {"custom_model_data": 3 }, "model":"icons/off-1"},
+   {"predicate" : {"custom_model_data": 4 }, "model":"icons/off-2"}
+ ] 
+}
