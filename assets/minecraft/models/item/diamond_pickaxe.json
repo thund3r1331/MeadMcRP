@@ -53,6 +53,9 @@
 
 		{"predicate": { "custom_model_data": 47 }, "model": "builds/boxes/defaultbox"},
 
+		{"predicate": { "custom_model_data": 50 }, "model": "lootbox_models/supply_crate"},
+		{"predicate": { "custom_model_data": 51 }, "model": "lootbox_models/supply_crate_parashute"},
+
 		{"predicate": {"custom_model_data":400}, "model":"builds/metal_door/metal_door-0"},
 		{"predicate": {"custom_model_data":401}, "model":"builds/metal_door/metal_door-1"},
 		{"predicate": {"custom_model_data":402}, "model":"builds/metal_door/metal_door-2"},
