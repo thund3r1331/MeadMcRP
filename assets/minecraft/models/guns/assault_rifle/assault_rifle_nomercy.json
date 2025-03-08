@@ -1,0 +1,42 @@
+{
+	"credit": "Created by thund3r1331,skin by thecletusdigger",
+	"parent": "guns/assault_rifle/assault_rifle",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "guns/assault_rifle/assault_rifle",
+		"1": "guns/hands/hand_wide",
+		"particle": "guns/assault_rifle/assault_rifle"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [180, 0, 180],
+			"translation": [0, 1.125, 4],
+			"scale": [0.675, 0.675, 0.675]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, 0, 180],
+			"translation": [0, 1.125, 4],
+			"scale": [0.675, 0.675, 0.675]
+		},
+		"firstperson_righthand": {
+			"translation": [-3.25, 18.5, 46.65],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"translation": [-14.825, 18.5, 46.65],
+			"scale": [4, 4, 4]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

@@ -30,7 +30,6 @@
 		{ "predicate": { "custom_model_data": 27 }, "model": "holograms/metal_door_red"},
 		{ "predicate": { "custom_model_data": 28 }, "model":"builds/furnace"},
 		{ "predicate": { "custom_model_data": 29 }, "model":"holograms/furnace_blue"},
-		{ "predicate": { "custom_model_data": 30 }, "model": "guns/assault_rifle"},
 		{"predicate": { "custom_model_data": 31 }, "model": "tools/satchel"},
 		{"predicate": { "custom_model_data": 32 }, "model": "tools/satchel_hand"},
 		{"predicate": { "custom_model_data": 33 }, "model": "builds/wardrobe"},
@@ -39,7 +38,6 @@
 		{"predicate": { "custom_model_data": 36 }, "model": "tools/rock"},
 		{"predicate": { "custom_model_data": 37 }, "model": "holograms/large_crate_blue"},
 		{"predicate": { "custom_model_data": 38 }, "model": "builds/research_table"},
-
 		{"predicate": { "custom_model_data": 39 }, "model": "builds/workbench_level_1"},
 		{"predicate": { "custom_model_data": 40 }, "model": "builds/workbench_level_2"},
 		{"predicate": { "custom_model_data": 41 }, "model": "builds/workbench_level_3"},
@@ -55,6 +53,11 @@
 
 		{"predicate": { "custom_model_data": 50 }, "model": "lootbox_models/supply_crate"},
 		{"predicate": { "custom_model_data": 51 }, "model": "lootbox_models/supply_crate_parashute"},
+
+		{ "predicate": { "custom_model_data": 70 }, "model": "guns/assault_rifle/assault_rifle"},
+		{ "predicate": { "custom_model_data": 71 }, "model": "guns/assault_rifle/assault_rifle-zoom"},
+		{ "predicate": { "custom_model_data": 72 }, "model": "guns/assault_rifle/assault_rifle_nomercy"},
+		{ "predicate": { "custom_model_data": 73 }, "model": "guns/assault_rifle/assault_rifle_nomercy-zoom"},
 
 		{"predicate": {"custom_model_data":400}, "model":"builds/metal_door/metal_door-0"},
 		{"predicate": {"custom_model_data":401}, "model":"builds/metal_door/metal_door-1"},
