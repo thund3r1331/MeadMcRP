@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "lootbox/supply_drop",
-		"particle": "lootbox/supply_drop",
-		"supply_tag": "lootbox/supply_tag"
+		"0": "lootbox/supply_drop/supply_drop",
+		"particle": "lootbox/supply_drop/supply_drop",
+		"supply_tag": "lootbox/supply_drop/supply_tag"
 	},
 	"elements": [
 		{
