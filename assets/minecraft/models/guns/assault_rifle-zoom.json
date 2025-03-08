@@ -1,0 +1,17 @@
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "guns/assault_rifle",
+	"texture_size": [128, 128],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [2, 0, 0],
+			"translation": [-5.3825, 17.7325, 48],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [2, 0, 0],
+			"translation": [-12.52925, 17.7325, 48],
+			"scale": [4, 4, 4]
+		}
+	}
+}

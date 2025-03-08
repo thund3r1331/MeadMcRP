@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builds/furnace",
+	"textures": {
+		"0": "wiew/red",
+		"particle": "wiew/red"
+	}
+}

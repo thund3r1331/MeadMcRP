@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builds/metal_door/metal_door-0",
+	"textures": {
+		"3": "wiew/blue",
+		"particle": "wiew/blue"
+	},
+	"display": {}
+}

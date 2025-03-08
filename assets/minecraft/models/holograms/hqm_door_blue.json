@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builds/hqm_door_closed",
+	"textures": {
+		"0": "wiew/blue",
+		"particle": "wiew/blue"
+	},
+	"display": {}
+}
