@@ -59,6 +59,9 @@
 		{ "predicate": { "custom_model_data": 72 }, "model": "guns/assault_rifle/assault_rifle_nomercy"},
 		{ "predicate": { "custom_model_data": 73 }, "model": "guns/assault_rifle/assault_rifle_nomercy-zoom"},
 
+		{ "predicate": { "custom_model_data": 201 }, "model": "tools/metal_pickaxe"},
+		{ "predicate": { "custom_model_data": 202 }, "model": "tools/metal_axe"},
+
 		{ "predicate": { "custom_model_data": 300 }, "model": "lootbox_models/blue_barrel"},
 		{ "predicate": { "custom_model_data": 301 }, "model": "lootbox_models/oil_barrel"},
 		{ "predicate": { "custom_model_data": 302 }, "model": "lootbox_models/white_barrel"},

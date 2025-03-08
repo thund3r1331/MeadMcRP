@@ -4,8 +4,8 @@
 	"textures": {
 		"0": "tools/satchel_charge",
 		"1": "builds/air",
-		"2": "guns/hand",
-		"particle": "guns/hand"
+		"2": "guns/hands/hand",
+		"particle": "guns/hands/hand"
 	},
 	"elements": [
 		{

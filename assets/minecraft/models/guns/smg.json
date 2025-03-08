@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "guns/smg",
-		"2": "guns/hand_wide",
+		"2": "guns/hands/hand_wide",
 		"particle": "guns/smg"
 	},
 	"elements": [

@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "tools/building_plan",
-		"1": "guns/hand",
-		"particle": "guns/hand"
+		"1": "guns/hands/hand",
+		"particle": "guns/hands/hand"
 	},
 	"elements": [
 		{

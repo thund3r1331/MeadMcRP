@@ -3,8 +3,8 @@
 	"texture_size": [4, 4],
 	"textures": {
 		"1": "tools/stone-pickaxe",
-		"2": "guns/hand",
-		"particle": "guns/hand"
+		"2": "guns/hands/hand",
+		"particle": "guns/hands/hand"
 	},
 	"elements": [
 		{
