@@ -3,9 +3,9 @@
 	"parent": "guns/assault_rifle/assault_rifle",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "guns/assault_rifle/assault_rifle",
+		"0": "guns/assault_rifle/assault_rifle_nomercy",
 		"1": "guns/hands/hand_wide",
-		"particle": "guns/assault_rifle/assault_rifle"
+		"particle": "guns/assault_rifle/assault_rifle_nomercy"
 	},
 	"display": {
 		"thirdperson_righthand": {
