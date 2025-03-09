@@ -72,6 +72,14 @@
 		{ "predicate": { "custom_model_data": 302 }, "model": "lootbox_models/white_barrel"},
 		{ "predicate": { "custom_model_data": 303 }, "model": "lootbox_models/diesel_barrel"},
 
+		{ "predicate": { "custom_model_data": 350 }, "model": "pickable_models/mushroom"},
+		{ "predicate": { "custom_model_data": 351 }, "model": "pickable_models/pumpkin"},
+		{ "predicate": { "custom_model_data": 352 }, "model": "pickable_models/hemp"},
+		{ "predicate": { "custom_model_data": 353 }, "model": "pickable_models/potato"},
+		{ "predicate": { "custom_model_data": 354 }, "model": "pickable_models/rock_stone"},
+		{ "predicate": { "custom_model_data": 355 }, "model": "pickable_models/rock_sulfur"},
+		{ "predicate": { "custom_model_data": 356 }, "model": "pickable_models/rock_iron"},
+
 		{"predicate": {"custom_model_data":400}, "model":"builds/metal_door/metal_door-0"},
 		{"predicate": {"custom_model_data":401}, "model":"builds/metal_door/metal_door-1"},
 		{"predicate": {"custom_model_data":402}, "model":"builds/metal_door/metal_door-2"},
@@ -162,6 +170,9 @@
 		{"predicate": {"custom_model_data":487}, "model":"builds/metal_door/metal_door-87"},
 		{"predicate": {"custom_model_data":488}, "model":"builds/metal_door/metal_door-88"},
 		{"predicate": {"custom_model_data":489}, "model":"builds/metal_door/metal_door-89"},
-		{"predicate": {"custom_model_data":490}, "model":"builds/metal_door/metal_door-90"}
+		{"predicate": {"custom_model_data":490}, "model":"builds/metal_door/metal_door-90"},
+
+		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
+		{"predicate": {"custom_model_data":701}, "model":"vehicles/copter_head"}
 	]
 }
