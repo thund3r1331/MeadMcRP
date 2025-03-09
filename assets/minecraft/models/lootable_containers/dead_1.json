@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "lootables/player_sleeper",
-		"particle": "lootables/player_sleeper"
+		"0": "lootables/player_dead",
+		"particle": "lootables/player_dead"
 	},
 	"elements": [
 		{

@@ -59,6 +59,11 @@
 		{ "predicate": { "custom_model_data": 72 }, "model": "guns/assault_rifle/assault_rifle_nomercy"},
 		{ "predicate": { "custom_model_data": 73 }, "model": "guns/assault_rifle/assault_rifle_nomercy-zoom"},
 
+		{ "predicate": { "custom_model_data": 100 }, "model": "lootable_containers/sleeper_1"},
+		{ "predicate": { "custom_model_data": 101 }, "model": "lootable_containers/sleeper_2"},
+		{ "predicate": { "custom_model_data": 102 }, "model": "lootable_containers/dead_1"},
+		{ "predicate": { "custom_model_data": 103 }, "model": "lootable_containers/dead_2"},
+
 		{ "predicate": { "custom_model_data": 201 }, "model": "tools/metal_pickaxe"},
 		{ "predicate": { "custom_model_data": 202 }, "model": "tools/metal_axe"},
 
