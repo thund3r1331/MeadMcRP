@@ -71,6 +71,13 @@
 		{ "predicate": { "custom_model_data": 301 }, "model": "lootbox_models/oil_barrel"},
 		{ "predicate": { "custom_model_data": 302 }, "model": "lootbox_models/white_barrel"},
 		{ "predicate": { "custom_model_data": 303 }, "model": "lootbox_models/diesel_barrel"},
+		{ "predicate": { "custom_model_data": 304 }, "model": "lootbox_models/common_crate"},
+		{ "predicate": { "custom_model_data": 305 }, "model": "lootbox_models/elite_crate"},
+		{ "predicate": { "custom_model_data": 306 }, "model": "lootbox_models/food_crate"},
+		{ "predicate": { "custom_model_data": 307 }, "model": "lootbox_models/medical_crate"},
+		{ "predicate": { "custom_model_data": 308 }, "model": "lootbox_models/military_crate"},
+		{ "predicate": { "custom_model_data": 309 }, "model": "lootbox_models/primitive_crate"},
+		{ "predicate": { "custom_model_data": 310 }, "model": "lootbox_models/tool_crate"},
 
 		{ "predicate": { "custom_model_data": 350 }, "model": "pickable_models/mushroom"},
 		{ "predicate": { "custom_model_data": 351 }, "model": "pickable_models/pumpkin"},
