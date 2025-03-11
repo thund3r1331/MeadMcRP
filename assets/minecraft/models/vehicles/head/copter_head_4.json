@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "vehicles/head/copter_head",
+	"texture_size": [64, 64],
+	"display": {
+		"head": {
+			"rotation": [0, 100, 0],
+			"translation": [0.5, -8, 10],
+			"scale": [3, 2, 3]
+		}
+	}
+}

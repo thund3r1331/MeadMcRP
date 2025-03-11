@@ -88,6 +88,9 @@
 		{ "predicate": { "custom_model_data": 355 }, "model": "pickable_models/rock_sulfur"},
 		{ "predicate": { "custom_model_data": 356 }, "model": "pickable_models/rock_iron"},
 
+		{ "predicate": { "custom_model_data": 357 }, "model": "pickable_models/supply_grenade.default"},
+		{ "predicate": { "custom_model_data": 358 }, "model": "pickable_models/supply_grenade"},
+
 		{"predicate": {"custom_model_data":400}, "model":"builds/metal_door/metal_door-0"},
 		{"predicate": {"custom_model_data":401}, "model":"builds/metal_door/metal_door-1"},
 		{"predicate": {"custom_model_data":402}, "model":"builds/metal_door/metal_door-2"},
@@ -181,6 +184,13 @@
 		{"predicate": {"custom_model_data":490}, "model":"builds/metal_door/metal_door-90"},
 
 		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
-		{"predicate": {"custom_model_data":701}, "model":"vehicles/copter_head"}
+		{"predicate": {"custom_model_data":701}, "model":"vehicles/head/copter_head"},
+		{"predicate": {"custom_model_data":702}, "model":"vehicles/head/copter_head_1"},
+		{"predicate": {"custom_model_data":703}, "model":"vehicles/head/copter_head_2"},
+		{"predicate": {"custom_model_data":704}, "model":"vehicles/head/copter_head_3"},
+		{"predicate": {"custom_model_data":705}, "model":"vehicles/head/copter_head_4"},
+		{"predicate": {"custom_model_data":706}, "model":"vehicles/head/copter_head_5"},
+		{"predicate": {"custom_model_data":707}, "model":"vehicles/head/copter_head_6"},
+		{"predicate": {"custom_model_data":708}, "model":"vehicles/head/copter_head_7"}
 	]
 }

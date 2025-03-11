@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "vehicles/gray_wing",
+		"1": "vehicles/yellow_wing",
+		"particle": "vehicles/gray_wing"
+	},
+	"elements": [
+		{
+			"from": [6.75, 20.5, -16],
+			"to": [8.75, 20.5, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.75, 20.5, -3]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 12, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.5, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 12, 0], "texture": "#0"},
+				"up": {"uv": [0.5, 12, 0, 0], "texture": "#0"},
+				"down": {"uv": [1, 0, 0.5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.75, 20.25, -16],
+			"to": [10, 20.25, -9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 20.25, -16]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 7, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 7, 0], "texture": "#1"},
+				"up": {"uv": [4, 7, 0, 0], "texture": "#1"},
+				"down": {"uv": [8, 0, 4, 7], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.75, 20.25, 25],
+			"to": [10, 20.25, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 20.25, 25]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 7, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 7, 0], "texture": "#1"},
+				"up": {"uv": [4, 14, 0, 7], "texture": "#1"},
+				"down": {"uv": [8, 7, 4, 14], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0.5, -8, 6.25],
+			"scale": [3, 2, 3]
+		}
+	}
+}
