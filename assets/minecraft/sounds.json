@@ -163,5 +163,25 @@
 		"sounds":[
 			"hit/fresh/stonehitwood"
 		]
+	},
+	"hit.headshot":{
+		"sounds":[
+			"hit/headshot"
+		]
+	},
+	"hit.marker":{
+		"sounds":[
+			"hit/hitmarker"
+		]
+	},
+	"guns.assault_rifle.distant":{
+		"sounds":[
+			"weapon/attack-distant"
+		]
+	},
+	"guns.assault_rifle.far":{
+		"sounds":[
+			"weapon/attack-far-distant"
+		]
 	}
 }
