@@ -1226,6 +1226,23 @@
                 {"predicate": {"custom_model_data": 1562 }, "model":"icons/amount/ammo_shotgun/61"},
                 {"predicate": {"custom_model_data": 1563 }, "model":"icons/amount/ammo_shotgun/62"},
                 {"predicate": {"custom_model_data": 1564 }, "model":"icons/amount/ammo_shotgun/63"},
-                {"predicate": {"custom_model_data": 1565 }, "model":"icons/amount/ammo_shotgun/64"}
+                {"predicate": {"custom_model_data": 1565 }, "model":"icons/amount/ammo_shotgun/64"},
+
+                {"predicate": {"custom_model_data": 1566 }, "model":"icons/amount/rifle_semiauto/1"},
+                {"predicate": {"custom_model_data": 1567 }, "model":"icons/amount/rifle_semiauto/2"},
+                {"predicate": {"custom_model_data": 1568 }, "model":"icons/amount/rifle_semiauto/3"},
+                {"predicate": {"custom_model_data": 1569 }, "model":"icons/amount/rifle_semiauto/4"},
+                {"predicate": {"custom_model_data": 1570 }, "model":"icons/amount/rifle_semiauto/5"},
+                {"predicate": {"custom_model_data": 1571 }, "model":"icons/amount/rifle_semiauto/6"},
+                {"predicate": {"custom_model_data": 1572 }, "model":"icons/amount/rifle_semiauto/7"},
+                {"predicate": {"custom_model_data": 1573 }, "model":"icons/amount/rifle_semiauto/8"},
+                {"predicate": {"custom_model_data": 1574 }, "model":"icons/amount/rifle_semiauto/9"},
+                {"predicate": {"custom_model_data": 1575 }, "model":"icons/amount/rifle_semiauto/10"},
+                {"predicate": {"custom_model_data": 1576 }, "model":"icons/amount/rifle_semiauto/11"},
+                {"predicate": {"custom_model_data": 1577 }, "model":"icons/amount/rifle_semiauto/12"},
+                {"predicate": {"custom_model_data": 1578 }, "model":"icons/amount/rifle_semiauto/13"},
+                {"predicate": {"custom_model_data": 1579 }, "model":"icons/amount/rifle_semiauto/14"},
+                {"predicate": {"custom_model_data": 1580 }, "model":"icons/amount/rifle_semiauto/15"},
+                {"predicate": {"custom_model_data": 1581 }, "model":"icons/amount/rifle_semiauto/16"}
 	]
 }

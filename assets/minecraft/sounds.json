@@ -81,7 +81,7 @@
 	},
 	"assault_rifle.shot":{
 		"sounds":[
-			"guns/assault_rifle/shot"
+			"weapon/ak/ak_shot"
 		]
 	},
 	"small_box.open":{
@@ -176,12 +176,37 @@
 	},
 	"guns.assault_rifle.distant":{
 		"sounds":[
-			"weapon/attack-distant"
+			"weapon/ak/attack-distant"
 		]
 	},
 	"guns.assault_rifle.far":{
 		"sounds":[
-			"weapon/attack-far-distant"
+			"weapon/ak/attack-far-distant"
+		]
+	},
+	"guns.semi_auto_rifle.shoot":{
+		"sounds":[
+			"weapon/semiautorifle/semi_auto_shoot"
+		]
+	},
+	"guns.semi_auto_rifle.shoot_distant":{
+		"sounds":[
+			"weapon/semiautorifle/semi_auto_shoot_far"
+		]
+	},
+	"guns.semi_auto_rifle.reload_start":{
+		"sounds":[
+			"weapon/semiautorifle/semi_auto_reload_start"
+		]
+	},
+	"guns.semi_auto_rifle.reload":{
+		"sounds":[
+			"weapon/semiautorifle/semi_auto_reload"
+		]
+	},
+	"guns.semi_auto_rifle.reload_end":{
+		"sounds":[
+			"weapon/semiautorifle/semi_auto_reload_end"
 		]
 	}
 }
