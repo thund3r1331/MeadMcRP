@@ -1,6 +1,6 @@
 {
 	"credit": "Created-by-@adon.qh",
-	"parent": "guns/assault_rifle",
+	"parent": "guns/assault_rifle/assault_rifle",
 	"texture_size": [128, 128],
 	"display": {
 		"firstperson_righthand": {
