@@ -2,7 +2,7 @@
 	"credit": "Created-by-@adon.qh",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "guns/semi-auto_rifle",
+		"0": "guns/semi-auto_rifle/semi-auto_rifle",
 		"1": "guns/hands/hand_wide"
 	},
 	"elements": [
