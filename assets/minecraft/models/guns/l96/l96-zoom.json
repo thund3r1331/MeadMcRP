@@ -1,6 +1,6 @@
 {
 	"credit": "Created-by-@adon.qh",
-	"parent": "guns/l96",
+	"parent": "guns/l96/l96",
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"display": {
