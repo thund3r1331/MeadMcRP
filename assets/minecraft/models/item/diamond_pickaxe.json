@@ -183,7 +183,6 @@
 		{"predicate": {"custom_model_data":489}, "model":"builds/metal_door/metal_door-89"},
 		{"predicate": {"custom_model_data":490}, "model":"builds/metal_door/metal_door-90"},
 
-		{"predicate": {"custom_model_data":699}, "model":"vehicles/copter_hands"},
 		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
 		{"predicate": {"custom_model_data":701}, "model":"vehicles/head/copter_head"},
 		{"predicate": {"custom_model_data":702}, "model":"vehicles/head/copter_head_1"},
