@@ -58,6 +58,8 @@
 		{ "predicate": { "custom_model_data": 71 }, "model": "guns/assault_rifle/assault_rifle-zoom"},
 		{ "predicate": { "custom_model_data": 72 }, "model": "guns/assault_rifle/assault_rifle_nomercy"},
 		{ "predicate": { "custom_model_data": 73 }, "model": "guns/assault_rifle/assault_rifle_nomercy-zoom"},
+		{ "predicate": { "custom_model_data": 74 }, "model": "guns/assault_rifle/assault_rifle_redemption"},
+		{ "predicate": { "custom_model_data": 75 }, "model": "guns/assault_rifle/assault_rifle_redemption-zoom"},
 
 		{ "predicate": { "custom_model_data": 100 }, "model": "lootable_containers/sleeper_1"},
 		{ "predicate": { "custom_model_data": 101 }, "model": "lootable_containers/sleeper_2"},
