@@ -53,6 +53,7 @@
 		{"predicate": { "custom_model_data": 46 }, "model": "builds/sleeping_bag"},
 
 		{ "predicate": { "custom_model_data": 47 }, "model": "builds/boxes/defaultbox"},
+		{ "predicate": { "custom_model_data": 48 }, "model": "builds/camp_fire"},
 
 		{ "predicate": { "custom_model_data": 50 }, "model": "lootbox_models/supply_crate"},
 		{ "predicate": { "custom_model_data": 51 }, "model": "lootbox_models/supply_crate_parashute"},
