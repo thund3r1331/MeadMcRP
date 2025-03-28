@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builds/camp_fire/camp_fire",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "wiew/blue",
+		"particle": "wiew/blue"
+	}
+}
