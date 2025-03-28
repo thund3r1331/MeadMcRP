@@ -1,0 +1,155 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "builds/garage_door-1",
+		"particle": "builds/garage_door"
+	},
+	"elements": [
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [8, 28.71014, 4.87463],
+			"to": [31.995, 30.62588, 9.49963],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"north": {"uv": [0, 0, 11.968, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.234, 1], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [11.968, 1, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [8, 28.70926, 4.875],
+			"to": [31.995, 30.625, 9.495],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"north": {"uv": [0, 1, 11.968, 2], "texture": "#1"},
+				"east": {"uv": [0, 1, 0.234, 2], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [11.968, 2, 0, 1], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [8, 27.35551, 6.22926],
+			"to": [31.995, 31.98051, 8.145],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"east": {"uv": [0, 2, 0.234, 3], "texture": "#1"},
+				"down": {"uv": [11.968, 3, 0, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [8, 27.35463, 6.22963],
+			"to": [31.995, 31.97963, 8.14537],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"east": {"uv": [0, 3, 0.234, 4], "texture": "#1"},
+				"up": {"uv": [11.968, 4, 0, 3], "texture": "#1"},
+				"down": {"uv": [11.968, 4, 0, 3], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [8, 30.50463, 8.1496],
+			"to": [31.995, 31.97963, 9.51534],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"east": {"uv": [0, 3, 0.234, 4], "texture": "#1"},
+				"south": {"uv": [11.968, 4, 0, 3], "texture": "#1"},
+				"up": {"uv": [11.968, 2, 0, 1], "texture": "#1"},
+				"down": {"uv": [11.968, 4, 0, 3], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [-15.995, 28.71014, 4.87463],
+			"to": [8, 30.62588, 9.49963],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"north": {"uv": [0, 4, 11.968, 5], "texture": "#1"},
+				"south": {"uv": [11.968, 5, 0, 4], "texture": "#1"},
+				"west": {"uv": [11.734, 4, 11.968, 5], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [-15.995, 28.70926, 4.875],
+			"to": [8, 30.625, 9.495],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"north": {"uv": [0, 5, 11.968, 6], "texture": "#1"},
+				"south": {"uv": [11.968, 6, 0, 5], "texture": "#1"},
+				"west": {"uv": [11.734, 5, 11.968, 6], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [-15.995, 27.35551, 6.22926],
+			"to": [8, 31.98051, 8.145],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"west": {"uv": [11.734, 6, 11.968, 7], "texture": "#1"},
+				"down": {"uv": [11.968, 7, 0, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [-15.995, 27.35463, 6.22963],
+			"to": [8, 31.97963, 8.14537],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"west": {"uv": [11.734, 7, 11.968, 8], "texture": "#1"},
+				"up": {"uv": [11.968, 8, 0, 7], "texture": "#1"},
+				"down": {"uv": [11.968, 8, 0, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [-15.995, 30.50463, 8.1496],
+			"to": [8, 31.97963, 9.51534],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 29.66713, 7.18625]},
+			"faces": {
+				"south": {"uv": [11.968, 8, 0, 7], "texture": "#1"},
+				"west": {"uv": [11.734, 7, 11.968, 8], "texture": "#1"},
+				"up": {"uv": [11.968, 6, 0, 5], "texture": "#1"},
+				"down": {"uv": [11.968, 8, 0, 7], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"translation": [0, -4.8, -1.75],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "Garage-Door",
+			"origin": [31.5, 29.66713, 7.1875],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+		}
+	]
+}
