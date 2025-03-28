@@ -98,6 +98,8 @@
 		{ "predicate": { "custom_model_data": 357 }, "model": "tools/supply_grenade.default"},
 		{ "predicate": { "custom_model_data": 358 }, "model": "tools/supply_grenade"},
 
+		{ "predicate": { "custom_model_data": 360 }, "model": "guns/bow/bow"},
+
 		{"predicate": {"custom_model_data":400}, "model":"builds/metal_door/metal_door-0"},
 		{"predicate": {"custom_model_data":401}, "model":"builds/metal_door/metal_door-1"},
 		{"predicate": {"custom_model_data":402}, "model":"builds/metal_door/metal_door-2"},
