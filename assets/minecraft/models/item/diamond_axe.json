@@ -124,6 +124,7 @@
 
 		{"predicate": {"custom_model_data": 110 }, "model":"icons/garagedoor"},
 		{"predicate": {"custom_model_data": 111 }, "model":"icons/rifle_ak_no-mercy"},
+		{"predicate": {"custom_model_data": 112 }, "model":"icons/no_mercy_ak_lock"},
 	
 		{"predicate": {"custom_model_data": 500 }, "model":"icons/amount/metalspring/2"},
 		{"predicate": {"custom_model_data": 501 }, "model":"icons/amount/metalspring/3"},
