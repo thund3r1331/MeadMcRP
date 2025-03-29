@@ -121,6 +121,8 @@
 		{"predicate": {"custom_model_data": 107 }, "model":"icons/gray_metal"},
 		{"predicate": {"custom_model_data": 108 }, "model":"icons/gray_hqm"},
 		{"predicate": {"custom_model_data": 109 }, "model":"icons/gray_remove"},
+
+		{"predicate": {"custom_model_data": 110 }, "model":"icons/garagedoor"},
 	
 		{"predicate": {"custom_model_data": 500 }, "model":"icons/amount/metalspring/2"},
 		{"predicate": {"custom_model_data": 501 }, "model":"icons/amount/metalspring/3"},
