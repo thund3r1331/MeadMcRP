@@ -115,6 +115,48 @@
 				"up": {"uv": [11.968, 6, 0, 5], "texture": "#1"},
 				"down": {"uv": [11.968, 8, 0, 7], "texture": "#1"}
 			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [-16, 7.25, 8.5],
+			"to": [32, 30.5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-16, 7.225, 6.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 12, 11.625], "texture": "#particle"},
+				"east": {"uv": [0.0125, 5.8125, 0.1375, 11.625], "texture": "#particle"},
+				"south": {"uv": [12, 0, 0, 5.8125], "texture": "#particle"},
+				"west": {"uv": [11.875, 5.825, 12, 11.6375], "texture": "#particle"},
+				"up": {"uv": [12, 0, 0, 0.125], "texture": "#particle"},
+				"down": {"uv": [12, 11.5, 0, 11.625], "texture": "#particle"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [-16, 9.75, 8],
+			"to": [32, 13.25, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 9.5, 8.5]},
+			"faces": {
+				"north": {"uv": [0, 10.125, 12, 11], "texture": "#particle"},
+				"east": {"uv": [0, 10.125, 0.125, 11], "texture": "#particle"},
+				"south": {"uv": [12, 10.125, 0, 11], "texture": "#particle"},
+				"west": {"uv": [11.875, 10.125, 12, 11], "texture": "#particle"},
+				"up": {"uv": [12, 10.125, 0, 10.25], "texture": "#particle"},
+				"down": {"uv": [12, 10.875, 0, 11], "texture": "#particle"}
+			}
+		},
+		{
+			"name": "Created-by-@adon.qh",
+			"from": [-16, 18.25, 8],
+			"to": [-6, 25.75, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 18, 8.5]},
+			"faces": {
+				"north": {"uv": [9.5, 7, 12, 8.875], "texture": "#particle"},
+				"east": {"uv": [9.5, 7, 9.625, 8.875], "texture": "#particle"},
+				"south": {"uv": [12, 7, 9.5, 8.875], "texture": "#particle"},
+				"west": {"uv": [11.875, 7, 12, 8.875], "texture": "#particle"},
+				"up": {"uv": [12, 7, 9.5, 7.125], "texture": "#particle"},
+				"down": {"uv": [12, 8.75, 9.5, 8.875], "texture": "#particle"}
+			}
 		}
 	],
 	"display": {
@@ -150,6 +192,9 @@
 			"origin": [31.5, 29.66713, 7.1875],
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-		}
+		},
+		10,
+		11,
+		12
 	]
 }
