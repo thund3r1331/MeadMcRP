@@ -1,18 +1,44 @@
 {
-	"credit": "Created by thund3r1331,skin-cletusthedigger",
-	"parent": "guns/assault_rifle/assault_rifle_nomercy",
+	"credit": "Created-by-@adon.qh",
+	"parent": "guns/assault_rifle/assault_rifle-reload",
 	"texture_size": [128, 128],
+	"textures": {
+		"0": "guns/assault_rifle/assault_rifle_nomercy",
+		"1": "guns/hands/hand_wide",
+		"particle": "guns/assault_rifle/assault_rifle_nomercy"
+	},
 	"display": {
-        "firstperson_righthand": {
-            "rotation": [2, 0, 0],
-            "translation": [-5.3825, 17.7325, 48],
-            "scale": [4, 4, 4]
-        },
-        "firstperson_lefthand": {
-            "rotation": [2, 0, 0],
-            "translation": [-12.52925, 17.7325, 48],
-            "scale": [4, 4, 4]
-        }
-
+		"thirdperson_righthand": {
+			"rotation": [180, 0, 180],
+			"translation": [0, 1.125, 4],
+			"scale": [0.675, 0.675, 0.675]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, 0, 180],
+			"translation": [0, 1.125, 4],
+			"scale": [0.675, 0.675, 0.675]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -24],
+			"translation": [2, 16, 46.65],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 24],
+			"translation": [-19.825, 16, 46.65],
+			"scale": [4, 4, 4]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
 	}
 }
