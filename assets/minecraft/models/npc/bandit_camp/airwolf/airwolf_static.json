@@ -1,15 +1,17 @@
 {
 	"credit": "Made with Blockbench",
-	"texture_size": [64, 64],
+	"texture_size": [32, 32],
 	"textures": {
 		"0": "entity/skins/Man_Black_h",
-		"particle": "models/armor/leather_layer_1"
+		"2": "models/armor/iron_layer_1",
+		"particle": "models/armor/gold_layer_1"
 	},
 	"elements": [
 		{
 			"name": "head",
-			"from": [4, 23.5, 4],
-			"to": [12, 31.5, 12],
+			"from": [4, 22.5, 4],
+			"to": [12, 30.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
 			"faces": {
 				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
 				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
@@ -20,9 +22,24 @@
 			}
 		},
 		{
+			"name": "helmet",
+			"from": [3.96, 22.46, 3.96],
+			"to": [12.04, 30.54, 12.04],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.08, -1.275, -0.08]},
+			"faces": {
+				"north": {"uv": [4, 4, 2, 8], "texture": "#particle"},
+				"east": {"uv": [0, 4, 2, 8], "texture": "#particle"},
+				"south": {"uv": [8, 8, 6, 4], "texture": "#particle"},
+				"west": {"uv": [4, 4, 6, 8], "texture": "#particle"},
+				"up": {"uv": [4, 4, 2, 0], "texture": "#particle"},
+				"down": {"uv": [6, 4, 4, 0], "texture": "#particle"}
+			}
+		},
+		{
 			"name": "body",
-			"from": [4, 11.5, 6],
-			"to": [12, 23.5, 10],
+			"from": [4, 10.5, 6],
+			"to": [12, 22.5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
 			"faces": {
 				"north": {"uv": [5, 5, 7, 7.98], "texture": "#0"},
 				"east": {"uv": [4, 5, 5, 8], "texture": "#0"},
@@ -33,10 +50,24 @@
 			}
 		},
 		{
+			"name": "torso",
+			"from": [3.96, 10.44, 5.98],
+			"to": [12.04, 22.56, 10.02],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.08, -1.175, -0.08]},
+			"faces": {
+				"north": {"uv": [5, 10, 7, 16], "texture": "#2"},
+				"east": {"uv": [4, 10, 5, 16], "texture": "#2"},
+				"south": {"uv": [8, 10, 10, 16], "texture": "#2"},
+				"west": {"uv": [7, 10, 8, 16], "texture": "#2"},
+				"up": {"uv": [7, 10, 5, 8], "texture": "#2"},
+				"down": {"uv": [9, 8, 7, 10], "texture": "#2"}
+			}
+		},
+		{
 			"name": "left_arm_high",
-			"from": [0, 17.5, 6],
-			"to": [4, 23.5, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 6, 0]},
+			"from": [0, 16.5, 6],
+			"to": [4, 22.5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 5, 0]},
 			"faces": {
 				"north": {"uv": [9, 13, 10, 14.5], "texture": "#0"},
 				"east": {"uv": [8, 13, 9, 14.5], "texture": "#0"},
@@ -48,8 +79,9 @@
 		},
 		{
 			"name": "left_arm_down",
-			"from": [0, 11.5, 6],
-			"to": [4, 17.5, 10],
+			"from": [0, 10.5, 6],
+			"to": [4, 16.5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
 			"faces": {
 				"north": {"uv": [9, 14.5, 10, 16], "texture": "#0"},
 				"east": {"uv": [8, 14.5, 9, 16], "texture": "#0"},
@@ -61,9 +93,9 @@
 		},
 		{
 			"name": "right_arm",
-			"from": [12, 11.5, 6],
-			"to": [16, 17.5, 10],
-			"rotation": {"angle": 0, "axis": "x", "origin": [14, 14.5, 8]},
+			"from": [12, 10.5, 6],
+			"to": [16, 16.5, 10],
+			"rotation": {"angle": 0, "axis": "x", "origin": [14, 13.5, 8]},
 			"faces": {
 				"north": {"uv": [11, 6.5, 12, 8], "texture": "#0"},
 				"east": {"uv": [10, 6.5, 11, 8], "texture": "#0"},
@@ -75,8 +107,9 @@
 		},
 		{
 			"name": "right_arm",
-			"from": [12, 17.5, 6],
-			"to": [16, 23.5, 10],
+			"from": [12, 16.5, 6],
+			"to": [16, 22.5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
 			"faces": {
 				"north": {"uv": [11, 5, 12, 6.5], "texture": "#0"},
 				"east": {"uv": [10, 5, 11, 6.5], "texture": "#0"},
@@ -88,8 +121,9 @@
 		},
 		{
 			"name": "left_leg",
-			"from": [4, -0.5, 6],
-			"to": [8, 11.5, 10],
+			"from": [4, -1.5, 6],
+			"to": [8, 10.5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
 			"faces": {
 				"north": {"uv": [5, 13, 6, 16], "texture": "#0"},
 				"east": {"uv": [4, 13, 5, 16], "texture": "#0"},
@@ -101,8 +135,9 @@
 		},
 		{
 			"name": "right_leg",
-			"from": [8, -0.5, 6],
-			"to": [12, 11.5, 10],
+			"from": [8, -1.5, 6],
+			"to": [12, 10.5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
 			"faces": {
 				"north": {"uv": [1, 5, 2, 8], "texture": "#0"},
 				"east": {"uv": [0, 5, 1, 8], "texture": "#0"},
@@ -118,33 +153,43 @@
 			"name": "npc",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "head",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [0]
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [0, 1]
 				},
 				{
 					"name": "body",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [1]
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [2, 3]
 				},
 				{
 					"name": "l_arm",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [2, 3]
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [4, 5]
 				},
 				{
 					"name": "r_arm",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [4, 5]
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [6, 7]
 				},
-				6,
-				7
+				8,
+				9
 			]
 		}
 	]
