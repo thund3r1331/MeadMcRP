@@ -208,6 +208,10 @@
 		{"predicate": {"custom_model_data":495}, "model":"builds/garage/garage_door-2"},
 		{"predicate": {"custom_model_data":496}, "model":"builds/garage/garage_door-3"},
 
+		{"predicate": {"custom_model_data":510}, "model":"guns/semi-auto_rifle/semi-auto_rifle"},
+		{"predicate": {"custom_model_data":511}, "model":"guns/semi-auto_rifle/semi-auto_rifle-reload"},
+		{"predicate": {"custom_model_data":512}, "model":"guns/semi-auto_rifle/semi-auto_rifle-zoom"},
+
 		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
 		{"predicate": {"custom_model_data":701}, "model":"vehicles/head/copter_head"},
 		{"predicate": {"custom_model_data":702}, "model":"vehicles/head/copter_head_1"},
