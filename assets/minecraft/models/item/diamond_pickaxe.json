@@ -69,6 +69,10 @@
 		{ "predicate": { "custom_model_data": 77 }, "model": "guns/assault_rifle/assault_rifle_redemption-zoom"},
 		{ "predicate": { "custom_model_data": 78 }, "model": "guns/assault_rifle/assault_rifle_redemption-reload"},
 
+		{ "predicate": { "custom_model_data": 82 }, "model": "guns/l96/l96"},
+		{ "predicate": { "custom_model_data": 83 }, "model": "guns/l96/l96-zoom"},
+		{ "predicate": { "custom_model_data": 84 }, "model": "guns/l96/l96-reload"},
+
 		{ "predicate": { "custom_model_data": 100 }, "model": "lootable_containers/sleeper_1"},
 		{ "predicate": { "custom_model_data": 101 }, "model": "lootable_containers/sleeper_2"},
 		{ "predicate": { "custom_model_data": 102 }, "model": "lootable_containers/dead_1"},
