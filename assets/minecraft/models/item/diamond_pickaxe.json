@@ -45,19 +45,19 @@
 		{ "predicate": { "custom_model_data": 43 }, "model": "builds/small_crate_blue"},
 		{ "predicate": { "custom_model_data": 44 }, "model": "builds/small_crate_red"},
 
-		{ "predicate": { "custom_model_data": 42 }, "model": "holograms/workbench_level_1_blue"},
-		{ "predicate": { "custom_model_data": 43 }, "model": "holograms/workbench_level_2_blue"},
-		{ "predicate": { "custom_model_data": 44 }, "model": "holograms/workbench_level_3_blue"},
+		{ "predicate": { "custom_model_data": 45 }, "model": "holograms/workbench_level_1_blue"},
+		{ "predicate": { "custom_model_data": 46 }, "model": "holograms/workbench_level_2_blue"},
+		{ "predicate": { "custom_model_data": 47 }, "model": "holograms/workbench_level_3_blue"},
 
-		{ "predicate": { "custom_model_data": 45 }, "model": "holograms/wardrobe_red"},
-		{"predicate": { "custom_model_data": 46 }, "model": "builds/sleeping_bag"},
+		{ "predicate": { "custom_model_data": 48 }, "model": "holograms/wardrobe_red"},
+		{"predicate": { "custom_model_data": 49 }, "model": "builds/sleeping_bag"},
 
-		{ "predicate": { "custom_model_data": 47 }, "model": "builds/camp_fire/camp_fire"},
-		{ "predicate": { "custom_model_data": 48 }, "model": "builds/camp_fire/camp_fire_red"},	
-		{ "predicate": { "custom_model_data": 49 }, "model": "builds/camp_fire/camp_fire_blue"},
+		{ "predicate": { "custom_model_data": 50 }, "model": "builds/camp_fire/camp_fire"},
+		{ "predicate": { "custom_model_data": 51 }, "model": "builds/camp_fire/camp_fire_red"},	
+		{ "predicate": { "custom_model_data": 52 }, "model": "builds/camp_fire/camp_fire_blue"},
 
-		{ "predicate": { "custom_model_data": 50 }, "model": "lootbox_models/supply_crate"},
-		{ "predicate": { "custom_model_data": 51 }, "model": "lootbox_models/supply_crate_parashute"},
+		{ "predicate": { "custom_model_data": 53 }, "model": "lootbox_models/supply_crate"},
+		{ "predicate": { "custom_model_data": 54 }, "model": "lootbox_models/supply_crate_parashute"},
 
 		{ "predicate": { "custom_model_data": 70 }, "model": "guns/assault_rifle/assault_rifle"},
 		{ "predicate": { "custom_model_data": 71 }, "model": "guns/assault_rifle/assault_rifle-zoom"},
