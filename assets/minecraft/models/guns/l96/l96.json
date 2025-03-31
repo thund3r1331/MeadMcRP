@@ -4,8 +4,8 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"1": "guns/hands/hand_wide",
-		"2": "guns/l96",
-		"particle": "guns/l96"
+		"2": "guns/l96/l96",
+		"particle": "guns/l96/l96"
 	},
 	"elements": [
 		{
@@ -7376,17 +7376,23 @@
 			"name": "L-96",
 			"origin": [9.65, 6.0625, 15.775],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "bolt-carrier",
 					"origin": [16.04688, 6.47217, 14.04233],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 				},
 				{
 					"name": "magazine",
 					"origin": [4.04688, 5.14715, 10.45601],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
 				},
 				24,
@@ -7726,17 +7732,23 @@
 			"name": "L-96-hand",
 			"origin": [9.65, 6.0625, 15.775],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "bolt-carrier",
 					"origin": [16.04688, 6.47217, 14.04233],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365]
 				},
 				{
 					"name": "magazine",
 					"origin": [4.04688, 5.14715, 10.45601],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [366, 367, 368, 369, 370, 371, 372, 373, 374]
 				},
 				375,

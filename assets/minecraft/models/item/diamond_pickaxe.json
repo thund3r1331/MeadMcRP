@@ -79,6 +79,10 @@
 		{ "predicate": { "custom_model_data": 102 }, "model": "lootable_containers/dead_1"},
 		{ "predicate": { "custom_model_data": 103 }, "model": "lootable_containers/dead_2"},
 
+		{ "predicate": { "custom_model_data": 120 }, "model": "guns/double_barrel_shotgun/double_barrel_shotgun"},
+		{ "predicate": { "custom_model_data": 121 }, "model": "guns/double_barrel_shotgun/double_barrel_shotgun-reload"},
+		{ "predicate": { "custom_model_data": 122 }, "model": "guns/double_barrel_shotgun/double_barrel_shotgun-zoom"},
+
 		{ "predicate": { "custom_model_data": 200 }, "model": "tools/hammer"},
 		{ "predicate": { "custom_model_data": 201 }, "model": "tools/metal_pickaxe"},
 		{ "predicate": { "custom_model_data": 202 }, "model": "tools/metal_axe"},
