@@ -1,0 +1,25 @@
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "guns/revolver/revolver",
+	"texture_size": [128, 128],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0.75, -2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0.75, -2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [4, -180, 0],
+			"translation": [-8.15, 11.23, 46],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-11.5, 13, 44.3],
+			"scale": [4, 4, 4]
+		}
+	}
+}
