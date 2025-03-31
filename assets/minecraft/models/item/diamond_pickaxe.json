@@ -33,7 +33,7 @@
 		{ "predicate": { "custom_model_data": 31 }, "model": "tools/satchel"},
 		{ "predicate": { "custom_model_data": 32 }, "model": "tools/satchel_hand"},
 		{ "predicate": { "custom_model_data": 33 }, "model": "builds/wardrobe"},
-		{ "predicate": { "custom_model_data": 34 }, "model": "builds/large_crate"},
+		{ "predicate": { "custom_model_data": 34 }, "model": "builds/large_crate/large_crate"},
 		{ "predicate": { "custom_model_data": 35 }, "model": "holograms/wardrobe_blue"},
 		{ "predicate": { "custom_model_data": 36 }, "model": "tools/rock"},
 		{ "predicate": { "custom_model_data": 37 }, "model": "holograms/large_crate_blue"},
