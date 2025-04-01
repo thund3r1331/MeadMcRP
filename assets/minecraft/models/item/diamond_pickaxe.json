@@ -59,6 +59,7 @@
 		{ "predicate": { "custom_model_data": 53 }, "model": "lootbox_models/supply_crate"},
 		{ "predicate": { "custom_model_data": 54 }, "model": "lootbox_models/supply_crate_parashute"},
 		{ "predicate": { "custom_model_data": 55 }, "model": "builds/large_crate/vertical_barrel"},
+		{ "predicate": { "custom_model_data": 56 }, "model": "builds/vending_machine"},
 
 		{ "predicate": { "custom_model_data": 70 }, "model": "guns/assault_rifle/assault_rifle"},
 		{ "predicate": { "custom_model_data": 71 }, "model": "guns/assault_rifle/assault_rifle-zoom"},
