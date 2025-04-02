@@ -1251,14 +1251,6 @@
                 {"predicate": {"custom_model_data": 1580 }, "model":"icons/amount/rifle_semiauto/15"},
                 {"predicate": {"custom_model_data": 1581 }, "model":"icons/amount/rifle_semiauto/16"},
 
-                {"predicate": {"custom_model_data": 1582 }, "model":"icons/amount/pistol_revolver/2"},
-                {"predicate": {"custom_model_data": 1583 }, "model":"icons/amount/pistol_revolver/3"},
-                {"predicate": {"custom_model_data": 1584 }, "model":"icons/amount/pistol_revolver/4"},
-                {"predicate": {"custom_model_data": 1585 }, "model":"icons/amount/pistol_revolver/5"},
-                {"predicate": {"custom_model_data": 1586 }, "model":"icons/amount/pistol_revolver/6"},
-                {"predicate": {"custom_model_data": 1587 }, "model":"icons/amount/pistol_revolver/7"},
-                {"predicate": {"custom_model_data": 1588 }, "model":"icons/amount/pistol_revolver/8"},
-
                 {"predicate": {"custom_model_data": 1589 }, "model":"icons/amount/pistol_python/1"},
                 {"predicate": {"custom_model_data": 1590 }, "model":"icons/amount/pistol_python/2"},
                 {"predicate": {"custom_model_data": 1591 }, "model":"icons/amount/pistol_python/3"},
@@ -1395,6 +1387,15 @@
                 {"predicate": {"custom_model_data": 1712 }, "model":"icons/amount/bow_hunting/1"},
 
 		{"predicate": {"custom_model_data": 1713 }, "model":"icons/amount/crossbow/0"},
-		{"predicate": {"custom_model_data": 1714 }, "model":"icons/amount/crossbow/1"}
+		{"predicate": {"custom_model_data": 1714 }, "model":"icons/amount/crossbow/1"},
+
+                {"predicate": {"custom_model_data": 1715 }, "model":"icons/amount/pistol_revolver/1"},
+                {"predicate": {"custom_model_data": 1716 }, "model":"icons/amount/pistol_revolver/2"},
+                {"predicate": {"custom_model_data": 1717 }, "model":"icons/amount/pistol_revolver/3"},
+                {"predicate": {"custom_model_data": 1718 }, "model":"icons/amount/pistol_revolver/4"},
+                {"predicate": {"custom_model_data": 1719 }, "model":"icons/amount/pistol_revolver/5"},
+                {"predicate": {"custom_model_data": 1720 }, "model":"icons/amount/pistol_revolver/6"},
+                {"predicate": {"custom_model_data": 1721 }, "model":"icons/amount/pistol_revolver/7"},
+                {"predicate": {"custom_model_data": 1722 }, "model":"icons/amount/pistol_revolver/8"}
 	]
 }

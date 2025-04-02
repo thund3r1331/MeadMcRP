@@ -208,5 +208,55 @@
 		"sounds":[
 			"weapon/semiautorifle/semi_auto_reload_end"
 		]
+	},
+	"guns.revolver.shot":{
+		"sounds":[
+			"weapon/revolver/revshot"
+		]
+	},
+	"guns.revolver.reload":{
+		"sounds":[
+			"weapon/revolver/revreload"
+		]
+	},
+	"guns.python.shot":{
+		"sounds":[
+			"weapon/python/pythonshot"
+		]
+	},
+	"guns.python.reload":{
+		"sounds":[
+			"weapon/python/pythonreload"
+		]
+	},
+	"guns.thompshon.shot":{
+		"sounds":[
+			"weapon/thompshon/thomshot"
+		]
+	},
+	"guns.thompshon.reload":{
+		"sounds":[
+			"weapon/thompshon/thomreload"
+		]
+	},
+	"guns.smg.shot":{
+		"sounds":[
+			"weapon/smg/smgshot"
+		]
+	},
+	"guns.smg.reload":{
+		"sounds":[
+			"weapon/smg/smgreload"
+		]
+	},
+	"guns.pistol_semi_auto.shot":{
+		"sounds":[
+			"weapon/pistolsemiauto/semishot"
+		]
+	},
+	"guns.pistol_semi_auto.reload":{
+		"sounds":[
+			"weapon/pistolsemiauto/semireload"
+		]
 	}
 }
