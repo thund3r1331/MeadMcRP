@@ -2676,6 +2676,11 @@
 			"translation": [-7, 20.98, 76],
 			"scale": [4, 4, 4]
 		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-11, 20.98, 76],
+			"scale": [4, 4, 4]
+		},
 		"head": {
 			"translation": [0, -8, -3.1],
 			"scale": [0.8, 0.8, 0.8]

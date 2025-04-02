@@ -2649,7 +2649,7 @@
 		{
 			"name": "Created-by-@adon.qh",
 			"from": [7.57332, 3.80728, 23.08994],
-			"to": [9.19582, 4.21228, 23.49494],
+			"to": [9.19582, 4.21228, 23.56994],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [9.39582, 3.94228, 23.19119]},
 			"faces": {
 				"north": {"uv": [4, 4, 0, 16], "rotation": 90, "texture": "#1"},
@@ -2673,6 +2673,11 @@
 			"translation": [61, 17, -3.25],
 			"scale": [4, 4, 4]
 		},
+		"firstperson_lefthand": {
+			"rotation": [4, 74, 48],
+			"translation": [-79, 17, -2.75],
+			"scale": [4, 4, 4]
+		},
 		"head": {
 			"translation": [0, -8, -3.1],
 			"scale": [0.8, 0.8, 0.8]
@@ -2683,8 +2688,6 @@
 			"name": "pipeshotgun",
 			"origin": [8, 9.22983, 14.66122],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -2804,8 +2807,6 @@
 			"name": "pipeshotgun",
 			"origin": [8, 9.22983, 14.66122],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				112,
 				113,
