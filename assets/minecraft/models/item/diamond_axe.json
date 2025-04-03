@@ -1396,6 +1396,9 @@
                 {"predicate": {"custom_model_data": 1719 }, "model":"icons/amount/pistol_revolver/5"},
                 {"predicate": {"custom_model_data": 1720 }, "model":"icons/amount/pistol_revolver/6"},
                 {"predicate": {"custom_model_data": 1721 }, "model":"icons/amount/pistol_revolver/7"},
-                {"predicate": {"custom_model_data": 1722 }, "model":"icons/amount/pistol_revolver/8"}
+                {"predicate": {"custom_model_data": 1722 }, "model":"icons/amount/pistol_revolver/8"},
+
+                {"predicate": {"custom_model_data": 1723 }, "model":"icons/buy-1"},
+                {"predicate": {"custom_model_data": 1724 }, "model":"icons/buy-2"}
 	]
 }
