@@ -1381,8 +1381,6 @@
                 {"predicate": {"custom_model_data": 1708 }, "model":"icons/amount/shotgun_pump/5"},
                 {"predicate": {"custom_model_data": 1709 }, "model":"icons/amount/shotgun_pump/6"},
 
-		{"predicate": {"custom_model_data": 1710 }, "model":"icons/amount/pistol_eoka/1"},
-
                 {"predicate": {"custom_model_data": 1711 }, "model":"icons/amount/bow_hunting/0"},
                 {"predicate": {"custom_model_data": 1712 }, "model":"icons/amount/bow_hunting/1"},
 
@@ -1399,6 +1397,9 @@
                 {"predicate": {"custom_model_data": 1722 }, "model":"icons/amount/pistol_revolver/8"},
 
                 {"predicate": {"custom_model_data": 1723 }, "model":"icons/buy-1"},
-                {"predicate": {"custom_model_data": 1724 }, "model":"icons/buy-2"}
+                {"predicate": {"custom_model_data": 1724 }, "model":"icons/buy-2"},
+
+		{"predicate": {"custom_model_data": 1725 }, "model":"icons/amount/pistol_eoka/0"},
+		{"predicate": {"custom_model_data": 1726 }, "model":"icons/amount/pistol_eoka/1"}
 	]
 }

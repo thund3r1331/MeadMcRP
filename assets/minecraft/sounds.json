@@ -304,6 +304,11 @@
 			"weapon/shotgun_pump/pumpshot"
 		]
 	},
+	"guns.shotgun_pump.reload":{
+		"sounds":[
+			"weapon/shotgun_pump/pumpreload"
+		]
+	},
 	"guns.eoka.shot":{
 		"sounds":[
 			"weapon/eoka/eokashot"
