@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/texture",
-		"particle": "block/texture"
+		"0": "pickables/hemp",
+		"particle": "pickables/hemp"
 	},
 	"elements": [
 		{
@@ -58,5 +58,11 @@
 				"down": {"uv": [2.5, 0, 0, 2.5], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"translation": [0, -11.5, 0],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
 }
