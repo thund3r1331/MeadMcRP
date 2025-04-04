@@ -258,5 +258,15 @@
 		"sounds":[
 			"weapon/pistolsemiauto/semireload"
 		]
+	},
+	"guns.nailgun.shot":{
+		"sounds":[
+			"weapon/nailgun/shot"
+		]
+	},
+	"guns.nailgun.reload":{
+		"sounds":[
+			"weapon/nailgun/reload"
+		]
 	}
 }
