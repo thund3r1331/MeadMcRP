@@ -1399,7 +1399,6 @@
 
 		{"predicate": {"custom_model_data": 1726 }, "model":"icons/amount/pistol_eoka/1"},
 
-                {"predicate": {"custom_model_data": 1727 }, "model":"icons/amount/ammo_handmade/1"},
                 {"predicate": {"custom_model_data": 1728 }, "model":"icons/amount/ammo_handmade/2"},
                 {"predicate": {"custom_model_data": 1729 }, "model":"icons/amount/ammo_handmade/3"},
                 {"predicate": {"custom_model_data": 1730 }, "model":"icons/amount/ammo_handmade/4"},
@@ -1464,7 +1463,6 @@
                 {"predicate": {"custom_model_data": 1789 }, "model":"icons/amount/ammo_handmade/63"},
                 {"predicate": {"custom_model_data": 1790 }, "model":"icons/amount/ammo_handmade/64"},
 
-                {"predicate": {"custom_model_data": 1791 }, "model":"icons/amount/ammo_nailgun/1"},
                 {"predicate": {"custom_model_data": 1792 }, "model":"icons/amount/ammo_nailgun/2"},
                 {"predicate": {"custom_model_data": 1793 }, "model":"icons/amount/ammo_nailgun/3"},
                 {"predicate": {"custom_model_data": 1794 }, "model":"icons/amount/ammo_nailgun/4"},

@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "builds/large_crate",
+	"parent": "builds/large_crate/large_crate",
 	"textures": {
 		"1": "wiew/blue",
 		"particle": "wiew/blue"
