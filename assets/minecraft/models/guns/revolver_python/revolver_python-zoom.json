@@ -1,0 +1,30 @@
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "guns/revolver_python/revolver_python",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "guns/revolver-python/revolver_python",
+		"2": "guns/hands/hand",
+		"particle": "guns/hands/hand"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1, -1.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1, -2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-6.2, 12.76, 44.6],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-9.85, 13.76, 45.8],
+			"scale": [4, 4, 4]
+		}
+	}
+}
