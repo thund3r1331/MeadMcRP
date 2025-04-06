@@ -338,5 +338,30 @@
 		"sounds":[
 			"weapon/crossbow/crossbowshot"
 		]
+	},
+	"guns.bow.draw":{
+		"sounds":[
+			"weapon/bow/bow_draw"
+		]
+	},
+	"guns.bow.draw_cancel":{
+		"sounds":[
+			"weapon/bow/bow_draw_cancel"
+		]
+	},
+	"barrel.destroy":{
+		"sounds":[
+			"hit/fresh/breakbarrel"
+		]
+	},
+	"barrel.hit":{
+		"sounds":[
+			"hit/fresh/barrel_hit"
+		]
+	},
+	"tree.fall":{
+		"sounds":[
+			"hit/fresh/tree-fall"
+		]
 	}
 }
