@@ -238,6 +238,8 @@
 		{"predicate": {"custom_model_data":705}, "model":"vehicles/head/copter_head_4"},
 		{"predicate": {"custom_model_data":706}, "model":"vehicles/head/copter_head_5"},
 		{"predicate": {"custom_model_data":707}, "model":"vehicles/head/copter_head_6"},
+		{"predicate": {"custom_model_data":708}, "model":"vehicles/head/copter_head_7"},
+
 		{"predicate": {"custom_model_data":708}, "model":"vehicles/head/copter_head_7"}
 	]
 }
