@@ -363,5 +363,20 @@
 		"sounds":[
 			"hit/fresh/tree-fall"
 		]
+	},
+	"research_table.open":{
+		"sounds":[
+			"interactableobjects/research_table/open"
+		]
+	},
+	"research_table.close":{
+		"sounds":[
+			"interactableobjects/research_table/close"
+		]
+	},
+	"research_table.process":{
+		"sounds":[
+			"interactableobjects/research_table/process"
+		]
 	}
 }
