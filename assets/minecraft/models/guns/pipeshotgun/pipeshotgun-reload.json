@@ -1748,11 +1748,11 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 1.5, -2],
+			"translation": [0, 1.5, -2.75],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 1.5, -2],
+			"translation": [0, 1.5, -2.75],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_righthand": {

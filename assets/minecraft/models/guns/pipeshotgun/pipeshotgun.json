@@ -2664,11 +2664,11 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 1.5, -2],
+			"translation": [0, 1.5, -2.75],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 1.5, -2],
+			"translation": [0, 1.5, -2.75],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_righthand": {
@@ -2691,6 +2691,8 @@
 			"name": "pipeshotgun",
 			"origin": [8, 9.22983, 14.66122],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -2810,6 +2812,8 @@
 			"name": "pipeshotgun",
 			"origin": [8, 9.22983, 14.66122],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				112,
 				113,
