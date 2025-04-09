@@ -15,7 +15,7 @@
 	],
 	"display": {
 		"gui": {
-			"translation": [1, 0, 0]
+			"translation": [1, -2, 0]
 		}
 	}
 }
