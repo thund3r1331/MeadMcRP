@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "guns/thompson/thompson",
+	"ambientocclusion": false,
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "guns/thompson/thompson",
+		"1": "guns/hands/hand",
+		"particle": "guns/thompson/thompson"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1, -1],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1, -1],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-8.3389, 21.68, 58.3],
+			"scale": [4, 4, 2.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-9.75, 21.68, 58.3],
+			"scale": [4, 4, 2.75]
+		}
+	}
+}
