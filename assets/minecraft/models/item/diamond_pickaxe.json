@@ -232,6 +232,10 @@
 		{"predicate": {"custom_model_data":601}, "model":"guns/smg/smg-reload"},
 		{"predicate": {"custom_model_data":602}, "model": "guns/smg/smg-zoom"},
 
+		{"predicate": {"custom_model_data":630}, "model":"guns/thompson/thompson"},
+		{"predicate": {"custom_model_data":631}, "model":"guns/thompson/thompson-reload"},
+		{"predicate": {"custom_model_data":632}, "model": "guns/thompson/thompson-zoom"},
+
 		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
 		{"predicate": {"custom_model_data":701}, "model":"vehicles/head/copter_head"},
 		{"predicate": {"custom_model_data":702}, "model":"vehicles/head/copter_head_1"},
