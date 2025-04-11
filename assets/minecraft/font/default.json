@@ -1023,6 +1023,13 @@
             "height": 256,
             "chars": ["Ω"]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:hud/hud/safe_zone.png",
+	    "ascent": -48,
+            "height": 16,
+            "chars": ["夫"]
+        },
 	{
             "type": "bitmap",
             "file": "minecraft:item/music_disc_blocks.png",
@@ -1172,5 +1179,5 @@
                 "\uF830"
             ]
         }
-    ]
+     ]
 }
