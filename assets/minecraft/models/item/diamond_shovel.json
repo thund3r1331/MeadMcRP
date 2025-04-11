@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/diamond_shovel"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1 }, "model":"icons/tarp"},
+    {"predicate": {"custom_model_data": 2 }, "model":"icons/amount/tarp/2"},
+    {"predicate": {"custom_model_data": 3 }, "model":"icons/amount/tarp/3"},
+    {"predicate": {"custom_model_data": 4 }, "model":"icons/amount/tarp/4"},
+    {"predicate": {"custom_model_data": 5 }, "model":"icons/amount/tarp/5"},
+    {"predicate": {"custom_model_data": 6 }, "model":"icons/amount/tarp/6"},
+    {"predicate": {"custom_model_data": 7 }, "model":"icons/amount/tarp/7"},
+    {"predicate": {"custom_model_data": 8 }, "model":"icons/amount/tarp/8"},
+    {"predicate": {"custom_model_data": 9 }, "model":"icons/amount/tarp/9"},
+    {"predicate": {"custom_model_data": 10 }, "model":"icons/amount/tarp/10"},
+    {"predicate": {"custom_model_data": 11 }, "model":"icons/amount/tarp/11"},
+    {"predicate": {"custom_model_data": 12 }, "model":"icons/amount/tarp/12"},
+    {"predicate": {"custom_model_data": 13 }, "model":"icons/amount/tarp/13"},
+    {"predicate": {"custom_model_data": 14 }, "model":"icons/amount/tarp/14"},
+    {"predicate": {"custom_model_data": 15 }, "model":"icons/amount/tarp/15"},
+    {"predicate": {"custom_model_data": 16 }, "model":"icons/amount/tarp/16"},
+    {"predicate": {"custom_model_data": 17 }, "model":"icons/amount/tarp/17"},
+    {"predicate": {"custom_model_data": 18 }, "model":"icons/amount/tarp/18"},
+    {"predicate": {"custom_model_data": 19 }, "model":"icons/amount/tarp/19"},
+    {"predicate": {"custom_model_data": 20 }, "model":"icons/amount/tarp/20"}
+  ]
+}

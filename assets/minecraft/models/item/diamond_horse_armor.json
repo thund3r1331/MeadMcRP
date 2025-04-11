@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/diamond_horse_armor"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "icons/metalblade"},
+    { "predicate": { "custom_model_data": 2 }, "model": "icons/amount/metalblade/2"},
+    { "predicate": { "custom_model_data": 3 }, "model": "icons/amount/metalblade/3"},
+    { "predicate": { "custom_model_data": 4 }, "model": "icons/amount/metalblade/4"},
+    { "predicate": { "custom_model_data": 5 }, "model": "icons/amount/metalblade/5"},
+    { "predicate": { "custom_model_data": 6 }, "model": "icons/amount/metalblade/6"},
+    { "predicate": { "custom_model_data": 7 }, "model": "icons/amount/metalblade/7"},
+    { "predicate": { "custom_model_data": 8 }, "model": "icons/amount/metalblade/8"},
+    { "predicate": { "custom_model_data": 9 }, "model": "icons/amount/metalblade/9"},
+    { "predicate": { "custom_model_data": 10 }, "model": "icons/amount/metalblade/10"},
+    { "predicate": { "custom_model_data": 11 }, "model": "icons/amount/metalblade/11"},
+    { "predicate": { "custom_model_data": 12 }, "model": "icons/amount/metalblade/12"},
+    { "predicate": { "custom_model_data": 13 }, "model": "icons/amount/metalblade/13"},
+    { "predicate": { "custom_model_data": 14 }, "model": "icons/amount/metalblade/14"},
+    { "predicate": { "custom_model_data": 15 }, "model": "icons/amount/metalblade/15"},
+    { "predicate": { "custom_model_data": 16 }, "model": "icons/amount/metalblade/16"},
+    { "predicate": { "custom_model_data": 17 }, "model": "icons/amount/metalblade/17"},
+    { "predicate": { "custom_model_data": 18 }, "model": "icons/amount/metalblade/18"},
+    { "predicate": { "custom_model_data": 19 }, "model": "icons/amount/metalblade/19"},
+    { "predicate": { "custom_model_data": 20 }, "model": "icons/amount/metalblade/20"}
+  ]
+}

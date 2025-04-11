@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/music_disc_11"
+  },
+  "overrides": [
+		{"predicate": {"custom_model_data": 1 }, "model":"icons/metalspring"},
+		{"predicate": {"custom_model_data": 2 }, "model":"icons/amount/metalspring/2"},
+		{"predicate": {"custom_model_data": 3 }, "model":"icons/amount/metalspring/3"},
+		{"predicate": {"custom_model_data": 4 }, "model":"icons/amount/metalspring/4"},
+		{"predicate": {"custom_model_data": 5 }, "model":"icons/amount/metalspring/5"},
+		{"predicate": {"custom_model_data": 6 }, "model":"icons/amount/metalspring/6"},
+		{"predicate": {"custom_model_data": 7 }, "model":"icons/amount/metalspring/7"},
+		{"predicate": {"custom_model_data": 8 }, "model":"icons/amount/metalspring/8"},
+		{"predicate": {"custom_model_data": 9 }, "model":"icons/amount/metalspring/9"},
+		{"predicate": {"custom_model_data": 10 }, "model":"icons/amount/metalspring/10"},
+		{"predicate": {"custom_model_data": 11 }, "model":"icons/amount/metalspring/11"},
+		{"predicate": {"custom_model_data": 12 }, "model":"icons/amount/metalspring/12"},
+		{"predicate": {"custom_model_data": 13 }, "model":"icons/amount/metalspring/13"},
+		{"predicate": {"custom_model_data": 14 }, "model":"icons/amount/metalspring/14"},
+		{"predicate": {"custom_model_data": 15 }, "model":"icons/amount/metalspring/15"},
+		{"predicate": {"custom_model_data": 16 }, "model":"icons/amount/metalspring/16"},
+		{"predicate": {"custom_model_data": 17 }, "model":"icons/amount/metalspring/17"},
+		{"predicate": {"custom_model_data": 18 }, "model":"icons/amount/metalspring/18"},
+		{"predicate": {"custom_model_data": 19 }, "model":"icons/amount/metalspring/19"},
+		{"predicate": {"custom_model_data": 20 }, "model":"icons/amount/metalspring/20"}
+ ] 
+}

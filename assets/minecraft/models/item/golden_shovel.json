@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/golden_shovel"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1 }, "model":"icons/explosive_satchel"},
+    {"predicate": {"custom_model_data": 2 }, "model":"icons/amount/explosive_satchel/2"},
+    {"predicate": {"custom_model_data": 3 }, "model":"icons/amount/explosive_satchel/3"},
+    {"predicate": {"custom_model_data": 4 }, "model":"icons/amount/explosive_satchel/4"},
+    {"predicate": {"custom_model_data": 5 }, "model":"icons/amount/explosive_satchel/5"},
+    {"predicate": {"custom_model_data": 6 }, "model":"icons/amount/explosive_satchel/6"},
+    {"predicate": {"custom_model_data": 7 }, "model":"icons/amount/explosive_satchel/7"},
+    {"predicate": {"custom_model_data": 8 }, "model":"icons/amount/explosive_satchel/8"},
+    {"predicate": {"custom_model_data": 9 }, "model":"icons/amount/explosive_satchel/9"},
+    {"predicate": {"custom_model_data": 10 }, "model":"icons/amount/explosive_satchel/10"}
+  ]
+}

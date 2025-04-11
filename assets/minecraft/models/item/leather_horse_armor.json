@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/leather_horse_armor"
+  },
+  "overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "icons/gears"},
+		{"predicate": {"custom_model_data": 2 }, "model":"icons/amount/gears/2"},
+		{"predicate": {"custom_model_data": 3 }, "model":"icons/amount/gears/3"},
+		{"predicate": {"custom_model_data": 4 }, "model":"icons/amount/gears/4"},
+		{"predicate": {"custom_model_data": 5 }, "model":"icons/amount/gears/5"},
+		{"predicate": {"custom_model_data": 6 }, "model":"icons/amount/gears/6"},
+		{"predicate": {"custom_model_data": 7 }, "model":"icons/amount/gears/7"},
+		{"predicate": {"custom_model_data": 8 }, "model":"icons/amount/gears/8"},
+		{"predicate": {"custom_model_data": 9 }, "model":"icons/amount/gears/9"},
+		{"predicate": {"custom_model_data": 10 }, "model":"icons/amount/gears/10"},
+		{"predicate": {"custom_model_data": 11 }, "model":"icons/amount/gears/11"},
+		{"predicate": {"custom_model_data": 12 }, "model":"icons/amount/gears/12"},
+		{"predicate": {"custom_model_data": 13 }, "model":"icons/amount/gears/13"},
+		{"predicate": {"custom_model_data": 14 }, "model":"icons/amount/gears/14"},
+		{"predicate": {"custom_model_data": 15 }, "model":"icons/amount/gears/15"},
+		{"predicate": {"custom_model_data": 16 }, "model":"icons/amount/gears/16"},
+		{"predicate": {"custom_model_data": 17 }, "model":"icons/amount/gears/17"},
+		{"predicate": {"custom_model_data": 18 }, "model":"icons/amount/gears/18"},
+		{"predicate": {"custom_model_data": 19 }, "model":"icons/amount/gears/19"},
+		{"predicate": {"custom_model_data": 20 }, "model":"icons/amount/gears/20"}
+ ] 
+}
