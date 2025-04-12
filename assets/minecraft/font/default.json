@@ -934,6 +934,13 @@
         },
         {
             "type": "bitmap",
+            "file": "guis:vending-machine.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": ["脑"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
             "height": -10,
