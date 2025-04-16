@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "guns/semi-auto_pistol/semi-auto_pistol",
+	"display": {
+		"firstperson_lefthand": {
+			"translation": [-1.8715, 0.65, 41],
+			"scale": [4, 4, 2.6]
+		}
+	}
+}
