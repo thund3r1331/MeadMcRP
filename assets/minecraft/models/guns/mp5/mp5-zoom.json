@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "guns/mp5/mp5",
+	"textures": {
+		"1": "guns/hands/hand_wide",
+		"particle": "guns/hands/hand_wide",
+		"mp5": "guns/mp5/mp5"
+	},
+	"display": {
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-9.7, 10.66, 23.6],
+			"scale": [2, 2, 1]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		}
+	}
+}
