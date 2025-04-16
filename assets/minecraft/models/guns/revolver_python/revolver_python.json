@@ -3734,6 +3734,9 @@
 			"rotation": [0, -180, 0],
 			"translation": [-11.9, 12.76, 44.6],
 			"scale": [4, 4, 4]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
 		}
 	},
 	"groups": [
@@ -3741,6 +3744,8 @@
 			"name": "Revolver-Python",
 			"origin": [9, 6.8, 4.05],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -3908,6 +3913,8 @@
 			"name": "Revolver-Python",
 			"origin": [9, 6.8, 4.05],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				160,
 				161,
