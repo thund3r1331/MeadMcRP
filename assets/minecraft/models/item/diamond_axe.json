@@ -79,6 +79,9 @@
 		{"predicate": {"custom_model_data": 85 }, "model":"icons/tools_craft"},
 		{"predicate": {"custom_model_data": 86 }, "model":"icons/food_craft"},
 		{"predicate": {"custom_model_data": 87 }, "model":"icons/items_craft"},
+		{"predicate": {"custom_model_data": 88 }, "model":"icons/clothes_icon"},
+		{"predicate": {"custom_model_data": 89 }, "model":"icons/medicine_icon"},
+		{"predicate": {"custom_model_data": 90 }, "model":"icons/resources_icon"},
 		
 		{"predicate": {"custom_model_data": 92 }, "model":"icons/ammo_rifle_explosive"},
 
