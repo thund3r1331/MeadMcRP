@@ -92,8 +92,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -26, -1],
-			"scale": [2, 2, 2]
+			"translation": [0, -31.5, -1],
+			"scale": [1.65, 1.65, 1.65]
 		}
 	},
 	"groups": [
@@ -101,6 +101,8 @@
 			"name": "steve",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5]
 		}
 	]
