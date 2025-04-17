@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "guns/crossbow/crossbow.hand",
+	"display": {
+		"firstperson_righthand": {
+			"translation": [-15.35, 8.75, 40],
+			"scale": [4, 4, 3]
+		},
+		"firstperson_lefthand": {
+			"translation": [-2.56, 8.75, 40],
+			"scale": [4, 4, 3]
+		}
+	}
+}
