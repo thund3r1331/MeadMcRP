@@ -1179,6 +1179,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/music_disc_chirp.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["好"]
+        },
+        {
+            "type": "bitmap",
             "file": "space:font/space_nosplit.png",
             "ascent": -65536,
             "height": 32767,
