@@ -342,11 +342,11 @@
 		{"predicate": {"custom_model_data":889}, "model":"builds/wooden_door/wooden_door-90"},
 		{"predicate": {"custom_model_data":890}, "model":"builds/wooden_door/wooden_door-91"},
 		
-		{ "predicate": { "custom_model_data": 900 }, "model": "tools/keycard_blue.default" },
-		{ "predicate": { "custom_model_data": 902 }, "model": "tools/keycard_red.default" },
-		{ "predicate": { "custom_model_data": 902 }, "model": "tools/keycard_red" },
-		{ "predicate": { "custom_model_data": 900 }, "model": "tools/keycard_blue" },
-		{ "predicate": { "custom_model_data": 901 }, "model": "tools/keycard_green" },
-		{ "predicate": { "custom_model_data": 902 }, "model": "tools/keycard_red" }
+		{ "predicate": { "custom_model_data": 900 }, "model": "tools/radtown_green_key_card.default" },
+		{ "predicate": { "custom_model_data": 900 }, "model": "tools/radtown_blue_key_card.default" },
+		{ "predicate": { "custom_model_data": 902 }, "model": "tools/radtown_red_key_card.default" },
+		{ "predicate": { "custom_model_data": 903 }, "model": "tools/radtown_blue_key_card" },
+		{ "predicate": { "custom_model_data": 904 }, "model": "tools/radtown_green_key_card" },
+		{ "predicate": { "custom_model_data": 905 }, "model": "tools/radtown_red_key_card" }
 	]
 }
