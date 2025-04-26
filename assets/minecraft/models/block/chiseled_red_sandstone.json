@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"end": "block/chiseled_red_sandstone"
+	}
+}
