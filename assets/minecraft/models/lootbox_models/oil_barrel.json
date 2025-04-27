@@ -4,12 +4,11 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "lootbox/barrels/oil_barrel",
-		"1": "lootbox/barrels/oil_barrel_sign",
 		"particle": "lootbox/barrels/oil_barrel"
 	},
 	"display": {
 		"head": {
-			"translation": [0, -28.95, 0],
+			"translation": [0, -10.5, 0],
 			"scale": [1.75, 1.75, 1.75]
 		}
 	}
