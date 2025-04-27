@@ -1270,8 +1270,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -14.95, 0],
-			"scale": [2.25, 2.25, 2.25]
+			"translation": [0, -28.95, 0],
+			"scale": [1.75, 1.75, 1.75]
 		}
 	},
 	"groups": [
@@ -1279,17 +1279,23 @@
 			"name": "circle-1",
 			"origin": [12.01981, 9.69426, 5.25737],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "outside",
 					"origin": [12.50177, 9.69426, 9.89346],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 				},
 				{
 					"name": "inside",
 					"origin": [12.4135, 9.663, 6.14367],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
 				}
 			]
@@ -1298,11 +1304,15 @@
 			"name": "circle-2",
 			"origin": [7.49, 20.821, 7.49],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "outside",
 					"origin": [3.49823, 16.29426, 6.10654],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
 				},
 				48,
@@ -1327,30 +1337,40 @@
 			"name": "top-circle",
 			"origin": [12.4135, 22.799, 9.85633],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79]
 		},
 		{
 			"name": "down-circle",
 			"origin": [7.97162, 4.08, 13.19417],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95]
 		},
 		{
 			"name": "main-part",
 			"origin": [6.00515, 3, 12.26028],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113]
 		},
 		{
 			"name": "kriska",
 			"origin": [7.96658, 19.16551, 4.96504],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [114, 115, 116, 117]
 		},
 		{
 			"name": "outline",
 			"origin": [8.02783, -4.1, 2.88267],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [118, 119, 120]
 		}
 	]
