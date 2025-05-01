@@ -240,6 +240,26 @@
 		{"predicate": {"custom_model_data":631}, "model":"guns/thompson/thompson-reload"},
 		{"predicate": {"custom_model_data":632}, "model": "guns/thompson/thompson-zoom"},
 
+		{"predicate": {"custom_model_data":633}, "model":"guns/nailgun/nailgun"},
+		{"predicate": {"custom_model_data":634}, "model":"guns/nailgun/nailgun-reload"},
+		{"predicate": {"custom_model_data":635}, "model": "guns/nailgun/nailgun-zoom"},
+
+		{"predicate": {"custom_model_data":636}, "model":"guns/semi-auto_pistol/semi-auto_pistol"},
+		{"predicate": {"custom_model_data":637}, "model":"guns/semi-auto_pistol/semi-auto_pistol-reload"},
+		{"predicate": {"custom_model_data":638}, "model": "guns/semi-auto_pistol/semi-auto_pistol-zoom"},
+
+		{"predicate": {"custom_model_data":639}, "model":"guns/revolver_python/revolver_python"},
+		{"predicate": {"custom_model_data":640}, "model":"guns/revolver_python/revolver_python-reload"},
+		{"predicate": {"custom_model_data":641}, "model": "guns/revolver_python/revolver_python-zoom"},
+
+		{"predicate": {"custom_model_data":642}, "model":"guns/mp5/mp5"},
+		{"predicate": {"custom_model_data":643}, "model":"guns/mp5/mp5-reload"},
+		{"predicate": {"custom_model_data":644}, "model": "guns/mp5/mp5-zoom"},
+
+		{"predicate": {"custom_model_data":645}, "model":"guns/crossbow/crossbow"},
+		{"predicate": {"custom_model_data":646}, "model":"guns/crossbow/crossbow-reload"},
+		{"predicate": {"custom_model_data":647}, "model": "guns/crossbow/crossbow-zoom"},
+
 		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
 		{"predicate": {"custom_model_data":701}, "model":"vehicles/head/copter_head"},
 		{"predicate": {"custom_model_data":702}, "model":"vehicles/head/copter_head_1"},

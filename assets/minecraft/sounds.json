@@ -378,5 +378,15 @@
 		"sounds":[
 			"interactableobjects/research_table/process"
 		]
+	},
+	"copter.process":{
+		"sounds":[
+			"vehicle/minicopter/vehicle.minicopter.work.passive.3p"
+		]
+	},
+	"copter.active.far":{
+		"sounds":[
+			"vehicle/minicopter/vehicle.minicopter.work.passive.far.3p"
+		]
 	}
 }
