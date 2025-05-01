@@ -388,5 +388,10 @@
 		"sounds":[
 			"vehicle/minicopter/vehicle.minicopter.work.passive.far.3p"
 		]
+	},
+	"hemp.plant":{
+		"sounds":[
+			"hit/hemp"
+		]
 	}
 }
