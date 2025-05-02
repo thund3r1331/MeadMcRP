@@ -9,7 +9,7 @@
 	"display": {
 		"head": {
 			"rotation": [0, 180, 0],
-			"translation": [0, 7.61094, 0],
+			"translation": [0, 7.61094, 4],
 			"scale": [1.75, 1.75, 1.75]
 		}
 	}

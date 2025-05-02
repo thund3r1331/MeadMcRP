@@ -2311,8 +2311,6 @@
 			"name": "Sachel-Change",
 			"origin": [7.85, 16.375, 11.625],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -2393,8 +2391,6 @@
 					"name": "group",
 					"origin": [8.30866, 8.24486, 8.84849],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
 				},
 				100,
@@ -2410,8 +2406,6 @@
 			"name": "Sachel-Change-hand",
 			"origin": [7.85, 16.375, 11.625],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				107,
 				108,
