@@ -393,5 +393,25 @@
 		"sounds":[
 			"hit/hemp"
 		]
+	},
+	"tick.satchel":{
+		"sounds":[
+			"hit/ticksatchel"
+		]
+	},
+	"satchel.boom":{
+		"sounds":[
+			"hit/boom"
+		]
+	},
+	"satchel.boom.far":{
+		"sounds":[
+			"hit/boom-far"
+		]
+	},
+	"jackhammer.work":{
+		"sounds":[
+			"hit/jackhammer"
+		]
 	}
 }

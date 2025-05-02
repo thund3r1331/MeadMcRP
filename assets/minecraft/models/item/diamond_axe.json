@@ -108,6 +108,7 @@
 		{"predicate": {"custom_model_data": 112 }, "model":"icons/no_mercy_ak_lock"},
 		{"predicate": {"custom_model_data": 113 }, "model":"icons/storage_barrel_vertical"},
 		{"predicate": {"custom_model_data": 114 }, "model":"icons/storage_barrel_vertical_lock"},
+		{"predicate": {"custom_model_data": 115 }, "model":"icons/jackhammer"},
 
 		{"predicate": {"custom_model_data": 519 }, "model":"icons/amount/medical/syringe/2"},
 		{"predicate": {"custom_model_data": 520 }, "model":"icons/amount/medical/bandage/2"},
