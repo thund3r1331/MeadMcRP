@@ -413,5 +413,10 @@
 		"sounds":[
 			"hit/jackhammer"
 		]
+	},
+	"hit.fall":{
+		"sounds":[
+			"hit/fall"
+		]
 	}
 }

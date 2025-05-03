@@ -1033,7 +1033,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/safe_zone.png",
-	    "ascent": -48,
+	    "ascent": -36,
             "height": 16,
             "chars": ["夫"]
         },
