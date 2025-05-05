@@ -264,6 +264,8 @@
 		{"predicate": {"custom_model_data":646}, "model":"guns/crossbow/crossbow-reload"},
 		{"predicate": {"custom_model_data":647}, "model": "guns/crossbow/crossbow-zoom"},
 
+		{"predicate": {"custom_model_data":699}, "model": "holograms/tree_mark"},
+
 		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
 		{"predicate": {"custom_model_data":701}, "model":"vehicles/head/copter_head"},
 		{"predicate": {"custom_model_data":702}, "model":"vehicles/head/copter_head_1"},
