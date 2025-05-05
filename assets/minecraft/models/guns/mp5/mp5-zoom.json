@@ -9,7 +9,7 @@
 	"display": {
 		"firstperson_lefthand": {
 			"rotation": [0, 180, 0],
-			"translation": [-9.7, 10.66, 23.6],
+			"translation": [-9.623, 10.66, 23.6],
 			"scale": [2, 2, 1]
 		},
 		"gui": {

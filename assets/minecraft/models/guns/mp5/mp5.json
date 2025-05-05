@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "guns/hands/hand_wide",
-		"mp5": "guns/mp5/mp5",
-		"particle": "guns/hands/hand_wide"
+		"particle": "guns/hands/hand_wide",
+		"mp5": "guns/mp5/mp5"
 	},
 	"elements": [
 		{
@@ -4101,6 +4101,9 @@
 		}
 	],
 	"display": {
+		"thirdperson_lefthand": {
+			"scale": [0.6, 0.6, 0.6]
+		},
 		"firstperson_lefthand": {
 			"rotation": [0, 180, 0],
 			"translation": [-11.8, 9.9, 23.5],
@@ -4286,8 +4289,6 @@
 			"name": "group",
 			"origin": [8.69724, 6.31072, 22.59043],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				171,
 				172,

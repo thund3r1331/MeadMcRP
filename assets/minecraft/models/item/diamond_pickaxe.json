@@ -106,6 +106,7 @@
 		{ "predicate": { "custom_model_data": 308 }, "model": "lootbox_models/military_crate"},
 		{ "predicate": { "custom_model_data": 309 }, "model": "lootbox_models/primitive_crate"},
 		{ "predicate": { "custom_model_data": 310 }, "model": "lootbox_models/tool_crate"},
+		{ "predicate": { "custom_model_data": 311 }, "model": "lootbox_models/locked_crate"},
 
 		{ "predicate": { "custom_model_data": 350 }, "model": "pickable_models/mushroom"},
 		{ "predicate": { "custom_model_data": 351 }, "model": "pickable_models/pumpkin"},
