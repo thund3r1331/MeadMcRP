@@ -94,6 +94,8 @@
 		{ "predicate": { "custom_model_data": 202 }, "model": "tools/metal_axe"},
 		{ "predicate": { "custom_model_data": 203 }, "model": "tools/wooden_spear"},
 		{ "predicate": { "custom_model_data": 204 }, "model": "tools/stone_spear"},
+		{ "predicate": { "custom_model_data": 205 }, "model": "tools/jackhammer"},
+		{ "predicate": { "custom_model_data": 206 }, "model": "tools/timed_explosive_charge.default"},
 
 		{ "predicate": { "custom_model_data": 300 }, "model": "lootbox_models/blue_barrel"},
 		{ "predicate": { "custom_model_data": 301 }, "model": "lootbox_models/oil_barrel"},
