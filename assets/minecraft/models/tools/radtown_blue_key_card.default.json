@@ -1,8 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"radtown_key_card": "tools/cards/radtown_blue_keypad",
-		"radtown_key_card_text": "tools/cards/radtown_key_card_text"
+		"radtown_key_card_text": "tools/cards/radtown_key_card_text",
+		"particle": "tools/cards/radtown_key_card",
+		"radtown_key_card": "tools/cards/radtown_key_card"
 	},
 	"elements": [
 		{
