@@ -109,6 +109,7 @@
 		{"predicate": {"custom_model_data": 113 }, "model":"icons/storage_barrel_vertical"},
 		{"predicate": {"custom_model_data": 114 }, "model":"icons/storage_barrel_vertical_lock"},
 		{"predicate": {"custom_model_data": 115 }, "model":"icons/jackhammer"},
+		{"predicate": {"custom_model_data": 116 }, "model":"icons/small_water_bottle"},
 
 		{"predicate": {"custom_model_data": 519 }, "model":"icons/amount/medical/syringe/2"},
 		{"predicate": {"custom_model_data": 520 }, "model":"icons/amount/medical/bandage/2"},
@@ -431,6 +432,12 @@
                 {"predicate": {"custom_model_data": 1373 }, "model":"icons/research_gray_3"},
                 {"predicate": {"custom_model_data": 1374 }, "model":"icons/research_gray_4"},
                 {"predicate": {"custom_model_data": 1375 }, "model":"icons/research_gray_5"},
+
+                {"predicate": {"custom_model_data": 1380 }, "model":"icons/amount/small_water_bottle/250"},
+                {"predicate": {"custom_model_data": 1381 }, "model":"icons/amount/small_water_bottle/170"},
+                {"predicate": {"custom_model_data": 1382 }, "model":"icons/amount/small_water_bottle/120"},
+                {"predicate": {"custom_model_data": 1383 }, "model":"icons/amount/small_water_bottle/70"},
+                {"predicate": {"custom_model_data": 1384 }, "model":"icons/amount/small_water_bottle/30"},
 
                 {"predicate": {"custom_model_data": 1566 }, "model":"icons/amount/rifle_semiauto/1"},
                 {"predicate": {"custom_model_data": 1567 }, "model":"icons/amount/rifle_semiauto/2"},

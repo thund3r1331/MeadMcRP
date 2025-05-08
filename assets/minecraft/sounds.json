@@ -418,5 +418,10 @@
 		"sounds":[
 			"hit/fall"
 		]
+	},
+	"water.drink":{
+		"sounds":[
+			"interact/drink"
+		]
 	}
 }
