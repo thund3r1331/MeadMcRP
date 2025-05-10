@@ -1,1 +1,8 @@
-{"parent":"rustsystem/stack","textures":{"0":"item/creeper_banner_pattern","1":"stacknumbers/x","2":"stacknumbers/x","3":"stacknumbers/x","4":"stacknumbers/5"}}
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "stack/stone/0",
+	"textures": {
+		"4": "icons/digit/digit_x",
+		"5": "icons/digit/digit_5"
+	}
+}

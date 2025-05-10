@@ -1,0 +1,10 @@
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "stack/hqm/0",
+	"textures": {
+		"3": "icons/digit/digit_6",
+		"4": "icons/digit1/digit_66",
+		"5": "icons/digit/digit_9",
+		"2": "icons/digit/digit_x"
+	}
+}

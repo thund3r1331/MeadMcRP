@@ -1,1 +1,10 @@
-{"parent":"rustsystem/stack","textures":{"0":"item/music_disc_13","1":"stacknumbers/x","2":"stacknumbers/3","3":"stacknumbers/9","4":"stacknumbers/1"}}
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "stack/lowfuel/0",
+	"textures": {
+		"3": "icons/digit/digit_3",
+		"4": "icons/digit/digit_9",
+		"5": "icons/digit/digit_1",
+		"2": "icons/digit/digit_x"
+	}
+}
