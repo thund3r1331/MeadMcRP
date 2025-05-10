@@ -263,9 +263,12 @@
 		{"predicate": {"custom_model_data":643}, "model":"guns/mp5/mp5-reload"},
 		{"predicate": {"custom_model_data":644}, "model": "guns/mp5/mp5-zoom"},
 
-		{"predicate": {"custom_model_data":645}, "model":"guns/crossbow/crossbow"},
-		{"predicate": {"custom_model_data":646}, "model":"guns/crossbow/crossbow-reload"},
-		{"predicate": {"custom_model_data":647}, "model": "guns/crossbow/crossbow-zoom"},
+		{"predicate": {"custom_model_data":645}, "model":"guns/crossbow/crossbow.hand"},
+		{"predicate": {"custom_model_data":646}, "model":"guns/crossbow/crossbow.hand"},
+		{"predicate": {"custom_model_data":647}, "model": "guns/crossbow/crossbow.hand.zoom"},
+
+		{"predicate": {"custom_model_data":697}, "model": "consumable/bandage"},
+		{"predicate": {"custom_model_data":698}, "model": "consumable/medical_syringe"},
 
 		{"predicate": {"custom_model_data":699}, "model": "holograms/tree_mark"},
 
