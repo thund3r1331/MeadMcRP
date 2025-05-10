@@ -1,0 +1,1050 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"hands": "guns/hands/hand_wide",
+		"medical_syringe": "consumable/medical_syringe"
+	},
+	"elements": [
+		{
+			"name": "2",
+			"from": [9.25528, 4.55626, -2.87389],
+			"to": [9.53028, 4.83126, -1.69889],
+			"rotation": {"angle": 0, "axis": "z", "origin": [9.39278, 4.69376, -2.40514]},
+			"faces": {
+				"west": {"uv": [16, 16, 4, 12], "rotation": 180, "texture": "#hands"},
+				"up": {"uv": [4, 4, 0, 16], "rotation": 180, "texture": "#hands"}
+			}
+		},
+		{
+			"name": "3",
+			"from": [8.06972, 4.25626, -2.59889],
+			"to": [8.34472, 4.53126, -1.92389],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8.40722, 4.59376, -2.33014]},
+			"faces": {
+				"east": {"uv": [9, 16, 16, 12], "rotation": 180, "texture": "#hands"},
+				"up": {"uv": [0, 9, 4, 16], "rotation": 180, "texture": "#hands"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9639, 12.45476, 9.06079],
+			"to": [5.5414, 13.60976, 9.53921],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.1314, 13.03226, 9.3]},
+			"faces": {
+				"west": {"uv": [5, 5, 7, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9639, 12.45476, 9.06079],
+			"to": [5.5414, 13.60976, 9.53921],
+			"rotation": {"angle": -45, "axis": "x", "origin": [13.1314, 13.03226, 9.3]},
+			"faces": {
+				"west": {"uv": [5, 5, 7, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.42476, 9.39079],
+			"to": [5.5414, 13.63976, 9.50921],
+			"rotation": {"angle": 45, "axis": "x", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.42476, 9.24079],
+			"to": [5.5414, 13.63976, 9.35921],
+			"rotation": {"angle": 45, "axis": "x", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.76601, 9.03454],
+			"to": [5.5414, 13.24976, 9.60296],
+			"rotation": {"angle": 45, "axis": "x", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.42476, 9.09079],
+			"to": [5.5414, 13.63976, 9.20921],
+			"rotation": {"angle": 45, "axis": "x", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.42476, 9.39079],
+			"to": [5.5414, 13.63976, 9.50921],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.42476, 9.24079],
+			"to": [5.5414, 13.63976, 9.35921],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.42476, 9.09079],
+			"to": [5.5414, 13.63976, 9.20921],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.42476, 9.39079],
+			"to": [5.5414, 13.63976, 9.50921],
+			"rotation": {"angle": -45, "axis": "x", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.42476, 9.24079],
+			"to": [5.5414, 13.63976, 9.35921],
+			"rotation": {"angle": -45, "axis": "x", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.42476, 9.09079],
+			"to": [5.5414, 13.63976, 9.20921],
+			"rotation": {"angle": -45, "axis": "x", "origin": [5.24515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.97305, 8.6925],
+			"to": [5.5414, 13.09147, 9.9075],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.1314, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 13.12305, 8.6925],
+			"to": [5.5414, 13.24147, 9.9075],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.1314, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9489, 12.82305, 8.6925],
+			"to": [5.5414, 12.94147, 9.9075],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.1314, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"down": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9639, 12.79305, 8.7225],
+			"to": [5.5414, 13.27147, 9.8775],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.1314, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [5, 5, 7, 7], "rotation": 270, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9639, 12.79305, 8.7225],
+			"to": [5.5414, 13.27147, 9.8775],
+			"rotation": {"angle": -45, "axis": "x", "origin": [13.1314, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [1, 5, 3, 7], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [1, 5, 3, 7], "texture": "#medical_syringe"},
+				"west": {"uv": [5, 5, 7, 7], "rotation": 270, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [5.5414, 12.45476, 9.06079],
+			"to": [5.9539, 13.60976, 9.53921],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.7089, 13.03226, 9.3]},
+			"faces": {
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [5.5414, 12.45476, 9.06079],
+			"to": [5.9539, 13.60976, 9.53921],
+			"rotation": {"angle": -45, "axis": "x", "origin": [13.7089, 13.03226, 9.3]},
+			"faces": {
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [5.5414, 12.79305, 8.7225],
+			"to": [5.9539, 13.27147, 9.8775],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.7089, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [9, 1, 11, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [5.5414, 12.79305, 8.7225],
+			"to": [5.9539, 13.27147, 9.8775],
+			"rotation": {"angle": -45, "axis": "x", "origin": [13.7089, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [9, 1, 11, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [5.93515, 12.50726, 9.08254],
+			"to": [6.46015, 13.55726, 9.51746],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.36015, 13.03226, 9.3]},
+			"faces": {
+				"up": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [5.93515, 12.50726, 9.08254],
+			"to": [6.46015, 13.55726, 9.51746],
+			"rotation": {"angle": -45, "axis": "x", "origin": [13.36015, 13.03226, 9.3]},
+			"faces": {
+				"up": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [5.93515, 12.81479, 8.775],
+			"to": [6.46015, 13.24972, 9.825],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.36015, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [9, 1, 11, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [5.93515, 12.81479, 8.775],
+			"to": [6.46015, 13.24972, 9.825],
+			"rotation": {"angle": -45, "axis": "x", "origin": [13.36015, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [9, 1, 11, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.57578, 12.60701, 9.12385],
+			"to": [10.92453, 13.45751, 9.47614],
+			"rotation": {"angle": -45, "axis": "x", "origin": [14.87328, 13.03226, 9.3]},
+			"faces": {
+				"east": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.57578, 12.85611, 8.87475],
+			"to": [10.92453, 13.2084, 9.72525],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.87328, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.57578, 12.85611, 8.87475],
+			"to": [10.92453, 13.2084, 9.72525],
+			"rotation": {"angle": -45, "axis": "x", "origin": [14.87328, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.82238, 12.85361, 9.12385],
+			"to": [11.17113, 13.2109, 9.47614],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.99676, 13.16065, 9.3]},
+			"faces": {
+				"north": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"east": {"uv": [5, 1, 7, 3], "rotation": 270, "texture": "#medical_syringe"},
+				"south": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"up": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"down": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.82238, 12.85611, 9.12135],
+			"to": [11.17113, 13.2084, 9.47865],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.99676, 13.03226, 9.1716]},
+			"faces": {
+				"north": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"up": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.83792, 12.85611, 8.98333],
+			"to": [11.18667, 13.2084, 9.08383],
+			"rotation": {"angle": -45, "axis": "y", "origin": [11.0123, 13.03226, 9.03358]},
+			"faces": {
+				"north": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"up": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.83792, 12.85611, 9.51617],
+			"to": [11.18667, 13.2084, 9.61667],
+			"rotation": {"angle": 45, "axis": "y", "origin": [11.0123, 13.03226, 9.56642]},
+			"faces": {
+				"north": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"up": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.83792, 13.24842, 9.12385],
+			"to": [11.18667, 13.34892, 9.47614],
+			"rotation": {"angle": -45, "axis": "z", "origin": [11.0123, 13.29867, 9.3]},
+			"faces": {
+				"north": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"up": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.83792, 12.71559, 9.12385],
+			"to": [11.18667, 12.81609, 9.47614],
+			"rotation": {"angle": 45, "axis": "z", "origin": [11.0123, 12.76584, 9.3]},
+			"faces": {
+				"north": {"uv": [5, 1, 7, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"up": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [10.57578, 12.60701, 9.12385],
+			"to": [10.92453, 13.45751, 9.47614],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.87328, 13.03226, 9.3]},
+			"faces": {
+				"east": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [5, 1, 7, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.61015, 12.81479, 8.775],
+			"to": [10.58515, 13.24972, 9.825],
+			"rotation": {"angle": -45, "axis": "x", "origin": [14.86015, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [9, 1, 11, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.61015, 12.50726, 9.08254],
+			"to": [10.58515, 13.55726, 9.51746],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.86015, 13.03226, 9.3]},
+			"faces": {
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.61015, 12.50726, 9.08254],
+			"to": [10.58515, 13.55726, 9.51746],
+			"rotation": {"angle": -45, "axis": "x", "origin": [14.86015, 13.03226, 9.3]},
+			"faces": {
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.61015, 12.81479, 8.775],
+			"to": [10.58515, 13.24972, 9.825],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.86015, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [9, 1, 11, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [6.46015, 12.50726, 9.08254],
+			"to": [9.61015, 13.55726, 9.51746],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.88515, 13.03226, 9.3]},
+			"faces": {
+				"up": {"uv": [13, 1, 15, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [13, 1, 15, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [6.46015, 12.50726, 9.08254],
+			"to": [9.61015, 13.55726, 9.51746],
+			"rotation": {"angle": -45, "axis": "x", "origin": [13.88515, 13.03226, 9.3]},
+			"faces": {
+				"up": {"uv": [13, 1, 15, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [13, 1, 15, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [6.46015, 12.81479, 8.775],
+			"to": [9.61015, 13.24972, 9.825],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.88515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [13, 1, 15, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [13, 1, 15, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [6.46015, 12.81479, 8.775],
+			"to": [9.61015, 13.24972, 9.825],
+			"rotation": {"angle": -45, "axis": "x", "origin": [13.88515, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [13, 1, 15, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"south": {"uv": [13, 1, 15, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9339, 13.60976, 9.10579],
+			"to": [5.9314, 13.75976, 9.49421],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.1314, 13.10726, 9.3]},
+			"faces": {
+				"north": {"uv": [9, 1, 11, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"west": {"uv": [9, 1, 11, 3], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [4.9339, 12.30476, 9.10579],
+			"to": [5.9314, 12.45476, 9.49421],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.1314, 13.03226, 9.3]},
+			"faces": {
+				"north": {"uv": [9, 1, 11, 3], "rotation": 180, "texture": "#medical_syringe"},
+				"east": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"south": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"west": {"uv": [9, 1, 11, 3], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"},
+				"down": {"uv": [9, 1, 11, 3], "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "Voxels-2EAE06",
+			"from": [7.58515, 12.91976, 9.6825],
+			"to": [7.96015, 13.14476, 9.8325],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.23515, 9.91976, 10.5375]},
+			"faces": {
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 270, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "Voxels-2EAE05",
+			"from": [8.18515, 12.91976, 9.6825],
+			"to": [8.56015, 13.14476, 9.8325],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.23515, 9.91976, 10.5375]},
+			"faces": {
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 270, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "Voxels-2EAE07",
+			"from": [7.96015, 13.15954, 9.61469],
+			"to": [8.18515, 13.44454, 9.68969],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8.07265, 13.37704, 9.65219]},
+			"faces": {
+				"south": {"uv": [7.04, 0.96, 4.96, 3.04], "rotation": 270, "texture": "#medical_syringe"},
+				"up": {"uv": [7.04, 0.96, 4.96, 3.04], "rotation": 270, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "Voxels-2EAE06",
+			"from": [7.96015, 12.61998, 9.61469],
+			"to": [8.18515, 12.90498, 9.68969],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8.07265, 12.68748, 9.65219]},
+			"faces": {
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 270, "texture": "#medical_syringe"},
+				"down": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 270, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "Voxels-2EAE05",
+			"from": [7.96015, 12.81476, 9.7575],
+			"to": [8.18515, 13.24976, 9.8325],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.23515, 9.91976, 10.5375]},
+			"faces": {
+				"south": {"uv": [4.96, 0.96, 7.04, 3.04], "rotation": 270, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36119, 4.99103, -2.86181],
+			"to": [9.41381, 5.05456, -2.73476],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.15613, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [5, 5, 7, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36119, 4.99103, -2.86181],
+			"to": [9.41381, 5.05456, -2.73476],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 4.15613, -2.79828]},
+			"faces": {
+				"up": {"uv": [5, 5, 7, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36449, 4.99103, -2.86511],
+			"to": [9.37751, 5.05621, -2.73146],
+			"rotation": {"angle": -45, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.38099, 4.99103, -2.86511],
+			"to": [9.39401, 5.05621, -2.73146],
+			"rotation": {"angle": -45, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.35417, 4.99103, -2.82757],
+			"to": [9.4167, 5.05621, -2.77436],
+			"rotation": {"angle": -45, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.39749, 4.99103, -2.86511],
+			"to": [9.41051, 5.05621, -2.73146],
+			"rotation": {"angle": -45, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36449, 4.99103, -2.86511],
+			"to": [9.37751, 5.05621, -2.73146],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.38099, 4.99103, -2.86511],
+			"to": [9.39401, 5.05621, -2.73146],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.39749, 4.99103, -2.86511],
+			"to": [9.41051, 5.05621, -2.73146],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36449, 4.99103, -2.86511],
+			"to": [9.37751, 5.05621, -2.73146],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.38099, 4.99103, -2.86511],
+			"to": [9.39401, 5.05621, -2.73146],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.39749, 4.99103, -2.86511],
+			"to": [9.41051, 5.05621, -2.73146],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 5.02362, -2.79828]},
+			"faces": {
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32068, 4.99103, -2.80479],
+			"to": [9.45433, 5.05621, -2.79177],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.15613, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32068, 4.99103, -2.78829],
+			"to": [9.45433, 5.05621, -2.77527],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.15613, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32068, 4.99103, -2.82129],
+			"to": [9.45433, 5.05621, -2.80827],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.15613, -2.79828]},
+			"faces": {
+				"south": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32398, 4.99103, -2.82459],
+			"to": [9.45103, 5.05456, -2.77197],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.15613, -2.79828]},
+			"faces": {
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [5, 5, 7, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32398, 4.99103, -2.82459],
+			"to": [9.45103, 5.05456, -2.77197],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 4.15613, -2.79828]},
+			"faces": {
+				"west": {"uv": [1, 5, 3, 7], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [5, 5, 7, 7], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36119, 4.94566, -2.86181],
+			"to": [9.41381, 4.99103, -2.73476],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.09261, -2.79828]},
+			"faces": {
+				"south": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36119, 4.94566, -2.86181],
+			"to": [9.41381, 4.99103, -2.73476],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 4.09261, -2.79828]},
+			"faces": {
+				"south": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32398, 4.94566, -2.82459],
+			"to": [9.45103, 4.99103, -2.77197],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.09261, -2.79828]},
+			"faces": {
+				"west": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32398, 4.94566, -2.82459],
+			"to": [9.45103, 4.99103, -2.77197],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 4.09261, -2.79828]},
+			"faces": {
+				"west": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36358, 4.88997, -2.85603],
+			"to": [9.41142, 4.94772, -2.74053],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.13097, -2.79828]},
+			"faces": {
+				"south": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36358, 4.88997, -2.85603],
+			"to": [9.41142, 4.94772, -2.74053],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 4.13097, -2.79828]},
+			"faces": {
+				"south": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32975, 4.88997, -2.8222],
+			"to": [9.44525, 4.94772, -2.77436],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.13097, -2.79828]},
+			"faces": {
+				"west": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32975, 4.88997, -2.8222],
+			"to": [9.44525, 4.94772, -2.77436],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 4.13097, -2.79828]},
+			"faces": {
+				"west": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.34072, 4.39889, -2.81766],
+			"to": [9.43428, 4.43725, -2.7789],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 3.96453, -2.79828]},
+			"faces": {
+				"west": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.34072, 4.39889, -2.81766],
+			"to": [9.43428, 4.43725, -2.7789],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 3.96453, -2.79828]},
+			"faces": {
+				"west": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36812, 4.37176, -2.81793],
+			"to": [9.40688, 4.41013, -2.77863],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.39094, -2.78416]},
+			"faces": {
+				"south": {"uv": [5, 1, 7, 3], "rotation": 270, "texture": "#medical_syringe"},
+				"west": {"uv": [5, 1, 7, 3], "rotation": 270, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36785, 4.37176, -2.81766],
+			"to": [9.40715, 4.41013, -2.7789],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.40162, 4.39094, -2.79828]},
+			"faces": {
+				"south": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.41128, 4.37005, -2.81766],
+			"to": [9.42233, 4.40842, -2.7789],
+			"rotation": {"angle": -45, "axis": "z", "origin": [9.41681, 4.38923, -2.79828]},
+			"faces": {
+				"south": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.35267, 4.37005, -2.81766],
+			"to": [9.36372, 4.40842, -2.7789],
+			"rotation": {"angle": 45, "axis": "z", "origin": [9.35819, 4.38923, -2.79828]},
+			"faces": {
+				"south": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36812, 4.37005, -2.7745],
+			"to": [9.40688, 4.40842, -2.76345],
+			"rotation": {"angle": 45, "axis": "x", "origin": [9.3875, 4.38923, -2.76897]},
+			"faces": {
+				"west": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36812, 4.37005, -2.83311],
+			"to": [9.40688, 4.40842, -2.82206],
+			"rotation": {"angle": -45, "axis": "x", "origin": [9.3875, 4.38923, -2.82759]},
+			"faces": {
+				"south": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36812, 4.39889, -2.84506],
+			"to": [9.40688, 4.43725, -2.7515],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 3.96453, -2.79828]},
+			"faces": {
+				"south": {"uv": [5, 1, 7, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32975, 4.43622, -2.8222],
+			"to": [9.44525, 4.54347, -2.77436],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 3.96597, -2.79828]},
+			"faces": {
+				"west": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36358, 4.43622, -2.85603],
+			"to": [9.41142, 4.54347, -2.74053],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 3.96597, -2.79828]},
+			"faces": {
+				"south": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36358, 4.43622, -2.85603],
+			"to": [9.41142, 4.54347, -2.74053],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 3.96597, -2.79828]},
+			"faces": {
+				"south": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32975, 4.43622, -2.8222],
+			"to": [9.44525, 4.54347, -2.77436],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 3.96597, -2.79828]},
+			"faces": {
+				"west": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36358, 4.54347, -2.85603],
+			"to": [9.41142, 4.88997, -2.74053],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.07322, -2.79828]},
+			"faces": {
+				"south": {"uv": [13, 1, 15, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36358, 4.54347, -2.85603],
+			"to": [9.41142, 4.88997, -2.74053],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 4.07322, -2.79828]},
+			"faces": {
+				"south": {"uv": [13, 1, 15, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32975, 4.54347, -2.8222],
+			"to": [9.44525, 4.88997, -2.77436],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.07322, -2.79828]},
+			"faces": {
+				"west": {"uv": [13, 1, 15, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.32975, 4.54347, -2.8222],
+			"to": [9.44525, 4.88997, -2.77436],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.3875, 4.07322, -2.79828]},
+			"faces": {
+				"west": {"uv": [13, 1, 15, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36614, 4.94813, -2.73476],
+			"to": [9.40886, 5.05786, -2.71826],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.15613, -2.79003]},
+			"faces": {
+				"south": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.36614, 4.94813, -2.87831],
+			"to": [9.40886, 5.05786, -2.86181],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3875, 4.15613, -2.79828]},
+			"faces": {
+				"south": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"west": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"},
+				"up": {"uv": [9, 1, 11, 3], "rotation": 90, "texture": "#medical_syringe"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 90],
+			"translation": [-5, -0.75, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, 0, 15],
+			"translation": [-9.5, 8.5, 52.25],
+			"scale": [4, 4, 4]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		}
+	}
+}
