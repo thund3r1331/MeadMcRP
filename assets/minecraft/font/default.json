@@ -24,210 +24,210 @@
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_0.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❿"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_0.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["࿕"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_0.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㑳"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_1.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❶"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_1.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["⽀"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_1.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㓢"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_2.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❷"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_2.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["⽐"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_2.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㓌"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_3.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❸"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_3.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["⽠"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_3.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㔀"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_4.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❹"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_4.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["⾀"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_4.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㔝"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_5.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❺"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_5.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["⾐"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_5.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㕡"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_6.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❻"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_6.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["⼒"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_6.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㗉"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_7.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❼"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_7.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["⼳"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_7.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㙃"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_8.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❽"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_8.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["⽶"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_8.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㚱"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_9.png",
-            "ascent": -3,
+            "ascent": -18,
             "height": 6,
             "chars": ["❾"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_9.png",
-            "ascent": -20,
+            "ascent": -35,
             "height": 6,
             "chars": ["⾔"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/digit_9.png",
-            "ascent": -37,
+            "ascent": -52,
             "height": 6,
             "chars": ["㜫"]
         },
@@ -241,70 +241,70 @@
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/hpg.png",
-            "ascent": 1,
+            "ascent": -14,
             "height": 12,
             "chars": ["鈃"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/water/wtb.png",
-            "ascent": -16,
+            "ascent": -31,
             "height": 12,
             "chars": ["鈯"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/hung/hgo.png",
-            "ascent": -33,
+            "ascent": -48,
             "height": 12,
             "chars": ["ㅛ"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/hung/hgpa.png",
-            "ascent": -33,
+            "ascent": -48,
             "height": 12,
             "chars": ["ㅺ"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/pa.png",
-            "ascent": 1,
+            "ascent": -14,
             "height": 12,
             "chars": ["鉴"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/pa.png",
-            "ascent": -16,
+            "ascent": -31,
             "height": 12,
             "chars": ["鈩"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/hpa.png",
-            "ascent": 3,
+            "ascent": -12,
             "height": 16,
             "chars": ["鈀"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/water/wta.png",
-            "ascent": -14,
+            "ascent": -29,
             "height": 16,
             "chars": ["鈟"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/hung/hga.png",
-            "ascent": -31,
+            "ascent": -46,
             "height": 16,
             "chars": ["⾇"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/digit_0.png",
-            "ascent": -4,
+            "ascent": -18,
             "height": 256,
             "chars": ["鈅"]
         },
@@ -1033,7 +1033,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/safe_zone.png",
-	    "ascent": -36,
+	        "ascent": 5,
             "height": 16,
             "chars": ["夫"]
         },
