@@ -1,6 +1,6 @@
 {
 	"credit": "Created-by-@adon.qh",
-	"parent": "stack/bone/0",
+	"parent": "stack/cloth/0",
 	"textures": {
 		"3": "icons/digit/digit_7",
 		"4": "icons/digit/digit_9",
