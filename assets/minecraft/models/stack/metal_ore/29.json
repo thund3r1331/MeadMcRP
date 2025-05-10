@@ -4,7 +4,7 @@
 	"textures": {
 		"3": "icons/digit/digit_x",
 		"4": "icons/digit/digit_2",
-		"5": "icons/digit/digit_9"
+		"5": "icons/digit/digit_9",
 	},
 	"gui_light": "front"
 }
