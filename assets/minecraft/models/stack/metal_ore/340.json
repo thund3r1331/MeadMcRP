@@ -1,0 +1,10 @@
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "stack/metal_ore/0",
+	"textures": {
+		"3": "icons/digit/digit_3",
+		"4": "icons/digit/digit_4",
+		"5": "icons/digit/digit_0",
+		"2": "icons/digit/digit_x"
+	}
+}

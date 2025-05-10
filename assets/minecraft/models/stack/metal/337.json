@@ -1,1 +1,10 @@
-{"parent":"rustsystem/stack","textures":{"0":"item/skull_banner_pattern","1":"stacknumbers/x","2":"stacknumbers/3","3":"stacknumbers/3","4":"stacknumbers/7"}}
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "stack/metal/0",
+	"textures": {
+		"3": "icons/digit/digit_3",
+		"4": "icons/digit1/digit_33",
+		"5": "icons/digit/digit_7",
+		"2": "icons/digit/digit_x"
+	}
+}
