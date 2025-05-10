@@ -1,0 +1,10 @@
+{
+	"credit": "Created-by-@adon.qh",
+	"parent": "stack/sulfur_ore/0",
+	"textures": {
+		"3": "icons/digit/digit_4",
+		"4": "icons/digit/digit_6",
+		"5": "icons/digit/digit_4",
+		"2": "icons/digit/digit_x"
+	}
+}
