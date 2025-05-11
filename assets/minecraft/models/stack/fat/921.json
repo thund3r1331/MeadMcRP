@@ -1,10 +1,1 @@
-{
-	"credit": "Created-by-@adon.qh",
-	"parent": "stack/fat/0",
-	"textures": {
-		"3": "icons/digit/digit_9",
-		"4": "icons/digit/digit_2",
-		"5": "icons/digit/digit_1",
-		"2": "icons/digit/digit_x"
-	}
-}
+{"parent":"stack/fat/0","textures":{"2":"icons/digit/digit_x","3":"icons/digit/digit_9","4":"icons/digit/digit_2","5":"icons/digit/digit_1"}}

@@ -1,11 +1,1 @@
-{
-	"credit": "Created-by-@adon.qh",
-	"parent": "stack/gunpowder/0",
-	"textures": {
-		"2": "icons/digit/digit_1",
-		"3": "icons/digit/digit_0",
-		"4": "icons/digit1/digit_00",
-		"5": "icons/digit2/digit_000",
-		"1": "icons/digit/digit_x"
-	}
-}
+{"parent":"stack/gunpowder/0","textures":{"1":"icons/digit/digit_x","2":"icons/digit/digit_1","3":"icons/digit/digit_0","4":"icons/digit1/digit_00","5":"icons/digit2/digit_000"}}

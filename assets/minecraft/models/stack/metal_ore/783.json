@@ -1,10 +1,1 @@
-{
-	"credit": "Created-by-@adon.qh",
-	"parent": "stack/metal_ore/0",
-	"textures": {
-		"3": "icons/digit/digit_7",
-		"4": "icons/digit/digit_8",
-		"5": "icons/digit/digit_3",
-		"2": "icons/digit/digit_x"
-	}
-}
+{"parent":"stack/metal_ore/0","textures":{"2":"icons/digit/digit_x","3":"icons/digit/digit_7","4":"icons/digit/digit_8","5":"icons/digit/digit_3"}}

@@ -1,8 +1,1 @@
-{
-	"credit": "Created-by-@adon.qh",
-	"parent": "stack/metal/0",
-	"textures": {
-		"4": "icons/digit/digit_x",
-		"5": "icons/digit/digit_1"
-	}
-}
+{"parent":"stack/metal/0","textures":{"4":"icons/digit/digit_x","5":"icons/digit/digit_1"}}
