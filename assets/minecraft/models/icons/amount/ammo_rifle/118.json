@@ -1,1 +1,9 @@
-{"parent":"rustsystem/stack","textures":{"0":"icons/ammo_rifle","1":"stacknumbers/x","2":"stacknumbers/1","3":"stacknumbers/1","4":"stacknumbers/8"}}
+{
+	"parent": "icons/amount/ammo_rifle/0",
+	"textures": {
+		"3": "icons/digit/digit_1",
+		"4": "icons/digit1/digit_11",
+		"5": "icons/digit/digit_8",
+		"2": "icons/digit/digit_x"
+	}
+}

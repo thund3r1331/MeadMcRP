@@ -1,1 +1,9 @@
-{"parent":"rustsystem/stack","textures":{"0":"icons/roadsigns","1":"stacknumbers/x","2":"stacknumbers/x","3":"stacknumbers/1","4":"stacknumbers/4"}}
+{
+	"parent": "icons/amount/roadsigns/0",
+	"textures": {
+		"3": "icons/digit/digit_x",
+		"4": "icons/digit/digit_1",
+		"5": "icons/digit/digit_4"
+	},
+	"gui_light": "front"
+}

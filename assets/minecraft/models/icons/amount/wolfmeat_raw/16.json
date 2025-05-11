@@ -1,1 +1,9 @@
-{"parent":"rustsystem/stack","textures":{"0":"icons/wolfmeat_raw","1":"stacknumbers/x","2":"stacknumbers/x","3":"stacknumbers/1","4":"stacknumbers/6"}}
+{
+	"parent": "icons/amount/wolfmeat_raw/0",
+	"textures": {
+		"3": "icons/digit/digit_x",
+		"4": "icons/digit/digit_1",
+		"5": "icons/digit/digit_6"
+	},
+	"gui_light": "front"
+}

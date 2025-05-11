@@ -1,1 +1,9 @@
-{"parent":"rustsystem/stack","textures":{"0":"icons/techparts","1":"stacknumbers/x","2":"stacknumbers/x","3":"stacknumbers/2","4":"stacknumbers/3"}}
+{
+	"parent": "icons/amount/techparts/0",
+	"textures": {
+		"3": "icons/digit/digit_x",
+		"4": "icons/digit/digit_2",
+		"5": "icons/digit/digit_3"
+	},
+	"gui_light": "front"
+}

@@ -1,1 +1,7 @@
-{"parent":"rustsystem/stack","textures":{"0":"icons/explosive_satchel","1":"stacknumbers/x","2":"stacknumbers/x","3":"stacknumbers/x","4":"stacknumbers/3"}}
+{
+	"parent": "icons/amount/explosive_satchel/0",
+	"textures": {
+		"4": "icons/digit/digit_x",
+		"5": "icons/digit/digit_3"
+	}
+}
