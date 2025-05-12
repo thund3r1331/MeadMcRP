@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"0": "icons/rope",
 		"1": "icons/digit/digit_air_0",
 		"2": "icons/digit/digit_air_1",
 		"3": "icons/digit/digit_air_2",
@@ -20,45 +21,45 @@
 		},
 		{
 			"name": "Created-by-@adon.qh",
-			"from": [10.75, 0, 15.995],
-			"to": [13.5, 4, 15.995],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 7.25, 6.4925]},
+			"from": [9.75, 0, 15.995],
+			"to": [12.5, 4, 15.995],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 7.25, 6.4925]},
 			"faces": {
 				"south": {"uv": [0, 0, 12, 16], "texture": "#4"}
 			}
 		},
 		{
 			"name": "Created-by-@adon.qh",
-			"from": [7.75, 0, 15.995],
-			"to": [10.5, 4, 15.995],
-			"rotation": {"angle": 0, "axis": "y", "origin": [9.5, 7.25, 6.4925]},
+			"from": [6.75, 0, 15.995],
+			"to": [9.5, 4, 15.995],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 7.25, 6.4925]},
 			"faces": {
 				"south": {"uv": [0, 0, 12, 16], "texture": "#3"}
 			}
 		},
 		{
 			"name": "Created-by-@adon.qh",
-			"from": [4.75, 0, 15.995],
-			"to": [7.5, 4, 15.995],
-			"rotation": {"angle": 0, "axis": "y", "origin": [10.5, 7.25, 6.4925]},
+			"from": [3.75, 0, 15.995],
+			"to": [6.5, 4, 15.995],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.5, 7.25, 6.4925]},
 			"faces": {
 				"south": {"uv": [0, 0, 12, 16], "texture": "#2"}
 			}
 		},
 		{
 			"name": "Created-by-@adon.qh",
-			"from": [1.75, 0, 15.995],
-			"to": [4.5, 4, 15.995],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 7.25, 6.4925]},
+			"from": [0.75, 0, 15.995],
+			"to": [3.5, 4, 15.995],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 7.25, 6.4925]},
 			"faces": {
 				"south": {"uv": [0, 0, 12, 16], "texture": "#1"}
 			}
 		},
 		{
 			"name": "Created-by-@adon.qh",
-			"from": [13.75, 0, 15.995],
-			"to": [17, 4, 15.995],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.25, 6.4925]},
+			"from": [12.75, 0, 15.995],
+			"to": [16, 4, 15.995],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7.25, 6.4925]},
 			"faces": {
 				"south": {"uv": [0, 0, 16, 16], "texture": "#5"}
 			}
