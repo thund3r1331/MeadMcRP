@@ -1,6 +1,7 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "icons/ammo_shotgun",
+		"0": "icons/bearmeat",
 		"1": "icons/digit/digit_air_0",
 		"2": "icons/digit/digit_air_1",
 		"3": "icons/digit/digit_air_2",
