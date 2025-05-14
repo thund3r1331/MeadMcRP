@@ -1033,9 +1033,16 @@
         {
             "type": "bitmap",
             "file": "minecraft:hud/hud/safe_zone.png",
-	        "ascent": 5,
+	    "ascent": 5,
             "height": 16,
             "chars": ["夫"]
+        },
+        {
+            "type": "bitmap",
+            "file": "guis:admin.png",
+	    "ascent": 8,
+            "height": 30,
+            "chars": ["岁"]
         },
 	{
             "type": "bitmap",

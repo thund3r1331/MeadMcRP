@@ -423,5 +423,20 @@
 		"sounds":[
 			"interact/drink"
 		]
+	},
+	"beancan.boom":{
+		"sounds":[
+			"hit/beancan_boom"
+		]
+	},
+	"timed_explosive.boom":{
+		"sounds":[
+			"hit/timed_explosive_explode"
+		]
+	},
+	"timed_explosive.tick":{
+		"sounds":[
+			"hit/timed_explosive_time_tick"
+		]
 	}
 }
