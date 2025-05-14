@@ -4,7 +4,7 @@
     "layer0": "item/music_disc_11"
   },
   "overrides": [
-		{"predicate": {"custom_model_data": 1 }, "model":"icons/metalspring"},
+		{"predicate": {"custom_model_data": 1 }, "model":"icons/amount/metalspring/0"},
 		{"predicate": {"custom_model_data": 2 }, "model":"icons/amount/metalspring/2"},
 		{"predicate": {"custom_model_data": 3 }, "model":"icons/amount/metalspring/3"},
 		{"predicate": {"custom_model_data": 4 }, "model":"icons/amount/metalspring/4"},
