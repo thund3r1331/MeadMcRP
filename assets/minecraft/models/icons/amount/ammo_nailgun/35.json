@@ -1,0 +1,9 @@
+{
+	"parent": "icons/amount/ammo_nailgun/0",
+	"textures": {
+		"3": "icons/digit/digit_x",
+		"4": "icons/digit/digit_3",
+		"5": "icons/digit/digit_5"
+	},
+	"gui_light": "front"
+}
