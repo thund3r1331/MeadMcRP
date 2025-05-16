@@ -438,5 +438,15 @@
 		"sounds":[
 			"hit/timed_explosive_time_tick"
 		]
+	},
+	"player.throw":{
+		"sounds":[
+			"hit/player.throw"
+		]
+	},
+	"tool.jackhammer.air":{
+		"sounds":[
+			"hit/tool.jackhammer.attack"
+		]
 	}
 }

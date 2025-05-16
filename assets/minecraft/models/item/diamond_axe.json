@@ -111,6 +111,9 @@
 		{"predicate": {"custom_model_data": 115 }, "model":"icons/jackhammer"},
 		{"predicate": {"custom_model_data": 116 }, "model":"icons/small_water_bottle"},
 
+		{"predicate": {"custom_model_data": 118 }, "model":"icons/arctic.hazmat.suit"},
+		{"predicate": {"custom_model_data": 119 }, "model":"icons/donate_arctic"},
+
 		{"predicate": {"custom_model_data": 519 }, "model":"icons/amount/medical/syringe/2"},
 		{"predicate": {"custom_model_data": 520 }, "model":"icons/amount/medical/bandage/2"},
 		{"predicate": {"custom_model_data": 521 }, "model":"icons/amount/medical/bandage/3"},
