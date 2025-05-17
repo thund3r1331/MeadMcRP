@@ -1,1 +1,7 @@
-{"parent":"stack/cloth/0","textures":{"4":"icons/digit/digit_x","5":"icons/digit/digit_2"}}
+{
+	"parent": "stack/bone/0",
+	"textures": {
+		"4": "icons/digit/digit_x",
+		"5": "icons/digit/digit_2"
+	}
+}
