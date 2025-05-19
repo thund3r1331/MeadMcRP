@@ -240,6 +240,10 @@
 		{"predicate": {"custom_model_data":561}, "model":"guns/pipeshotgun/pipeshotgun-reload"},
 		{"predicate": {"custom_model_data":562}, "model":"guns/pipeshotgun/pipeshotgun-zoom"},
 
+		{"predicate": {"custom_model_data":563}, "model":"guns/pumpshotgun/pumpshotgun"},
+		{"predicate": {"custom_model_data":564}, "model":"guns/pumpshotgun/pumpshotgun-reload"},
+		{"predicate": {"custom_model_data":565}, "model":"guns/pumpshotgun/pumpshotgun-zoom"},
+
 		{"predicate": {"custom_model_data":600}, "model":"guns/smg/smg"},
 		{"predicate": {"custom_model_data":601}, "model":"guns/smg/smg-reload"},
 		{"predicate": {"custom_model_data":602}, "model": "guns/smg/smg-zoom"},
