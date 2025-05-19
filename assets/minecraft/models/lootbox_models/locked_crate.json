@@ -1264,7 +1264,7 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -17.1962, 0],
+			"translation": [0, -28.9462, 0],
 			"scale": [1.75, 1.75, 1.75]
 		}
 	},
@@ -1273,8 +1273,6 @@
 			"name": "lc_cr",
 			"origin": [-2, 0, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -1337,8 +1335,6 @@
 					"name": "group",
 					"origin": [-2, 0, 0],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": []
 				}
 			]
@@ -1347,24 +1343,18 @@
 			"name": "military_crate",
 			"origin": [-6.5, -0.75, 7],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69]
 		},
 		{
 			"name": "military_crate",
 			"origin": [-6.5, -0.75, 7],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82]
 		},
 		{
 			"name": "military_crate",
 			"origin": [-6.5, -0.75, 7],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95]
 		}
 	]

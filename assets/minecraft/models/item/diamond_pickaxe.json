@@ -269,7 +269,7 @@
 		{"predicate": {"custom_model_data":644}, "model": "guns/mp5/mp5-zoom"},
 
 		{"predicate": {"custom_model_data":645}, "model":"guns/crossbow/crossbow.hand"},
-		{"predicate": {"custom_model_data":646}, "model":"guns/crossbow/crossbow.hand"},
+		{"predicate": {"custom_model_data":646}, "model":"guns/crossbow/crossbow.hand.loaded"},
 		{"predicate": {"custom_model_data":647}, "model": "guns/crossbow/crossbow.hand.zoom"},
 
 		{"predicate": {"custom_model_data":697}, "model": "consumable/bandage"},
