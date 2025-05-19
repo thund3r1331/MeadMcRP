@@ -3,9 +3,9 @@
 	"parent": "guns/mp5/mp5",
 	"display": {
 		"firstperson_lefthand": {
-			"rotation": [0, 180, 0],
-			"translation": [-9.623, 17.66, 19.6],
-			"scale": [2, 2, 1]
+			"rotation": [3, 180, 0],
+			"translation": [-9.6475, 17.075, 18.375],
+			"scale": [2, 2, 0.8]
 		},
 		"gui": {
 			"scale": [0, 0, 0]
