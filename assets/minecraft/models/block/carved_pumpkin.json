@@ -75,32 +75,30 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [75, 45, 0],
-			"translation": [0, 0.5, 0],
-			"scale": [0.3, 0.3, 0.3]
+			"scale": [0, 0, 0]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [75, 45, 0],
-			"translation": [0, 2.5, 0],
-			"scale": [0.375, 0.375, 0.375]
+			"scale": [0, 0, 0]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 45, 0],
+			"rotation": [12, -35, 0],
+			"translation": [-1, 0, -0.75],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 56, 0],
+			"rotation": [12, 65, 0],
+			"translation": [1.5, 0, -1.5],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
-			"rotation": [47.13, -16.86, -37.5],
-			"translation": [0, 1.75, -1],
+			"rotation": [47.13, -16.86, -12.5],
+			"translation": [0, 2, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
-			"translation": [0.5, 1, 0],
-			"scale": [0.45, 0.45, 0.45]
+			"rotation": [-165, -10, -175],
+			"translation": [0.5, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
 			"translation": [0.25, -1.25, 5.25],
