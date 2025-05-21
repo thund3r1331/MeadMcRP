@@ -448,5 +448,25 @@
 		"sounds":[
 			"hit/tool.jackhammer.attack"
 		]
+	},
+	"geiger.low":{
+		"sounds":[
+			"hit/geiger_low"
+		]
+	},
+	"geiger.medium":{
+		"sounds":[
+			"hit/geiger_medium"
+		]
+	},
+	"geiger.high":{
+		"sounds":[
+			"hit/geiger_high"
+		]
+	},
+	"geiger.ultra":{
+		"sounds":[
+			"hit/geiger_ultra"
+		]
 	}
 }
