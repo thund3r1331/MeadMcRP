@@ -1137,6 +1137,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/music_disc_stal.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["瓦"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:item/music_disc_13.png",
             "ascent": 9,
             "height": 10,
@@ -1274,6 +1281,20 @@
             "ascent": 9,
             "height": 10,
             "chars": ["二"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/tarp.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["话"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/sewingkit.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["痴"]
         },
         {
             "type": "bitmap",
