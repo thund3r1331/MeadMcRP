@@ -77,8 +77,12 @@
   { "predicate": { "custom_model_data": 70 }, "model": "icons/blueprint/smg_mp5"},
   { "predicate": { "custom_model_data": 71 }, "model": "icons/blueprint/smg_thomphson"},
   { "predicate": { "custom_model_data": 72 }, "model": "icons/blueprint/syringe_medical"},
+  { "predicate": { "custom_model_data": 73 }, "model": "icons/blueprint/hazmat_suit"},
 
   { "predicate": { "custom_model_data": 200 }, "model": "icons/workbench_tree/ammo_shotgun_lock"},
-  { "predicate": { "custom_model_data": 201 }, "model": "icons/workbench_tree/ammo_shotgun_green"}
+  { "predicate": { "custom_model_data": 201 }, "model": "icons/workbench_tree/ammo_shotgun_green"},
+
+  { "predicate": { "custom_model_data": 202 }, "model": "icons/workbench_tree/hazmat_suit_lock"},
+  { "predicate": { "custom_model_data": 203 }, "model": "icons/workbench_tree/hazmat_suit_green"}
  ]
 }

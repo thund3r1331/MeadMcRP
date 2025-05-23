@@ -1,0 +1,10 @@
+{
+	"parent": "icons/workbench_tree/rifle_ak_lock",
+	"textures": {
+		"0": "builds/air",
+		"1": "icons/research_tree_green",
+		"2": "item/golden_chestplate",
+		"particle": "builds/air"
+	},
+	"display": {}
+}
