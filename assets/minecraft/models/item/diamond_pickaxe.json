@@ -115,9 +115,9 @@
 		{ "predicate": { "custom_model_data": 351 }, "model": "pickable_models/pumpkin"},
 		{ "predicate": { "custom_model_data": 352 }, "model": "pickable_models/hemp"},
 		{ "predicate": { "custom_model_data": 353 }, "model": "pickable_models/potato"},
-		{ "predicate": { "custom_model_data": 354 }, "model": "pickable_models/rock_stone"},
-		{ "predicate": { "custom_model_data": 355 }, "model": "pickable_models/rock_sulfur"},
-		{ "predicate": { "custom_model_data": 356 }, "model": "pickable_models/rock_iron"},
+		{ "predicate": { "custom_model_data": 354 }, "model": "pickable_models/stone"},
+		{ "predicate": { "custom_model_data": 355 }, "model": "pickable_models/sulfur"},
+		{ "predicate": { "custom_model_data": 356 }, "model": "pickable_models/metal"},
 
 		{ "predicate": { "custom_model_data": 357 }, "model": "tools/supply_grenade.default"},
 		{ "predicate": { "custom_model_data": 358 }, "model": "tools/supply_grenade"},
