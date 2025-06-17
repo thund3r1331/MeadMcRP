@@ -468,5 +468,25 @@
 		"sounds":[
 			"hit/geiger_ultra"
 		]
+	},
+	"codelock.accept":{
+		"sounds":[
+			"hit/lock.code_lock.accept.3p"
+		]
+	},
+	"codelock.pin":{
+		"sounds":[
+			"hit/lock.code_lock.enable.3p"
+		]
+	},
+	"codelock.wrong_pass":{
+		"sounds":[
+			"hit/lock.code_lock.wrong_password.3p"
+		]
+	},
+	"lock.place":{
+		"sounds":[
+			"hit/lock.place.3p"
+		]
 	}
 }
