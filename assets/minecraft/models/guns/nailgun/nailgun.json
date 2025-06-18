@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "guns/hands/hand_wide",
-		"nailgun": "guns/nailgun/nailgun",
-		"particle": "guns/hands/hand_wide"
+		"particle": "guns/hands/hand_wide",
+		"nailgun": "guns/nailgun/nailgun"
 	},
 	"elements": [
 		{
@@ -4825,8 +4825,6 @@
 			"name": "1",
 			"origin": [8.00149, 7.91081, 9.60927],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -5039,8 +5037,6 @@
 			"name": "3",
 			"origin": [8.01487, 7.10807, -6.01126],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				205,
 				206,
