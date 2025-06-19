@@ -8,22 +8,9 @@
 		"particle": "guns/hands/hand"
 	},
 	"display": {
-		"thirdperson_righthand": {
-			"translation": [0, 1, -1.75],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"thirdperson_lefthand": {
-			"translation": [0, 1, -2],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, -180, 0],
-			"translation": [-8.23, 13.76, 45.8],
-			"scale": [4, 4, 4]
-		},
 		"firstperson_lefthand": {
 			"rotation": [0, -180, 0],
-			"translation": [-9.85, 13.76, 45.8],
+			"translation": [-9.75, 13.8125, 45.8],
 			"scale": [4, 4, 4]
 		},
 		"gui": {
