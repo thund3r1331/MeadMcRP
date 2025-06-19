@@ -606,6 +606,9 @@
                 {"predicate": {"custom_model_data": 1723 }, "model":"icons/buy-1"},
                 {"predicate": {"custom_model_data": 1724 }, "model":"icons/buy-2"},
 
-		{"predicate": {"custom_model_data": 1726 }, "model":"icons/amount/pistol_eoka/1"}
+		{"predicate": {"custom_model_data": 1726 }, "model":"icons/amount/pistol_eoka/1"},
+
+		{"predicate": {"custom_model_data": 1727 }, "model":"icons/rocket_launcher"},
+		{"predicate": {"custom_model_data": 1728 }, "model":"icons/amount/rocket_launcher/1"}
 	]
 }
