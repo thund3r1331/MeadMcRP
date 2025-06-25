@@ -4,8 +4,7 @@
 		"layer0": "item/wooden_sword"
 	},
 	"overrides": [
-	        {"predicate": {"custom_model_data":0}, "model":"icons/amount/cctv_camera/0"},
-	        {"predicate": {"custom_model_data":1}, "model":"icons/amount/cctv_camera/1"},
+	        	{"predicate": {"custom_model_data":1}, "model":"icons/cctv_camera"},
 			{"predicate": {"custom_model_data":2}, "model":"icons/amount/cctv_camera/2"},
 			{"predicate": {"custom_model_data":3}, "model":"icons/amount/cctv_camera/3"},
 			{"predicate": {"custom_model_data":4}, "model":"icons/amount/cctv_camera/4"},
