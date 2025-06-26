@@ -609,17 +609,6 @@
 		{"predicate": {"custom_model_data": 1726 }, "model":"icons/amount/pistol_eoka/1"},
 
 		{"predicate": {"custom_model_data": 1727 }, "model":"icons/rocket_launcher"},
-		{"predicate": {"custom_model_data": 1728 }, "model":"icons/amount/rocket_launcher/1"},
-
-                {"predicate": {"custom_model_data": 1729 }, "model":"icons/amount/smgbody/1"},
-                {"predicate": {"custom_model_data": 1730 }, "model":"icons/amount/smgbody/2"},
-                {"predicate": {"custom_model_data": 1731 }, "model":"icons/amount/smgbody/3"},
-                {"predicate": {"custom_model_data": 1732 }, "model":"icons/amount/smgbody/4"},
-                {"predicate": {"custom_model_data": 1733 }, "model":"icons/amount/smgbody/5"},
-                {"predicate": {"custom_model_data": 1734 }, "model":"icons/amount/smgbody/6"},
-                {"predicate": {"custom_model_data": 1735 }, "model":"icons/amount/smgbody/7"},
-                {"predicate": {"custom_model_data": 1736 }, "model":"icons/amount/smgbody/8"},
-                {"predicate": {"custom_model_data": 1737 }, "model":"icons/amount/smgbody/9"},
-                {"predicate": {"custom_model_data": 1738 }, "model":"icons/amount/smgbody/10"}
+		{"predicate": {"custom_model_data": 1728 }, "model":"icons/amount/rocket_launcher/1"}
 	]
 }
