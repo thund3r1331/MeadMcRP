@@ -1,0 +1,18 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "guns/rocket_launcher/rocket_launcher",
+	"texture_size": [64, 64],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [90, -10, -7],
+			"translation": [-5.25, 11.875, 20.875],
+			"scale": [4, 2.4, 4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 10, 7],
+			"translation": [-12.825, 11.875, 20.875],
+			"scale": [4, 2.4, 4]
+		}
+	}
+}
