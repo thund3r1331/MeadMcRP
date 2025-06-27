@@ -273,6 +273,10 @@
 		{"predicate": {"custom_model_data":646}, "model":"guns/crossbow/crossbow.hand.loaded"},
 		{"predicate": {"custom_model_data":647}, "model": "guns/crossbow/crossbow.hand.zoom"},
 
+		{"predicate": {"custom_model_data":648}, "model":"guns/rocket_launcher/rocket_launcher"},
+		{"predicate": {"custom_model_data":649}, "model":"guns/rocket_launcher/rocket_launcher.reload"},
+		{"predicate": {"custom_model_data":650}, "model": "guns/rocket_launcher/rocket_launcher.zoom"},
+
 		{"predicate": {"custom_model_data":697}, "model": "consumable/bandage"},
 		{"predicate": {"custom_model_data":698}, "model": "consumable/medical_syringe"},
 

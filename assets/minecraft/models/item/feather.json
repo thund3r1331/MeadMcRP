@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/feather"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1 }, "model":"icons/rockets"},
+    {"predicate": {"custom_model_data": 2 }, "model":"icons/amount/rockets/2"},
+    {"predicate": {"custom_model_data": 3 }, "model":"icons/amount/rockets/3"}
+  ]
+}

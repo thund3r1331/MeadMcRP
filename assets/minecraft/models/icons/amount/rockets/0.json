@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "icons/rocket_launcher",
+		"0": "icons/ammo_rocket_basic",
 		"1": "icons/digit/digit_air_0",
 		"2": "icons/digit/digit_air_1",
 		"3": "icons/digit/digit_air_2",
 		"4": "icons/digit/digit_air_3",
-		"5": "icons/digit/digit_1"
+		"5": "icons/digit/digit_air_4"
 	},
 	"elements": [
 		{
