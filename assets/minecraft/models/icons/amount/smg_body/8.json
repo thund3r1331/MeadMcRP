@@ -1,5 +1,5 @@
 {
-	"parent": "icons/amount/smgbody/0",
+	"parent": "icons/amount/smg_body/0",
 	"textures": {
 		"4": "icons/digit/digit_x",
 		"5": "icons/digit/digit_8"
