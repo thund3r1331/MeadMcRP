@@ -488,5 +488,20 @@
 		"sounds":[
 			"hit/lock.place.3p"
 		]
+	},
+	"rocket_launcher.shoot":{
+		"sounds":[
+			"weapon/rocket_launcher/gun.rocket_launcher.shoot"
+		]
+	},
+	"rocket_launcher.reload":{
+		"sounds":[
+			"weapon/rocket_launcher/rocketreload"
+		]
+	},
+	"rocket.boom":{
+		"sounds":[
+			"weapon/rocket_launcher/rocket"
+		]
 	}
 }
