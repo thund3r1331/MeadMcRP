@@ -83,6 +83,12 @@
   { "predicate": { "custom_model_data": 201 }, "model": "icons/workbench_tree/ammo_shotgun_green"},
 
   { "predicate": { "custom_model_data": 202 }, "model": "icons/workbench_tree/hazmat_suit_lock"},
-  { "predicate": { "custom_model_data": 203 }, "model": "icons/workbench_tree/hazmat_suit_green"}
+  { "predicate": { "custom_model_data": 203 }, "model": "icons/workbench_tree/hazmat_suit_green"},
+
+  { "predicate": { "custom_model_data": 204 }, "model": "icons/workbench_tree/rocket_lock"},
+  { "predicate": { "custom_model_data": 205 }, "model": "icons/workbench_tree/rocket_green"},
+
+  { "predicate": { "custom_model_data": 206 }, "model": "icons/workbench_tree/rocket_launcher_lock"},
+  { "predicate": { "custom_model_data": 207 }, "model": "icons/workbench_tree/rocket_launcher_green"}
  ]
 }

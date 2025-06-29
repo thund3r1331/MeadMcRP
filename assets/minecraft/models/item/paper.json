@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/paper"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1 }, "model":"icons/riflebody"},
+    {"predicate": {"custom_model_data": 2 }, "model":"icons/amount/riflebody/2"},
+    {"predicate": {"custom_model_data": 3 }, "model":"icons/amount/riflebody/3"},
+    {"predicate": {"custom_model_data": 4 }, "model":"icons/amount/riflebody/4"},
+    {"predicate": {"custom_model_data": 5 }, "model":"icons/amount/riflebody/5"},
+    {"predicate": {"custom_model_data": 6 }, "model":"icons/amount/riflebody/6"},
+    {"predicate": {"custom_model_data": 7 }, "model":"icons/amount/riflebody/7"},
+    {"predicate": {"custom_model_data": 8 }, "model":"icons/amount/riflebody/8"},
+    {"predicate": {"custom_model_data": 9 }, "model":"icons/amount/riflebody/9"},
+    {"predicate": {"custom_model_data": 10 }, "model":"icons/amount/riflebody/10"}
+  ]
+}

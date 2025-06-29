@@ -503,5 +503,10 @@
 		"sounds":[
 			"weapon/rocket_launcher/rocket"
 		]
+	},
+	"syringe.use":{
+		"sounds":[
+			"hit/item.medical_syringe.use.other"
+		]
 	}
 }
