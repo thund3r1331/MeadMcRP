@@ -424,12 +424,16 @@
 
 		{"predicate": {"custom_model_data": 1369 }, "model":"icons/workbench_arrow_down"},
                 {"predicate": {"custom_model_data": 1370 }, "model":"icons/workbench_arrow_up"},
+
                 {"predicate": {"custom_model_data": 1371 }, "model":"icons/research_gray_1"},
                 {"predicate": {"custom_model_data": 1372 }, "model":"icons/research_gray_2"},
                 {"predicate": {"custom_model_data": 1373 }, "model":"icons/research_gray_3"},
                 {"predicate": {"custom_model_data": 1374 }, "model":"icons/research_gray_4"},
                 {"predicate": {"custom_model_data": 1375 }, "model":"icons/research_gray_5"},
                 {"predicate": {"custom_model_data": 1376 }, "model":"icons/research_gray_6"},
+
+                {"predicate": {"custom_model_data": 1377 }, "model":"icons/workbench_arrow_left"},
+                {"predicate": {"custom_model_data": 1378 }, "model":"icons/workbench_arrow_right"},
 
                 {"predicate": {"custom_model_data": 1380 }, "model":"icons/amount/small_water_bottle/250"},
                 {"predicate": {"custom_model_data": 1381 }, "model":"icons/amount/small_water_bottle/170"},
