@@ -1067,6 +1067,13 @@
         },
         {
             "type": "bitmap",
+            "file": "icons/syringe_medical.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["情"]
+        },
+        {
+            "type": "bitmap",
             "file": "symbols:item/lqf.png",
             "ascent": 9,
             "height": 10,
