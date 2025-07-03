@@ -110,13 +110,7 @@
 		{"predicate": {"custom_model_data": 114 }, "model":"icons/storage_barrel_vertical_lock"},
 		{"predicate": {"custom_model_data": 115 }, "model":"icons/jackhammer"},
 		{"predicate": {"custom_model_data": 116 }, "model":"icons/small_water_bottle"},
-
-		{"predicate": {"custom_model_data": 118 }, "model":"icons/arctic.hazmat.suit"},
-		{"predicate": {"custom_model_data": 119 }, "model":"icons/donate_arctic"},
-
-		{"predicate": {"custom_model_data": 519 }, "model":"icons/amount/medical/syringe/2"},
-		{"predicate": {"custom_model_data": 520 }, "model":"icons/amount/medical/bandage/2"},
-		{"predicate": {"custom_model_data": 521 }, "model":"icons/amount/medical/bandage/3"},
+		{"predicate": {"custom_model_data": 117 }, "model":"icons/largemedkit"},
 
 		{"predicate": {"custom_model_data": 950 }, "model":"icons/amount/rifle_ak/1"},
                 {"predicate": {"custom_model_data": 951 }, "model":"icons/amount/rifle_ak/2"},
