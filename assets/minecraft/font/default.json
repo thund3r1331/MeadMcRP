@@ -1284,6 +1284,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:item/music_disc_cat.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["兹"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:item/music_disc_far.png",
             "ascent": 9,
             "height": 10,
@@ -1302,6 +1309,13 @@
             "ascent": 9,
             "height": 10,
             "chars": ["痴"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/roadsigns.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["普"]
         },
         {
             "type": "bitmap",
