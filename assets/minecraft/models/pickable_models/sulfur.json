@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/chiseled_nether_bricks",
@@ -6,7 +7,7 @@
 	},
 	"elements": [
 		{
-			"name": "Created-by-@adon.qh",
+			"name": "a",
 			"from": [-1.94626, 0, 1.26779],
 			"to": [17.55374, 6, 13.26779],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [9.58563, 5.65625, 8.50192]},
@@ -20,7 +21,7 @@
 			}
 		},
 		{
-			"name": "Created-by-@adon.qh",
+			"name": "a",
 			"from": [0.43793, 2.25, 2.09916],
 			"to": [18.81293, 8.25, 14.09916],
 			"rotation": {"angle": 0, "axis": "y", "origin": [9.58563, 5.65625, 8.50192]},
@@ -34,7 +35,7 @@
 			}
 		},
 		{
-			"name": "Created-by-@adon.qh",
+			"name": "a",
 			"from": [6.28077, 6, 3.61459],
 			"to": [17.15577, 10.5, 12.61459],
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [9.58563, 5.65625, 8.50192]},
@@ -53,13 +54,5 @@
 			"translation": [0, -19.2837, 0],
 			"scale": [1.5, 1.5, 1.5]
 		}
-	},
-	"groups": [
-		{
-			"name": "Stone",
-			"origin": [9, 6.5, 9.125],
-			"color": 0,
-			"children": [0, 1, 2]
-		}
-	]
+	}
 }
