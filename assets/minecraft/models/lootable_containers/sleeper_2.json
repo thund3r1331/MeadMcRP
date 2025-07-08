@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "lootables/player_sleeper",
@@ -120,8 +121,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -31.5, -1],
-			"scale": [1.65, 1.65, 1.65]
+			"translation": [0, -12.5, -1],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
@@ -129,8 +130,6 @@
 			"name": "steve",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7]
 		}
 	]
