@@ -104,6 +104,12 @@
   { "predicate": { "custom_model_data": 215 }, "model": "icons/workbench_tree/coffee_roadsign_chestplate_green"},
 
   { "predicate": { "custom_model_data": 216 }, "model": "icons/workbench_tree/roadsign_kilt_lock"},
-  { "predicate": { "custom_model_data": 217 }, "model": "icons/workbench_tree/roadsign_kilt_green"}
+  { "predicate": { "custom_model_data": 217 }, "model": "icons/workbench_tree/roadsign_kilt_green"},
+
+  { "predicate": { "custom_model_data": 218 }, "model": "icons/workbench_tree/iron_mask_lock"},
+  { "predicate": { "custom_model_data": 219 }, "model": "icons/workbench_tree/iron_mask_green"},
+
+  { "predicate": { "custom_model_data": 220 }, "model": "icons/workbench_tree/iron_chestplate_lock"},
+  { "predicate": { "custom_model_data": 221 }, "model": "icons/workbench_tree/iron_chestplate_green"}
  ]
 }
