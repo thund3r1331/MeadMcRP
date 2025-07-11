@@ -1,0 +1,6 @@
+{
+	"parent": "icons/amount/chainsaw/0",
+	"textures": {
+		"5": "icons/digit/digit_1"
+	}
+}

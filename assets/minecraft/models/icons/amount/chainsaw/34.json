@@ -1,0 +1,8 @@
+{
+	"parent": "icons/amount/chainsaw/0",
+	"textures": {
+		"4": "icons/digit/digit_3",
+		"5": "icons/digit/digit_4"
+	},
+	"gui_light": "front"
+}
