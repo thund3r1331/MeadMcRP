@@ -508,5 +508,10 @@
 		"sounds":[
 			"hit/item.medical_syringe.use.other"
 		]
+	},
+	"copter.work":{
+		"sounds":[
+			"vehicle/minicopter_work"
+		]
 	}
 }

@@ -110,6 +110,9 @@
   { "predicate": { "custom_model_data": 219 }, "model": "icons/workbench_tree/iron_mask_green"},
 
   { "predicate": { "custom_model_data": 220 }, "model": "icons/workbench_tree/iron_chestplate_lock"},
-  { "predicate": { "custom_model_data": 221 }, "model": "icons/workbench_tree/iron_chestplate_green"}
+  { "predicate": { "custom_model_data": 221 }, "model": "icons/workbench_tree/iron_chestplate_green"},
+
+  { "predicate": { "custom_model_data": 222 }, "model": "icons/workbench_tree/garage_door_lock"},
+  { "predicate": { "custom_model_data": 223 }, "model": "icons/workbench_tree/garage_door_green"}
  ]
 }
