@@ -1305,6 +1305,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:icons/gears.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["志"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:icons/sewingkit.png",
             "ascent": 9,
             "height": 10,
