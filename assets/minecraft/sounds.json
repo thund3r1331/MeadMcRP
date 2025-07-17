@@ -513,5 +513,35 @@
 		"sounds":[
 			"vehicle/minicopter_work"
 		]
+	},
+	"chainsaw.refuel.end":{
+		"sounds":[
+			"interact/chainsaw/tool.chainsaw.refuel.end.3p"
+		]
+	},
+	"chainsaw.refuel.start":{
+		"sounds":[
+			"interact/chainsaw/tool.chainsaw.refuel.start.3p"
+		]
+	},
+	"chainsaw.refuel.start_fail":{
+		"sounds":[
+			"interact/chainsaw/tool.chainsaw.work.fail_start.3p"
+		]
+	},
+	"chainsaw.work":{
+		"sounds":[
+			"interact/chainsaw/tool.chainsaw.work"
+		]
+	},
+	"chainsaw.work.stop":{
+		"sounds":[
+			"interact/chainsaw/tool.chainsaw.work.stop.3p"
+		]
+	},
+	"chainsaw.work.start_success":{
+		"sounds":[
+			"interact/chainsaw/tool.chainsaw.work.success_start"
+		]
 	}
 }
