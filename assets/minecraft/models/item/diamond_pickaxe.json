@@ -79,6 +79,9 @@
 		{ "predicate": { "custom_model_data": 83 }, "model": "guns/l96/l96-zoom"},
 		{ "predicate": { "custom_model_data": 84 }, "model": "guns/l96/l96-reload"},
 
+		{ "predicate": { "custom_model_data": 85 }, "model": "guns/fire/fire_big"},
+		{ "predicate": { "custom_model_data": 86 }, "model": "guns/fire/fire_small"},
+
 		{ "predicate": { "custom_model_data": 100 }, "model": "lootable_containers/sleeper_1"},
 		{ "predicate": { "custom_model_data": 101 }, "model": "lootable_containers/sleeper_2"},
 		{ "predicate": { "custom_model_data": 102 }, "model": "lootable_containers/dead_1"},
@@ -98,6 +101,9 @@
 		{ "predicate": { "custom_model_data": 205 }, "model": "tools/jackhammer"},
 		{ "predicate": { "custom_model_data": 206 }, "model": "tools/timed_explosive_charge.default"},
 		{ "predicate": { "custom_model_data": 207 }, "model": "tools/timed_explosive_charge"},
+		{ "predicate": { "custom_model_data": 208 }, "model": "tools/chainsaw"},
+		{ "predicate": { "custom_model_data": 209 }, "model": "tools/chainsaw_reload"},
+		{ "predicate": { "custom_model_data": 210 }, "model": "tools/chainsaw_sawing"},
 
 		{ "predicate": { "custom_model_data": 300 }, "model": "lootbox_models/blue_barrel"},
 		{ "predicate": { "custom_model_data": 301 }, "model": "lootbox_models/oil_barrel"},
