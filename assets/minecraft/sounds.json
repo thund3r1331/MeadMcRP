@@ -543,5 +543,10 @@
 		"sounds":[
 			"interact/chainsaw/tool.chainsaw.work.success_start"
 		]
+	},
+	"chainsaw.work.active":{
+		"sounds":[
+			"interact/chainsaw/chainsaw-active"
+		]
 	}
 }
