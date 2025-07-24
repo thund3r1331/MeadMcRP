@@ -1,0 +1,22 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"all": "block/meadmc/iron_bars_gray"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7.75],
+			"to": [16, 16, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.75]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#all"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#all"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"west": {"uv": [1, 16, 0, 0], "texture": "#all"},
+				"up": {"uv": [16, 0, 0, 1], "texture": "#all"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#all"}
+			}
+		}
+	]
+}

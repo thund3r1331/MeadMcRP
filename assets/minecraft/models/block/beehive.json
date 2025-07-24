@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "block/meadmc/box",
+		"particle": "block/meadmc/box"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [4.25, 8, 0, 4], "texture": "#0"},
+				"east": {"uv": [8.5, 4, 4.25, 0], "texture": "#0"},
+				"south": {"uv": [4.25, 8, 0, 4], "texture": "#0"},
+				"west": {"uv": [8.5, 4, 4.25, 0], "texture": "#0"},
+				"up": {"uv": [4.25, 4, 0, 0], "texture": "#0"},
+				"down": {"uv": [8.5, 8, 4.25, 4], "texture": "#0"}
+			}
+		}
+	]
+}
