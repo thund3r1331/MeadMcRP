@@ -548,5 +548,10 @@
 		"sounds":[
 			"interact/chainsaw/chainsaw-active"
 		]
+	},
+	"quarry.active":{
+		"sounds":[
+			"interact/quarry"
+		]
 	}
 }
