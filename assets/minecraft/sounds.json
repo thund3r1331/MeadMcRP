@@ -553,5 +553,10 @@
 		"sounds":[
 			"interact/quarry"
 		]
+	},
+	"oilrig.siren":{
+		"sounds":[
+			"interact/oilrig_siren"
+		]
 	}
 }
