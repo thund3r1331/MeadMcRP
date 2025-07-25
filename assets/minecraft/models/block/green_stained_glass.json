@@ -1,0 +1,15 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "lootbox_models/white_barrel",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "lootbox/barrels/blue_barrel",
+		"particle": "lootbox/barrels/blue_barrel"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -17, 0],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	}
+}
