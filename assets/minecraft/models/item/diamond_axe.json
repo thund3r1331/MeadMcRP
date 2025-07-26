@@ -661,6 +661,7 @@
                 {"predicate": {"custom_model_data": 2049 }, "model":"icons/amount/chainsaw/49"},
                 {"predicate": {"custom_model_data": 2050 }, "model":"icons/amount/chainsaw/50"},
 
-                {"predicate": {"custom_model_data": 2051 }, "model":"icons/vending_machine"}
+                {"predicate": {"custom_model_data": 2051 }, "model":"icons/vending_machine"},
+                {"predicate": {"custom_model_data": 2052 }, "model":"icons/recycler"}
 ]
 }
