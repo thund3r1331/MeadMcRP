@@ -4,7 +4,9 @@
 	"parent": "lootbox_models/white_barrel",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "lootbox/barrels/white_barrel"
+		"0": "lootbox/barrels/white_barrel",
+		"1": "builds/air",
+		"particle": "builds/air"
 	},
 	"display": {
 		"head": {
