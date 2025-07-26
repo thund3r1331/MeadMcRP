@@ -406,6 +406,9 @@
 		{"predicate":{"custom_model_data":910},"model":"holograms/workbench_level_2_red"},
 		{"predicate":{"custom_model_data":911},"model":"holograms/workbench_level_3_red"},
 		{"predicate":{"custom_model_data":912},"model":"holograms/vending_machine_blue"},
-		{"predicate":{"custom_model_data":913},"model":"holograms/vending_machine_red"}
+		{"predicate":{"custom_model_data":913},"model":"holograms/vending_machine_red"},
+
+		{"predicate":{"custom_model_data":914},"model":"holograms/recycler_blue"},
+		{"predicate":{"custom_model_data":915},"model":"holograms/recycler_red"}
 	]
 }

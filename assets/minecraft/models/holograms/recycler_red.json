@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builds/recycler/recycler-green",
+	"textures": {
+		"0": "wiew/red",
+		"particle": "wiew/red"
+	},
+	"display": {}
+}
