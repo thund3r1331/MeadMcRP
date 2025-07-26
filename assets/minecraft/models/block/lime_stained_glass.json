@@ -1,10 +1,10 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"parent": "lootbox_models/white_barrel",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "lootbox/barrels/oil_barrel",
-		"particle": "lootbox/barrels/oil_barrel"
+		"0": "lootbox/barrels/oil_barrel"
 	},
 	"display": {
 		"head": {

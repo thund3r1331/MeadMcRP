@@ -4,8 +4,7 @@
 	"parent": "lootbox_models/white_barrel",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "lootbox/barrels/diesel_barrel",
-		"particle": "lootbox/barrels/diesel_barrel"
+		"0": "lootbox/barrels/diesel_barrel"
 	},
 	"display": {
 		"head": {
