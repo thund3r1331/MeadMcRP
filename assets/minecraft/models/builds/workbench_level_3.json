@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"texture1": "builds/workbench_level_3"
@@ -2193,7 +2194,7 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -27.75, 0],
+			"translation": [4.75, -27.75, 0],
 			"scale": [1.9, 1.9, 1.9]
 		}
 	}

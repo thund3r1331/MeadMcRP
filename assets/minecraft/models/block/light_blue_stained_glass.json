@@ -1,0 +1,17 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "lootbox_models/white_barrel",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "lootbox/barrels/diesel_barrel",
+		"1": "builds/air",
+		"particle": "builds/air"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -16, 0],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	}
+}
