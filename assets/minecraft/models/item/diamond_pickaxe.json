@@ -409,6 +409,12 @@
 		{"predicate":{"custom_model_data":913},"model":"holograms/vending_machine_red"},
 
 		{"predicate":{"custom_model_data":914},"model":"holograms/recycler_blue"},
-		{"predicate":{"custom_model_data":915},"model":"holograms/recycler_red"}
+		{"predicate":{"custom_model_data":915},"model":"holograms/recycler_red"},
+
+		{"predicate":{"custom_model_data":916},"model":"builds/lamp/lampoff"},
+		{"predicate":{"custom_model_data":917},"model":"builds/lamp/lampon"},
+
+		{"predicate":{"custom_model_data":918},"model":"holograms/lamp/lamp_blue"},
+		{"predicate":{"custom_model_data":919},"model":"holograms/lamp/lamp_red"}
 	]
 }
