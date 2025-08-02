@@ -116,6 +116,9 @@
   { "predicate": { "custom_model_data": 223 }, "model": "icons/workbench_tree/garage_door_green"},
 
   { "predicate": { "custom_model_data": 224 }, "model": "icons/workbench_tree/chainsaw_lock"},
-  { "predicate": { "custom_model_data": 225 }, "model": "icons/workbench_tree/chainsaw_green"}
+  { "predicate": { "custom_model_data": 225 }, "model": "icons/workbench_tree/chainsaw_green"},
+
+  { "predicate": { "custom_model_data": 226 }, "model": "icons/workbench_tree/lamp_lock"},
+  { "predicate": { "custom_model_data": 227 }, "model": "icons/workbench_tree/lamp_green"}
  ]
 }
