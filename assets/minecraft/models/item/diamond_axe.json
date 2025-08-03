@@ -113,6 +113,7 @@
 		{"predicate": {"custom_model_data": 117 }, "model":"icons/largemedkit"},
 		{"predicate": {"custom_model_data": 118 }, "model":"icons/on"},
 		{"predicate": {"custom_model_data": 119 }, "model":"icons/off"},
+		{"predicate": {"custom_model_data": 120 }, "model":"icons/double_wooden_door"},
 
 		{"predicate": {"custom_model_data": 950 }, "model":"icons/amount/rifle_ak/1"},
                 {"predicate": {"custom_model_data": 951 }, "model":"icons/amount/rifle_ak/2"},
@@ -665,6 +666,7 @@
 
                 {"predicate": {"custom_model_data": 2051 }, "model":"icons/vending_machine"},
                 {"predicate": {"custom_model_data": 2052 }, "model":"icons/recycler"},
-                {"predicate": {"custom_model_data": 2053 }, "model":"icons/ceilinglight"}
+                {"predicate": {"custom_model_data": 2053 }, "model":"icons/ceilinglight"},
+                {"predicate": {"custom_model_data": 2054 }, "model":"icons/door_hinged_toptier"}
 ]
 }

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builds/double_wooden_door/doubledoor_wood",
+	"textures": {
+		"texture1": "wiew/red",
+		"texture2": "wiew/red"
+	}
+}

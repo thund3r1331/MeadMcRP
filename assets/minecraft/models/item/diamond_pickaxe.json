@@ -507,6 +507,14 @@
 		{"predicate": {"custom_model_data":1087}, "model":"builds/hqmdoor/hqmdoor-87"},
 		{"predicate": {"custom_model_data":1088}, "model":"builds/hqmdoor/hqmdoor-88"},
 		{"predicate": {"custom_model_data":1089}, "model":"builds/hqmdoor/hqmdoor-89"},
-		{"predicate": {"custom_model_data":1090}, "model":"builds/hqmdoor/hqmdoor-90"}
+		{"predicate": {"custom_model_data":1090}, "model":"builds/hqmdoor/hqmdoor-90"},
+
+		{"predicate":{"custom_model_data":920},"model":"builds/double_wooden_door/doubledoor_wood"},
+		{"predicate":{"custom_model_data":921},"model":"builds/double_wooden_door/doubledoor_wood_2"},
+		{"predicate":{"custom_model_data":922},"model":"builds/double_wooden_door/doubledoor_wood_3"},
+		{"predicate":{"custom_model_data":923},"model":"builds/double_wooden_door/doubledoor_wood_4"},
+
+		{"predicate":{"custom_model_data":924},"model":"holograms/wooden_double_door_blue"},
+		{"predicate":{"custom_model_data":925},"model":"holograms/wooden_double_door_red"}
 	]
 }
