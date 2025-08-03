@@ -1,9 +1,9 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
-	"parent": "builds/hqm_door_closed",
+	"parent": "builds/hqmdoor/hqmdoor-0",
 	"textures": {
 		"0": "wiew/blue",
 		"particle": "wiew/blue"
-	},
-	"display": {}
+	}
 }
