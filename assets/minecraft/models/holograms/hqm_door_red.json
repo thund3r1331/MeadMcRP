@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "builds/hqm_door_closed",
 	"textures": {
-		"0": "wiew/red",
-		"particle": "wiew/red"
+		"texture1": "wiew/red"
 	},
 	"display": {}
 }
