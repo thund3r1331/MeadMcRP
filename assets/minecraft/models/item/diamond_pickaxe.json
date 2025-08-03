@@ -517,6 +517,15 @@
 		{"predicate": {"custom_model_data":1089}, "model":"builds/hqmdoor/hqmdoor-89"},
 		{"predicate": {"custom_model_data":1090}, "model":"builds/hqmdoor/hqmdoor-90"},
 		{"predicate": {"custom_model_data":1091}, "model":"holograms/hqmdoor_blue"},
-		{"predicate": {"custom_model_data":1092}, "model":"holograms/hqmdoor_red"}
+		{"predicate": {"custom_model_data":1092}, "model":"holograms/hqmdoor_red"},
+
+		{"predicate": {"custom_model_data":1093}, "model":"builds/double_metal_door/metaldoube_door"},
+		{"predicate": {"custom_model_data":1094}, "model":"builds/double_metal_door/metaldoube_door_1"},
+		{"predicate": {"custom_model_data":1095}, "model":"builds/double_metal_door/metaldoube_door_2"},
+		{"predicate": {"custom_model_data":1096}, "model":"builds/double_metal_door/metaldoube_door_3"},
+		{"predicate": {"custom_model_data":1097}, "model":"builds/double_metal_door/metaldoube_door_4"},
+
+		{"predicate": {"custom_model_data":1098}, "model":"holograms/double_metal_door_blue"},
+		{"predicate": {"custom_model_data":1099}, "model":"holograms/double_metal_door_red"}
 	]
 }
