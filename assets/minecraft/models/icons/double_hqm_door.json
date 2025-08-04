@@ -1,9 +1,8 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "builds/wooden_door/wooden_door-0",
+	"parent": "item/handheld",
 	"textures": {
-		"3": "wiew/red",
-		"particle": "wiew/red"
+		"layer0": "icons/double_hqm_door"
 	},
 	"display": {
 		"thirdperson_righthand": {
@@ -16,15 +15,6 @@
 			"scale": [0, 0, 0]
 		},
 		"firstperson_lefthand": {
-			"scale": [0, 0, 0]
-		},
-		"ground": {
-			"scale": [0, 0, 0]
-		},
-		"gui": {
-			"scale": [0, 0, 0]
-		},
-		"fixed": {
 			"scale": [0, 0, 0]
 		}
 	}
