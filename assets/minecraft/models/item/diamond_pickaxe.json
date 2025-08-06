@@ -535,7 +535,16 @@
 		{"predicate": {"custom_model_data":1103}, "model":"builds/double_hqm_door/hqmdouble_door_1"},
 		{"predicate": {"custom_model_data":1104}, "model":"builds/double_hqm_door/hqmdouble_door_2"},
 		{"predicate": {"custom_model_data":1105}, "model":"builds/double_hqm_door/hqmdouble_door_3"},
-		{"predicate": {"custom_model_data":1106}, "model":"builds/double_hqm_door/hqmdouble_door_4"}
+		{"predicate": {"custom_model_data":1106}, "model":"builds/double_hqm_door/hqmdouble_door_4"},
+
+		{"predicate": {"custom_model_data":1107}, "model":"builds/guntrap/floor_shotguntrap"},
+		{"predicate": {"custom_model_data":1108}, "model":"builds/guntrap/shotguntrap"},
+
+		{"predicate": {"custom_model_data":1109}, "model":"holograms/floor_shotguntrap_blue"},
+		{"predicate": {"custom_model_data":1110}, "model":"holograms/floor_shotguntrap_red"},
+
+		{"predicate": {"custom_model_data":1111}, "model":"holograms/shotguntrap_blue"},
+		{"predicate": {"custom_model_data":1112}, "model":"holograms/shotguntrap_red"}
 
 	]
 }

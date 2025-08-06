@@ -122,6 +122,9 @@
   { "predicate": { "custom_model_data": 227 }, "model": "icons/workbench_tree/lamp_green"},
 
   { "predicate": { "custom_model_data": 228 }, "model": "icons/workbench_tree/door_hinged_toptier_lock"},
-  { "predicate": { "custom_model_data": 229 }, "model": "icons/workbench_tree/door_hinged_toptier_green"}
+  { "predicate": { "custom_model_data": 229 }, "model": "icons/workbench_tree/door_hinged_toptier_green"},
+
+  { "predicate": { "custom_model_data": 230 }, "model": "icons/workbench_tree/double_hqm_door_lock"},
+  { "predicate": { "custom_model_data": 231 }, "model": "icons/workbench_tree/double_hqm_door_green"}
  ]
 }
