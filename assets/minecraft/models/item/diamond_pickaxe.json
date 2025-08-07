@@ -544,7 +544,12 @@
 		{"predicate": {"custom_model_data":1110}, "model":"holograms/floor_shotguntrap_red"},
 
 		{"predicate": {"custom_model_data":1111}, "model":"holograms/shotguntrap_blue"},
-		{"predicate": {"custom_model_data":1112}, "model":"holograms/shotguntrap_red"}
+		{"predicate": {"custom_model_data":1112}, "model":"holograms/shotguntrap_red"},
 
+		{"predicate": {"custom_model_data":1113}, "model":"holograms/wooden_wall_blue"},
+		{"predicate": {"custom_model_data":1114}, "model":"holograms/wooden_wall_red"},
+
+		{"predicate": {"custom_model_data":1115}, "model":"holograms/wooden_gate_blue"},
+		{"predicate": {"custom_model_data":1116}, "model":"holograms/wooden_gate_red"}
 	]
 }

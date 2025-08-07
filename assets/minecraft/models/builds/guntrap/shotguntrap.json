@@ -540,8 +540,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -28.75, 0],
-			"scale": [1.7, 1.7, 1.7]
+			"translation": [0, -15.25, 0],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
