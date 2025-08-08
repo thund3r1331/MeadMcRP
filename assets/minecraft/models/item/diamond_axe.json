@@ -117,6 +117,8 @@
 		{"predicate": {"custom_model_data": 121 }, "model":"icons/double_metal_door"},
 		{"predicate": {"custom_model_data": 122 }, "model":"icons/double_hqm_door"},
 		{"predicate": {"custom_model_data": 123 }, "model":"icons/guntrap"},
+		{"predicate": {"custom_model_data": 124 }, "model":"icons/gates_external_high_wood"},
+		{"predicate": {"custom_model_data": 125 }, "model":"icons/gates_external_high_stone"},
 
 		{"predicate": {"custom_model_data": 950 }, "model":"icons/amount/rifle_ak/1"},
                 {"predicate": {"custom_model_data": 951 }, "model":"icons/amount/rifle_ak/2"},
@@ -670,6 +672,7 @@
                 {"predicate": {"custom_model_data": 2051 }, "model":"icons/vending_machine"},
                 {"predicate": {"custom_model_data": 2052 }, "model":"icons/recycler"},
                 {"predicate": {"custom_model_data": 2053 }, "model":"icons/ceilinglight"},
-                {"predicate": {"custom_model_data": 2054 }, "model":"icons/door_hinged_toptier"}
+                {"predicate": {"custom_model_data": 2054 }, "model":"icons/door_hinged_toptier"},
+                {"predicate": {"custom_model_data": 2055 }, "model":"icons/x"}
 ]
 }

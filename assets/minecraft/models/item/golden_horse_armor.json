@@ -125,6 +125,18 @@
   { "predicate": { "custom_model_data": 229 }, "model": "icons/workbench_tree/door_hinged_toptier_green"},
 
   { "predicate": { "custom_model_data": 230 }, "model": "icons/workbench_tree/double_hqm_door_lock"},
-  { "predicate": { "custom_model_data": 231 }, "model": "icons/workbench_tree/double_hqm_door_green"}
+  { "predicate": { "custom_model_data": 231 }, "model": "icons/workbench_tree/double_hqm_door_green"},
+
+  { "predicate": { "custom_model_data": 232 }, "model": "icons/workbench_tree/wooden_wall_lock"},
+  { "predicate": { "custom_model_data": 233 }, "model": "icons/workbench_tree/wooden_wall_green"},
+
+  { "predicate": { "custom_model_data": 234 }, "model": "icons/workbench_tree/wooden_gate_lock"},
+  { "predicate": { "custom_model_data": 235 }, "model": "icons/workbench_tree/wooden_gate_green"},
+
+  { "predicate": { "custom_model_data": 236 }, "model": "icons/workbench_tree/stone_wall_lock"},
+  { "predicate": { "custom_model_data": 237 }, "model": "icons/workbench_tree/stone_wall_green"},
+
+  { "predicate": { "custom_model_data": 238 }, "model": "icons/workbench_tree/stone_gate_lock"},
+  { "predicate": { "custom_model_data": 239 }, "model": "icons/workbench_tree/stone_gate_green"}
  ]
 }

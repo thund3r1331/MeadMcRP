@@ -550,6 +550,17 @@
 		{"predicate": {"custom_model_data":1114}, "model":"holograms/wooden_wall_red"},
 
 		{"predicate": {"custom_model_data":1115}, "model":"holograms/wooden_gate_blue"},
-		{"predicate": {"custom_model_data":1116}, "model":"holograms/wooden_gate_red"}
+		{"predicate": {"custom_model_data":1116}, "model":"holograms/wooden_gate_red"},
+
+		{"predicate": {"custom_model_data":1117}, "model":"builds/wooden_gate/woodgate"},
+		{"predicate": {"custom_model_data":1118}, "model":"builds/wooden_gate/woodgate_1"},
+		{"predicate": {"custom_model_data":1119}, "model":"builds/wooden_gate/woodgate_2"},
+		{"predicate": {"custom_model_data":1120}, "model":"builds/wooden_gate/woodgate_3"},
+
+		{"predicate": {"custom_model_data":1121}, "model":"builds/stone_gate/stonegate"},
+		{"predicate": {"custom_model_data":1122}, "model":"builds/stone_gate/stonegate_1"},
+		{"predicate": {"custom_model_data":1123}, "model":"builds/stone_gate/stonegate_2"},
+		{"predicate": {"custom_model_data":1124}, "model":"builds/stone_gate/stonegate_3"},
+		{"predicate": {"custom_model_data":1125}, "model":"builds/stone_gate/stonegate_4"}
 	]
 }
