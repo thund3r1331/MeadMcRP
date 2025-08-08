@@ -517,6 +517,39 @@
 		{"predicate": {"custom_model_data":1089}, "model":"builds/hqmdoor/hqmdoor-89"},
 		{"predicate": {"custom_model_data":1090}, "model":"builds/hqmdoor/hqmdoor-90"},
 		{"predicate": {"custom_model_data":1091}, "model":"holograms/hqmdoor_blue"},
-		{"predicate": {"custom_model_data":1092}, "model":"holograms/hqmdoor_red"}
+		{"predicate": {"custom_model_data":1092}, "model":"holograms/hqmdoor_red"},
+
+		{"predicate": {"custom_model_data":1093}, "model":"builds/double_metal_door/metaldoube_door"},
+		{"predicate": {"custom_model_data":1094}, "model":"builds/double_metal_door/metaldoube_door_1"},
+		{"predicate": {"custom_model_data":1095}, "model":"builds/double_metal_door/metaldoube_door_2"},
+		{"predicate": {"custom_model_data":1096}, "model":"builds/double_metal_door/metaldoube_door_3"},
+		{"predicate": {"custom_model_data":1097}, "model":"builds/double_metal_door/metaldoube_door_4"},
+
+		{"predicate": {"custom_model_data":1098}, "model":"holograms/double_metal_door_blue"},
+		{"predicate": {"custom_model_data":1099}, "model":"holograms/double_metal_door_red"},
+
+		{"predicate": {"custom_model_data":1100}, "model":"holograms/double_hqm_door_blue"},
+		{"predicate": {"custom_model_data":1101}, "model":"holograms/double_hqm_door_red"},
+
+		{"predicate": {"custom_model_data":1102}, "model":"builds/double_hqm_door/hqmdouble_door"},
+		{"predicate": {"custom_model_data":1103}, "model":"builds/double_hqm_door/hqmdouble_door_1"},
+		{"predicate": {"custom_model_data":1104}, "model":"builds/double_hqm_door/hqmdouble_door_2"},
+		{"predicate": {"custom_model_data":1105}, "model":"builds/double_hqm_door/hqmdouble_door_3"},
+		{"predicate": {"custom_model_data":1106}, "model":"builds/double_hqm_door/hqmdouble_door_4"},
+
+		{"predicate": {"custom_model_data":1107}, "model":"builds/guntrap/floor_shotguntrap"},
+		{"predicate": {"custom_model_data":1108}, "model":"builds/guntrap/shotguntrap"},
+
+		{"predicate": {"custom_model_data":1109}, "model":"holograms/floor_shotguntrap_blue"},
+		{"predicate": {"custom_model_data":1110}, "model":"holograms/floor_shotguntrap_red"},
+
+		{"predicate": {"custom_model_data":1111}, "model":"holograms/shotguntrap_blue"},
+		{"predicate": {"custom_model_data":1112}, "model":"holograms/shotguntrap_red"},
+
+		{"predicate": {"custom_model_data":1113}, "model":"holograms/wooden_wall_blue"},
+		{"predicate": {"custom_model_data":1114}, "model":"holograms/wooden_wall_red"},
+
+		{"predicate": {"custom_model_data":1115}, "model":"holograms/wooden_gate_blue"},
+		{"predicate": {"custom_model_data":1116}, "model":"holograms/wooden_gate_red"}
 	]
 }

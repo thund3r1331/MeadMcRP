@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "builds/wooden_door/wooden_door-0",
+	"parent": "builds/guntrap/shotguntrap",
 	"textures": {
-		"3": "wiew/red",
-		"particle": "wiew/red"
+		"0": "wiew/blue",
+		"particle": "wiew/blue"
 	},
 	"display": {
 		"thirdperson_righthand": {

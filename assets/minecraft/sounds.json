@@ -558,5 +558,65 @@
 		"sounds":[
 			"interact/oilrig_siren"
 		]
+	},
+	"crate.tick":{
+		"sounds":[
+			"hit/block.locked_crate.tick.3p"
+		]
+	},
+	"crate.unlock":{
+		"sounds":[
+			"hit/block.locked_crate.unlocked.3p"
+		]
+	},
+	"cupboard.place":{
+		"sounds":[
+			"hit/building.cupboard.place.3p"
+		]
+	},
+	"furnace.place":{
+		"sounds":[
+			"hit/building.furnace.place.3p"
+		]
+	},
+	"guntrap.place":{
+		"sounds":[
+			"hit/building.guntrap.place.3p"
+		]
+	},
+	"guntrap.shoot":{
+		"sounds":[
+			"hit/building.guntrap.shoot.3p"
+		]
+	},
+	"metal_door.close":{
+		"sounds":[
+			"hit/building.metal_door.close.3p"
+		]
+	},
+	"metal_door.open":{
+		"sounds":[
+			"hit/building.metal_door.open.3p"
+		]
+	},
+	"metal_door.place":{
+		"sounds":[
+			"hit/building.metal_door.place.3p"
+		]
+	},
+	"wooden_door.place":{
+		"sounds":[
+			"hit/building.wooden_door.place.3p"
+		]
+	},
+	"wooden_door.open":{
+		"sounds":[
+			"hit/building.wooden_door.open.3p"
+		]
+	},
+	"wooden_door.close":{
+		"sounds":[
+			"hit/building.wooden_door.close.3p"
+		]
 	}
 }
