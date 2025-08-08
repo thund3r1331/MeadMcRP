@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "guns/hands/hand_wide",
-		"jackhammer": "rustme/models/jackhammer",
-		"particle": "guns/hands/hand_wide"
+		"particle": "guns/hands/hand_wide",
+		"jackhammer": "tools/jackhammer"
 	},
 	"elements": [
 		{
