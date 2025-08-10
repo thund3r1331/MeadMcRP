@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/cube_column",
 	"textures": {
-		"end": "block/stone_top",
-		"particle": "block/chiseled_red_sandstone",
-		"side": "block/chiseled_red_sandstone"
+		"end": "block/netherite_block_top",
+		"particle": "block/netherite_block",
+		"side": "block/netherite_block"
 	}
 }
