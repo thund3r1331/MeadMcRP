@@ -137,6 +137,9 @@
   { "predicate": { "custom_model_data": 237 }, "model": "icons/workbench_tree/stone_wall_green"},
 
   { "predicate": { "custom_model_data": 238 }, "model": "icons/workbench_tree/stone_gate_lock"},
-  { "predicate": { "custom_model_data": 239 }, "model": "icons/workbench_tree/stone_gate_green"}
+  { "predicate": { "custom_model_data": 239 }, "model": "icons/workbench_tree/stone_gate_green"},
+
+  { "predicate": { "custom_model_data": 240 }, "model": "icons/workbench_tree/guntrap_lock"},
+  { "predicate": { "custom_model_data": 241 }, "model": "icons/workbench_tree/guntrap_green"}
  ]
 }

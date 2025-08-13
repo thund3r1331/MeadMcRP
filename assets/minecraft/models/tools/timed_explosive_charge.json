@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "tools/timed_explosive_charge",
@@ -2811,7 +2812,7 @@
 	],
 	"display": {
 		"thirdperson_lefthand": {
-			"rotation": [0, 180, 90],
+			"rotation": [0, -180, 90],
 			"translation": [-5, -0.75, 1]
 		},
 		"firstperson_lefthand": {
@@ -2822,7 +2823,7 @@
 			"scale": [0, 0, 0]
 		},
 		"head": {
-			"translation": [2, -7.5, 0],
+			"translation": [2, -20, 0],
 			"scale": [2, 2, 2]
 		}
 	}
