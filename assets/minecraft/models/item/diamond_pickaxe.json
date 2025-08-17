@@ -561,6 +561,9 @@
 		{"predicate": {"custom_model_data":1122}, "model":"builds/stone_gate/stonegate_1"},
 		{"predicate": {"custom_model_data":1123}, "model":"builds/stone_gate/stonegate_2"},
 		{"predicate": {"custom_model_data":1124}, "model":"builds/stone_gate/stonegate_3"},
-		{"predicate": {"custom_model_data":1125}, "model":"builds/stone_gate/stonegate_4"}
+		{"predicate": {"custom_model_data":1125}, "model":"builds/stone_gate/stonegate_4"},
+
+		{"predicate": {"custom_model_data":1126}, "model":"lootable_containers/bag"},
+		{"predicate": {"custom_model_data":1127}, "model":"lootable_containers/bag_open"}
 	]
 }
