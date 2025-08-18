@@ -406,7 +406,7 @@
 	},
 	"satchel.boom.far":{
 		"sounds":[
-			"hit/boom-far"
+			"hit/boom.far"
 		]
 	},
 	"jackhammer.work":{
@@ -617,6 +617,11 @@
 	"wooden_door.close":{
 		"sounds":[
 			"hit/building.wooden_door.close.3p"
+		]
+	},
+	"timed_explosive_charge.far":{
+		"sounds":[
+			"hit/timed_explosive_charge.explosion.1.far.3p"
 		]
 	}
 }
