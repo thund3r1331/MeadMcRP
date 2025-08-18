@@ -1,0 +1,9 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "block/leaves",
+	"textures": {
+		"all": "block/spruce_leaves",
+		"leaves_cross": "block/spruce_leaves_cross"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "block/leaves",
+	"textures": {
+		"all": "block/acacia_leaves",
+		"particle": "block/acacia_leaves_cross",
+		"leaves_cross": "block/acacia_leaves_cross"
+	}
+}

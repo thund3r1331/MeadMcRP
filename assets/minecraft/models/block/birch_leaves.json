@@ -1,0 +1,10 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "block/leaves",
+	"textures": {
+		"all": "block/birch_leaves",
+		"particle": "block/birch_leaves_cross",
+		"leaves_cross": "block/birch_leaves_cross"
+	}
+}

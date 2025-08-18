@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "block/leaves",
+	"textures": {
+		"all": "block/jungle_leaves",
+		"leaves_cross": "block/jungle_leaves_cross"
+	}
+}
