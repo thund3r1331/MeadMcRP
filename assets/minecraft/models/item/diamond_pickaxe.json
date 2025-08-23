@@ -129,6 +129,7 @@
 
 		{ "predicate": { "custom_model_data": 357 }, "model": "tools/supply_grenade.default"},
 		{ "predicate": { "custom_model_data": 358 }, "model": "tools/supply_grenade"},
+		{ "predicate": { "custom_model_data": 359 }, "model": "tools/salvaged_axe"},
 
 		{ "predicate": { "custom_model_data": 360 }, "model": "guns/bow/bow"},
 		{ "predicate": { "custom_model_data": 361 }, "model": "guns/bow/bow_load"},
@@ -564,6 +565,7 @@
 		{"predicate": {"custom_model_data":1125}, "model":"builds/stone_gate/stonegate_4"},
 
 		{"predicate": {"custom_model_data":1126}, "model":"lootable_containers/bag"},
-		{"predicate": {"custom_model_data":1127}, "model":"lootable_containers/bag_open"}
+		{"predicate": {"custom_model_data":1127}, "model":"lootable_containers/bag_open"},
+		{"predicate": {"custom_model_data":1128}, "model":"holograms/tree_mark"}
 	]
 }

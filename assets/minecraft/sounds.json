@@ -623,5 +623,15 @@
 		"sounds":[
 			"hit/timed_explosive_charge.explosion.1.far.3p"
 		]
+	},
+	"tree.bonus.hit":{
+		"sounds":[
+			"hit/tree.bonus.hit"
+		]
+	},
+	"keycard.open":{
+		"sounds":[
+			"hit/building.keycard_card.accept.3p"
+		]
 	}
 }
