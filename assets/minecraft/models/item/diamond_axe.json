@@ -119,6 +119,7 @@
 		{"predicate": {"custom_model_data": 123 }, "model":"icons/guntrap"},
 		{"predicate": {"custom_model_data": 124 }, "model":"icons/gates_external_high_wood"},
 		{"predicate": {"custom_model_data": 125 }, "model":"icons/gates_external_high_stone"},
+		{"predicate": {"custom_model_data": 126 }, "model":"icons/shelves"},
 
 		{"predicate": {"custom_model_data": 950 }, "model":"icons/amount/rifle_ak/1"},
                 {"predicate": {"custom_model_data": 951 }, "model":"icons/amount/rifle_ak/2"},
@@ -673,6 +674,28 @@
                 {"predicate": {"custom_model_data": 2052 }, "model":"icons/recycler"},
                 {"predicate": {"custom_model_data": 2053 }, "model":"icons/ceilinglight"},
                 {"predicate": {"custom_model_data": 2054 }, "model":"icons/door_hinged_toptier"},
-                {"predicate": {"custom_model_data": 2055 }, "model":"icons/x"}
+                {"predicate": {"custom_model_data": 2055 }, "model":"icons/x"},
+
+                {"predicate": {"custom_model_data": 2056 }, "model":"icons/amount/rifle_m39/1"},
+                {"predicate": {"custom_model_data": 2057 }, "model":"icons/amount/rifle_m39/2"},
+                {"predicate": {"custom_model_data": 2058 }, "model":"icons/amount/rifle_m39/3"},
+                {"predicate": {"custom_model_data": 2059 }, "model":"icons/amount/rifle_m39/4"},
+                {"predicate": {"custom_model_data": 2060 }, "model":"icons/amount/rifle_m39/5"},
+                {"predicate": {"custom_model_data": 2061 }, "model":"icons/amount/rifle_m39/6"},
+                {"predicate": {"custom_model_data": 2062 }, "model":"icons/amount/rifle_m39/7"},
+                {"predicate": {"custom_model_data": 2063 }, "model":"icons/amount/rifle_m39/8"},
+                {"predicate": {"custom_model_data": 2064 }, "model":"icons/amount/rifle_m39/9"},
+                {"predicate": {"custom_model_data": 2065 }, "model":"icons/amount/rifle_m39/10"},
+                {"predicate": {"custom_model_data": 2066 }, "model":"icons/amount/rifle_m39/11"},
+                {"predicate": {"custom_model_data": 2067 }, "model":"icons/amount/rifle_m39/12"},
+                {"predicate": {"custom_model_data": 2068 }, "model":"icons/amount/rifle_m39/13"},
+                {"predicate": {"custom_model_data": 2069 }, "model":"icons/amount/rifle_m39/14"},
+                {"predicate": {"custom_model_data": 2070 }, "model":"icons/amount/rifle_m39/15"},
+                {"predicate": {"custom_model_data": 2071 }, "model":"icons/amount/rifle_m39/16"},
+                {"predicate": {"custom_model_data": 2072 }, "model":"icons/amount/rifle_m39/17"},
+                {"predicate": {"custom_model_data": 2073 }, "model":"icons/amount/rifle_m39/18"},
+                {"predicate": {"custom_model_data": 2074 }, "model":"icons/amount/rifle_m39/19"},
+                {"predicate": {"custom_model_data": 2075 }, "model":"icons/amount/rifle_m39/20"},
+                {"predicate": {"custom_model_data": 2076 }, "model":"icons/rifle_m39"}
 ]
 }

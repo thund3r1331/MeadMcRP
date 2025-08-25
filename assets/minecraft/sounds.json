@@ -184,6 +184,11 @@
 			"weapon/ak/attack-far-distant"
 		]
 	},
+	"guns.assault_rifle.reload":{
+		"sounds":[
+			"weapon/ak/ak_reload"
+		]
+	},
 	"guns.semi_auto_rifle.shoot":{
 		"sounds":[
 			"weapon/semiautorifle/semi_auto_shoot"
@@ -632,6 +637,16 @@
 	"keycard.open":{
 		"sounds":[
 			"hit/building.keycard_card.accept.3p"
+		]
+	},
+	"m39.shot":{
+		"sounds":[
+			"weapon/m39/gun.m39.shoot"
+		]
+	},
+	"m39.shot.far":{
+		"sounds":[
+			"weapon/m39/gun.m39.shoot.far"
 		]
 	}
 }

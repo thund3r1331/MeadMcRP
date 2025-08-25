@@ -6557,6 +6557,9 @@
 		"firstperson_lefthand": {
 			"translation": [-9.425, 20, 77],
 			"scale": [4, 4, 4]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
 		}
 	},
 	"groups": [
