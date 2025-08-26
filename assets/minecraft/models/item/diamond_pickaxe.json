@@ -285,6 +285,8 @@
 		{"predicate": {"custom_model_data":649}, "model":"guns/rocket_launcher/rocket_launcher.reload"},
 		{"predicate": {"custom_model_data":650}, "model": "guns/rocket_launcher/rocket_launcher.zoom"},
 
+		{"predicate": {"custom_model_data":651}, "model":"guns/m39/m39"},
+
 		{"predicate": {"custom_model_data":697}, "model": "consumable/bandage"},
 		{"predicate": {"custom_model_data":698}, "model": "consumable/medical_syringe"},
 
@@ -566,6 +568,9 @@
 
 		{"predicate": {"custom_model_data":1126}, "model":"lootable_containers/bag"},
 		{"predicate": {"custom_model_data":1127}, "model":"lootable_containers/bag_open"},
-		{"predicate": {"custom_model_data":1128}, "model":"holograms/tree_mark"}
+		{"predicate": {"custom_model_data":1128}, "model":"holograms/tree_mark"},
+		{"predicate": {"custom_model_data":1129}, "model":"builds/shelf/shelf"},
+		{"predicate": {"custom_model_data":1130}, "model":"holograms/shelf_blue"},
+		{"predicate": {"custom_model_data":1131}, "model":"holograms/shelf_red"}
 	]
 }
