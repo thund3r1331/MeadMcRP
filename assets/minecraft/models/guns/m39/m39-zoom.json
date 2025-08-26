@@ -1,0 +1,17 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Created-by-@adon.qh",
+	"parent": "guns/m39/m39",
+	"ambientocclusion": false,
+	"texture_size": [128, 128],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [-10.335, 17.99, 79.5],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"translation": [-7.645, 17.99, 79.5],
+			"scale": [4, 4, 4]
+		}
+	}
+}
