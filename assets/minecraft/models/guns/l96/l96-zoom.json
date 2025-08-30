@@ -1,14 +1,10 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Created-by-@adon.qh",
 	"parent": "guns/l96/l96",
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"display": {
-		"firstperson_righthand": {
-			"rotation": [2, 0, 0],
-			"translation": [-5.1025, 19.375, 61.175],
-			"scale": [4, 4, 4]
-		},
 		"firstperson_lefthand": {
 			"rotation": [2, 0, 0],
 			"translation": [-12.829, 19.375, 61.175],

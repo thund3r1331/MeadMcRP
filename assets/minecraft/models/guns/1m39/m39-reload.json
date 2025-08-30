@@ -1,20 +1,19 @@
 {
 	"format_version": "1.9.0",
 	"credit": "Created-by-@adon.qh",
-	"parent": "guns/l96/l96",
-	"ambientocclusion": false,
+	"parent": "guns/m39/m39",
 	"texture_size": [128, 128],
 	"textures": {
-		"particle": "guns/l96/l96",
+		"particle": "guns/m39/m39",
 		"gun2": "builds/air",
-		"gun3": "guns/l96/l96",
+		"gun3": "guns/m39/m39",
 		"hand2": "builds/air",
 		"hand3": "guns/hands/hand_wide"
 	},
 	"display": {
 		"firstperson_lefthand": {
-			"rotation": [16, 0, 36],
-			"translation": [-23, 1, 60],
+			"rotation": [8, -5, 18],
+			"translation": [-19.825, 7, 79.5],
 			"scale": [4, 4, 4]
 		}
 	}
