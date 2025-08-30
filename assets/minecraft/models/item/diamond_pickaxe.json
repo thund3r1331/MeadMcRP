@@ -286,6 +286,8 @@
 		{"predicate": {"custom_model_data":650}, "model": "guns/rocket_launcher/rocket_launcher.zoom"},
 
 		{"predicate": {"custom_model_data":651}, "model":"guns/m39/m39"},
+		{"predicate": {"custom_model_data":652}, "model":"guns/m39/m39-reload"},
+		{"predicate": {"custom_model_data":653}, "model":"guns/m39/m39-zoom"},
 
 		{"predicate": {"custom_model_data":697}, "model": "consumable/bandage"},
 		{"predicate": {"custom_model_data":698}, "model": "consumable/medical_syringe"},
