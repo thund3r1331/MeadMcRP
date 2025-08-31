@@ -3,6 +3,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "icons/amount/rifle_ak/19",
 	"textures": {
-		"0": "icons/assault_rifle_redemption"
+		"0": "icons/skins/assault_rifle_redemption"
 	}
 }
