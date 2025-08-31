@@ -1,10 +1,11 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"parent": "guns/pump_shotgun/pump_shotgun",
 	"display": {
 		"firstperson_lefthand": {
-			"rotation": [3, 180, 0],
-			"translation": [-9.6475, 17.25, 18.375],
+			"rotation": [10, 0, 0],
+			"translation": [-9, 12.4, 21.5],
 			"scale": [2, 2, 0.8]
 		},
 		"gui": {

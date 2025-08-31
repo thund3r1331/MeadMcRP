@@ -1,0 +1,18 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Created-by-@adon.qh",
+	"parent": "guns/assault_rifle/assault_rifle_poseidon_cannon/assault_rifle_poseidon_cannon",
+	"texture_size": [128, 128],
+	"textures": {
+		"particle": "guns/assault_rifle/assault_rifle_poseidon_cannon",
+		"gun2": "builds/air",
+		"gun3": "guns/assault_rifle/assault_rifle_poseidon_cannon"
+	},
+	"display": {
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 24],
+			"translation": [-19.825, 16, 46.65],
+			"scale": [4, 4, 4]
+		}
+	}
+}

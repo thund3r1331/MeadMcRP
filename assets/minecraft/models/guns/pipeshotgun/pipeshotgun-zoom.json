@@ -1,37 +1,12 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Created-by-@adon.qh",
 	"parent": "guns/pipeshotgun/pipeshotgun",
 	"texture_size": [128, 128],
-	"textures": {
-		"0": "guns/pipeshotgun/pipeshotgun",
-		"1": "guns/hands/hand",
-		"particle": "guns/pipeshotgun/pipeshotgun"
-	},
 	"display": {
-		"thirdperson_righthand": {
-			"translation": [0, 1.5, -2.75],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"thirdperson_lefthand": {
-			"translation": [0, 1.5, -2.75],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, -180, 0],
-			"translation": [-9.25, 22.35, 77.6],
-			"scale": [4, 4, 4]
-		},
 		"firstperson_lefthand": {
-			"rotation": [0, -180, 0],
-			"translation": [-8.7, 22.425, 77.1],
-			"scale": [4, 4, 4]
-		},
-		"gui": {
-			"scale": [0, 0, 0]
-		},
-		"head": {
-			"translation": [0, -8, -3.1],
-			"scale": [0.8, 0.8, 0.8]
+			"translation": [-9, 21.5, 54.5],
+			"scale": [4, 4, 3]
 		}
 	}
 }
