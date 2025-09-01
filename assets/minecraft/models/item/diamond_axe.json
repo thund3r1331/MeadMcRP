@@ -730,6 +730,7 @@
                 {"predicate": {"custom_model_data": 2128 }, "model":"icons/amount/assault_rifle_redemption/assault_rifle_redemption/29"},
                 {"predicate": {"custom_model_data": 2129 }, "model":"icons/amount/assault_rifle_redemption/assault_rifle_redemption/30"},
 
+                {"predicate": {"custom_model_data": 2199 }, "model":"icons/assault_rifle_poseidon_cannon"},
                 {"predicate": {"custom_model_data": 2200 }, "model":"icons/amount/assault_rifle_poseidon_cannon/assault_rifle_poseidon_cannon/1"},
                 {"predicate": {"custom_model_data": 2201 }, "model":"icons/amount/assault_rifle_poseidon_cannon/assault_rifle_poseidon_cannon/2"},
                 {"predicate": {"custom_model_data": 2202 }, "model":"icons/amount/assault_rifle_poseidon_cannon/assault_rifle_poseidon_cannon/3"},
