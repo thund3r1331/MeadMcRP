@@ -4,6 +4,7 @@
 	"parent": "rustsystem/stack",
 	"textures": {
 		"0": "icons/rifle_ak",
+		"1": "icons/digit/digit_air_0",
 		"2": "stacknumbers/x",
 		"3": "stacknumbers/3",
 		"4": "stacknumbers/0"
