@@ -3,6 +3,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "icons/amount/rifle_ak/28",
 	"textures": {
-		"0": "icons/assault_rifle_poseidon_cannon"
+		"0": "icons/skins/assault_rifle_poseidon_cannon"
 	}
 }
