@@ -698,6 +698,7 @@
                 {"predicate": {"custom_model_data": 2075 }, "model":"icons/amount/rifle_m39/20"},
                 {"predicate": {"custom_model_data": 2076 }, "model":"icons/rifle_m39"},
 
+                {"predicate": {"custom_model_data": 2099 }, "model":"icons/assault_rifle_redemption"},
                 {"predicate": {"custom_model_data": 2100 }, "model":"icons/amount/assault_rifle_redemption/assault_rifle_redemption/1"},
                 {"predicate": {"custom_model_data": 2101 }, "model":"icons/amount/assault_rifle_redemption/assault_rifle_redemption/2"},
                 {"predicate": {"custom_model_data": 2102 }, "model":"icons/amount/assault_rifle_redemption/assault_rifle_redemption/3"},
