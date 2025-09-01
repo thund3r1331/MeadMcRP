@@ -1,10 +1,19 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
-	"parent": "item/handheld",
 	"textures": {
 		"layer0": "icons/skins/assault_rifle_poseidon_cannon"
 	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#layer0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"}
+			}
+		}
+	],
 	"display": {
 		"thirdperson_righthand": {
 			"scale": [0, 0, 0]
