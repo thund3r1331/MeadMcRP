@@ -573,6 +573,8 @@
 		{"predicate": {"custom_model_data":1128}, "model":"holograms/tree_mark"},
 		{"predicate": {"custom_model_data":1129}, "model":"builds/shelf/shelf"},
 		{"predicate": {"custom_model_data":1130}, "model":"holograms/shelf_blue"},
-		{"predicate": {"custom_model_data":1131}, "model":"holograms/shelf_red"}
+		{"predicate": {"custom_model_data":1131}, "model":"holograms/shelf_red"},
+
+		{"predicate": {"custom_model_data":1132}, "model":"npc/bandit_camp/airwolf/airwolf_static"}
 	]
 }

@@ -1,10 +1,11 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "entity/skins/Man_Black_h",
 		"2": "models/armor/iron_layer_1",
-		"particle": "models/armor/gold_layer_1"
+		"3": "models/armor/iron_layer_2"
 	},
 	"elements": [
 		{
@@ -27,12 +28,12 @@
 			"to": [12.04, 30.54, 12.04],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-0.08, -1.275, -0.08]},
 			"faces": {
-				"north": {"uv": [4, 4, 2, 8], "texture": "#particle"},
-				"east": {"uv": [0, 4, 2, 8], "texture": "#particle"},
-				"south": {"uv": [8, 8, 6, 4], "texture": "#particle"},
-				"west": {"uv": [4, 4, 6, 8], "texture": "#particle"},
-				"up": {"uv": [4, 4, 2, 0], "texture": "#particle"},
-				"down": {"uv": [6, 4, 4, 0], "texture": "#particle"}
+				"north": {"uv": [4, 4, 2, 8], "texture": "#3"},
+				"east": {"uv": [0, 4, 2, 8], "texture": "#3"},
+				"south": {"uv": [8, 8, 6, 4], "texture": "#3"},
+				"west": {"uv": [4, 4, 6, 8], "texture": "#3"},
+				"up": {"uv": [4, 4, 2, 0], "texture": "#3"},
+				"down": {"uv": [6, 4, 4, 0], "texture": "#3"}
 			}
 		},
 		{
@@ -148,44 +149,40 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [0, -25.75, 0],
+			"scale": [2.0293, 1.7207, 1.66406]
+		}
+	},
 	"groups": [
 		{
 			"name": "npc",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "head",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [0, 1]
 				},
 				{
 					"name": "body",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [2, 3]
 				},
 				{
 					"name": "l_arm",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [4, 5]
 				},
 				{
 					"name": "r_arm",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [6, 7]
 				},
 				8,

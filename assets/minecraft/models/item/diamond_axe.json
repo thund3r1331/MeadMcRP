@@ -443,6 +443,7 @@
 
                 {"predicate": {"custom_model_data": 1377 }, "model":"icons/workbench_arrow_left"},
                 {"predicate": {"custom_model_data": 1378 }, "model":"icons/workbench_arrow_right"},
+                {"predicate": {"custom_model_data": 1379 }, "model":"icons/coptertext"},
 
                 {"predicate": {"custom_model_data": 1380 }, "model":"icons/amount/small_water_bottle/250"},
                 {"predicate": {"custom_model_data": 1381 }, "model":"icons/amount/small_water_bottle/170"},
