@@ -6,7 +6,9 @@
 	"textures": {
 		"particle": "guns/assault_rifle/assault_rifle_poseidon_cannon",
 		"gun2": "builds/air",
-		"gun3": "guns/assault_rifle/assault_rifle_poseidon_cannon"
+		"gun3": "guns/assault_rifle/assault_rifle_poseidon_cannon",
+		"hand2": "builds/air",
+		"hand3": "guns/hands/hand_wide"
 	},
 	"display": {
 		"firstperson_lefthand": {
