@@ -120,6 +120,7 @@
 		{"predicate": {"custom_model_data": 124 }, "model":"icons/gates_external_high_wood"},
 		{"predicate": {"custom_model_data": 125 }, "model":"icons/gates_external_high_stone"},
 		{"predicate": {"custom_model_data": 126 }, "model":"icons/shelves"},
+		{"predicate": {"custom_model_data": 127 }, "model":"icons/small_oil_refinery"},
 
 		{"predicate": {"custom_model_data": 950 }, "model":"icons/amount/rifle_ak/1"},
                 {"predicate": {"custom_model_data": 951 }, "model":"icons/amount/rifle_ak/2"},
