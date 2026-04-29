@@ -3,21 +3,27 @@ PROPRIETARY LICENSE (ALL RIGHTS RESERVED)
 Copyright (c) 2026 thund3r (thund3r1331), Ok___Ok (gooohsh), qwizlebb (iamqwiz). 
 All rights reserved.
 
-This license applies to all assets within this project (including, but not limited to: 3D models, textures, graphics, animation files, source code, and audio), collectively referred to as the "Content".
+1. SCOPE OF LICENSE
+This license applies to all ORIGINAL Content within this project created by the copyright holders (including, but not limited to: 3D models created in Blockbench, custom textures created in Aseprite, and original configurations), collectively referred to as the "Original Content".
 
-1. RESTRICTIONS & PERMISSIONS
-Any use of the Content is strictly prohibited UNLESS explicit written permission is granted by the copyright holders (thund3r1331, gooohsh, or iamqwiz). In the absence of such permission, any person who obtains access to the Content is PROHIBITED from:
-* Copying, reproducing, distributing, or publishing the Content in whole or in part.
-* Modifying, adapting, translating, or creating derivative works based on the Content.
-* Extracting assets (models, textures, etc.) for any use outside of the original project.
-* Using the Content for any commercial or non-commercial purposes.
-* Selling, renting, leasing, transferring, or sublicensing the Content to third parties.
+2. THIRD-PARTY ASSETS & TRADEMARKS
+This project is a fan-made recreation of elements from the game "Rust". 
+* All rights to original sound assets, trademarks, logos, and game designs belonging to "Rust" are the sole property of Facepunch Studios. 
+* This project is non-commercial and is not affiliated with, authorized, maintained, sponsored, or endorsed by Facepunch Studios.
+* The copyright holders of this project do not claim ownership over any intellectual property belonging to Facepunch Studios.
 
-2. OWNERSHIP
-Access to the Content does not constitute a transfer of any rights to it. All intellectual property rights, including copyrights and related rights, remain exclusively with Artyom Vasilchenko, Nikita (gooohsh), and iamqwiz.
+3. RESTRICTIONS & PERMISSIONS
+Any use of the Original Content is strictly prohibited UNLESS explicit written permission is granted by the copyright holders. In the absence of such permission, any person who obtains access to the Content is PROHIBITED from:
+* Copying, reproducing, distributing, or publishing the Original Content in whole or in part.
+* Modifying, adapting, translating, or creating derivative works based on the Original Content.
+* Extracting Original Content (models, textures, etc.) for any use outside of the MeadMc project.
+* Using the Original Content for any commercial purposes.
 
-3. CONTACT FOR PERMISSIONS
-To request permission for using any part of the Content, please contact the copyright holders via their official GitHub profiles or project contact channels. Any permission granted must be in a written or digital form that can be verified.
+4. OWNERSHIP
+Access to the Content does not constitute a transfer of any rights to it. All intellectual property rights for the Original Content remain exclusively with thund3r1331, gooohsh, and iamqwiz.
 
-4. DISCLAIMER
+5. CONTACT FOR PERMISSIONS
+To request permission for using any part of the Original Content, please contact the copyright holders via their official project contact channels.
+
+6. DISCLAIMER
 THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE CONTENT.
