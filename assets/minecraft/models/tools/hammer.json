@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
@@ -324,12 +325,12 @@
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [-9.325, 30.4, 34.995],
 			"scale": [4, 4, 4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [-8.75, 30.4, 35],
 			"scale": [4, 4, 4]
 		},
@@ -350,20 +351,17 @@
 		{
 			"name": "hammer-3rd",
 			"origin": [7.11815, 10.3644, 8.06159],
+			"isBig": true,
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 		},
 		{
 			"name": "hammer-1st",
 			"origin": [7.11815, 10.3644, 8.06159],
+			"scope": 0,
 			"color": 0,
-			"children": [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
-		},
-		{
-			"name": "hand",
-			"origin": [7.38328, 1.80831, 14.94649],
-			"color": 0,
-			"children": [26]
+			"children": [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
 		}
 	]
 }

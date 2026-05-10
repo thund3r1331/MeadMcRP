@@ -1689,6 +1689,7 @@
 		{
 			"name": "Smg",
 			"origin": [8.46392, 10.73672, 9.49154],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

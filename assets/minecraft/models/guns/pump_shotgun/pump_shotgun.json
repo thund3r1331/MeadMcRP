@@ -2256,6 +2256,7 @@
 		{
 			"name": "Pump-Shotgun",
 			"origin": [8, 8, 8],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

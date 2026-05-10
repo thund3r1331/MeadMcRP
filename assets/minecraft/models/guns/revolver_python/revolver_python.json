@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Created-by-@adon.qh",
 	"texture_size": [128, 128],
 	"textures": {
@@ -3743,9 +3744,9 @@
 		{
 			"name": "Revolver-Python",
 			"origin": [9, 6.8, 4.05],
+			"isBig": true,
+			"scope": 0,
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -3910,11 +3911,10 @@
 			]
 		},
 		{
-			"name": "Revolver-Python",
+			"name": "Revolver-Python-Hand",
 			"origin": [9, 6.8, 4.05],
+			"scope": 0,
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				160,
 				161,
@@ -4069,9 +4069,9 @@
 				310,
 				311,
 				312,
-				313
+				313,
+				314
 			]
-		},
-		314
+		}
 	]
 }

@@ -6400,6 +6400,7 @@
 		{
 			"name": "M39",
 			"origin": [13.38754, 15.14755, -10.4294],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				{

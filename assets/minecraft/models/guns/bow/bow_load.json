@@ -1024,6 +1024,7 @@
 		{
 			"name": "bow",
 			"origin": [8.62477, -4.01657, 7.61517],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

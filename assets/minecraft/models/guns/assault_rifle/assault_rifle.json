@@ -4581,6 +4581,7 @@
 		{
 			"name": "Assault-rifle",
 			"origin": [3.75, 5, 11.75],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				{

@@ -2568,6 +2568,7 @@
 		{
 			"name": "Stone-axe",
 			"origin": [6.37297, 9.71987, 8.03085],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

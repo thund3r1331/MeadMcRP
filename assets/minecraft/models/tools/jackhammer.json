@@ -4528,6 +4528,7 @@
 		{
 			"name": "Jackhammer",
 			"origin": [8.01851, 5.63238, 13.88634],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

@@ -3520,6 +3520,7 @@
 		{
 			"name": "3",
 			"origin": [8.105, 8.12, 15],
+			"isBig": true,
 			"color": 0,
 			"nbt": "{}",
 			"armAnimationEnabled": false,

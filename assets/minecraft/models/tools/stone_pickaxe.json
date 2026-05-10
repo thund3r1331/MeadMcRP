@@ -2581,6 +2581,7 @@
 		{
 			"name": "stone-pickaxe",
 			"origin": [8, 17.25, 8.15],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

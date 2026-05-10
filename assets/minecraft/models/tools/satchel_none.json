@@ -2310,6 +2310,7 @@
 		{
 			"name": "Sachel-Change",
 			"origin": [7.85, 16.375, 11.625],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

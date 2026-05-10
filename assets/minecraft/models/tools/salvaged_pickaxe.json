@@ -2754,6 +2754,7 @@
 		{
 			"name": "Salvaged-pickaxe",
 			"origin": [8, 11.075, 8],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

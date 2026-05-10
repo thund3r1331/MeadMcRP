@@ -2558,6 +2558,7 @@
 		{
 			"name": "Rocket-Launcher",
 			"origin": [6, 5.09734, -8.6875],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

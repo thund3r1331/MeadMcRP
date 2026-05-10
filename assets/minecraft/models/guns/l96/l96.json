@@ -7451,6 +7451,7 @@
 		{
 			"name": "L-96",
 			"origin": [9.65, 6.0625, 15.775],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				{

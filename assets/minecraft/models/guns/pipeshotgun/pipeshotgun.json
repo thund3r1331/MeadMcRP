@@ -3150,6 +3150,7 @@
 		{
 			"name": "pipeshotgun",
 			"origin": [8, 9.22983, 14.66122],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

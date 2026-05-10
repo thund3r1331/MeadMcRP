@@ -1383,6 +1383,7 @@
 		{
 			"name": "Salvage-Axe",
 			"origin": [15.44116, 16, 8],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				0,

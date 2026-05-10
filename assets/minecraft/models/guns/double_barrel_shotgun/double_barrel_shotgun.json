@@ -4499,6 +4499,7 @@
 		{
 			"name": "Double-barrel-shotgun",
 			"origin": [9.6, 7.00707, 8.8724],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				{

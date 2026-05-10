@@ -1689,6 +1689,7 @@
 		{
 			"name": "3rd",
 			"origin": [8, 12.17088, -1.91874],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				{

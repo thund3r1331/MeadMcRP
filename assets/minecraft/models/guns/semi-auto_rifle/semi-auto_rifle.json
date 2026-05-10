@@ -2240,6 +2240,7 @@
 		{
 			"name": "Semi-auto-rilfe",
 			"origin": [6.72563, 8.49031, 5.63171],
+			"isBig": true,
 			"color": 0,
 			"children": [
 				{
