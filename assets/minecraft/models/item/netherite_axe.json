@@ -4,15 +4,15 @@
     "layer0": "item/netherite_axe"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1 }, "model":"icons/semibody"},
-    {"predicate": {"custom_model_data": 2 }, "model":"icons/amount/semibody/2"},
-    {"predicate": {"custom_model_data": 3 }, "model":"icons/amount/semibody/3"},
-    {"predicate": {"custom_model_data": 4 }, "model":"icons/amount/semibody/4"},
-    {"predicate": {"custom_model_data": 5 }, "model":"icons/amount/semibody/5"},
-    {"predicate": {"custom_model_data": 6 }, "model":"icons/amount/semibody/6"},
-    {"predicate": {"custom_model_data": 7 }, "model":"icons/amount/semibody/7"},
-    {"predicate": {"custom_model_data": 8 }, "model":"icons/amount/semibody/8"},
-    {"predicate": {"custom_model_data": 9 }, "model":"icons/amount/semibody/9"},
-    {"predicate": {"custom_model_data": 10 }, "model":"icons/amount/semibody/10"}
+    {"predicate": {"custom_model_data": 1 }, "model":"icons/components/semi_automatic_body/0"},
+    {"predicate": {"custom_model_data": 2 }, "model":"icons/components/semi_automatic_body/2"},
+    {"predicate": {"custom_model_data": 3 }, "model":"icons/components/semi_automatic_body/3"},
+    {"predicate": {"custom_model_data": 4 }, "model":"icons/components/semi_automatic_body/4"},
+    {"predicate": {"custom_model_data": 5 }, "model":"icons/components/semi_automatic_body/5"},
+    {"predicate": {"custom_model_data": 6 }, "model":"icons/components/semi_automatic_body/6"},
+    {"predicate": {"custom_model_data": 7 }, "model":"icons/components/semi_automatic_body/7"},
+    {"predicate": {"custom_model_data": 8 }, "model":"icons/components/semi_automatic_body/8"},
+    {"predicate": {"custom_model_data": 9 }, "model":"icons/components/semi_automatic_body/9"},
+    {"predicate": {"custom_model_data": 10 }, "model":"icons/components/semi_automatic_body/10"}
   ]
 }

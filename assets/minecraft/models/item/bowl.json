@@ -4,7 +4,7 @@
     "layer0": "item/bowl"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1 }, "model":"icons/syringe_medical"},
-    {"predicate": {"custom_model_data": 2 }, "model":"icons/amount/medical/syringe/2"}
+    {"predicate": {"custom_model_data": 1 }, "model":"icons/medical/medical_syringe/0"},
+    {"predicate": {"custom_model_data": 2 }, "model":"icons/medical/medical_syringe/2"}
   ]
 }

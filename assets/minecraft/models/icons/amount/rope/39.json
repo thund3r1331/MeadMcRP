@@ -1,8 +1,0 @@
-{
-	"parent": "icons/amount/rope/0",
-	"textures": {
-		"3": "icons/digit/digit_3",
-		"4": "icons/digit/digit_9",
-		"5": "icons/digit/digit_ft"
-	}
-}

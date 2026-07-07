@@ -4,15 +4,15 @@
     "layer0": "item/paper"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1 }, "model":"icons/riflebody"},
-    {"predicate": {"custom_model_data": 2 }, "model":"icons/amount/riflebody/2"},
-    {"predicate": {"custom_model_data": 3 }, "model":"icons/amount/riflebody/3"},
-    {"predicate": {"custom_model_data": 4 }, "model":"icons/amount/riflebody/4"},
-    {"predicate": {"custom_model_data": 5 }, "model":"icons/amount/riflebody/5"},
-    {"predicate": {"custom_model_data": 6 }, "model":"icons/amount/riflebody/6"},
-    {"predicate": {"custom_model_data": 7 }, "model":"icons/amount/riflebody/7"},
-    {"predicate": {"custom_model_data": 8 }, "model":"icons/amount/riflebody/8"},
-    {"predicate": {"custom_model_data": 9 }, "model":"icons/amount/riflebody/9"},
-    {"predicate": {"custom_model_data": 10 }, "model":"icons/amount/riflebody/10"}
+    {"predicate": {"custom_model_data": 1 }, "model":"icons/components/rifle_body/0"},
+    {"predicate": {"custom_model_data": 2 }, "model":"icons/components/rifle_body/2"},
+    {"predicate": {"custom_model_data": 3 }, "model":"icons/components/rifle_body/3"},
+    {"predicate": {"custom_model_data": 4 }, "model":"icons/components/rifle_body/4"},
+    {"predicate": {"custom_model_data": 5 }, "model":"icons/components/rifle_body/5"},
+    {"predicate": {"custom_model_data": 6 }, "model":"icons/components/rifle_body/6"},
+    {"predicate": {"custom_model_data": 7 }, "model":"icons/components/rifle_body/7"},
+    {"predicate": {"custom_model_data": 8 }, "model":"icons/components/rifle_body/8"},
+    {"predicate": {"custom_model_data": 9 }, "model":"icons/components/rifle_body/9"},
+    {"predicate": {"custom_model_data": 10 }, "model":"icons/components/rifle_body/10"}
   ]
 }
