@@ -65,6 +65,13 @@
 		{ "predicate": { "custom_model_data": 59 }, "model": "tools/beancan_hand"},
 		{ "predicate": { "custom_model_data": 60 }, "model": "tools/beancan_none"},
 
+		{ "predicate": { "custom_model_data": 61 }, "model": "guns/speargun/speargun_load"},
+		{ "predicate": { "custom_model_data": 62 }, "model": "guns/speargun/speargun_load_zoom"},
+		{ "predicate": { "custom_model_data": 63 }, "model": "guns/speargun/speargun_load_reload"},
+		{ "predicate": { "custom_model_data": 64 }, "model": "guns/speargun/speargun_donload"},
+		{ "predicate": { "custom_model_data": 65 }, "model": "guns/speargun/speargun_donload_zoom"},
+		{ "predicate": { "custom_model_data": 66 }, "model": "guns/speargun/speargun_donload_reload"},
+
 		{ "predicate": { "custom_model_data": 70 }, "model": "guns/assault_rifle/assault_rifle"},
 		{ "predicate": { "custom_model_data": 71 }, "model": "guns/assault_rifle/assault_rifle-zoom"},
 		{ "predicate": { "custom_model_data": 72 }, "model": "guns/assault_rifle/assault_rifle-reload"},
