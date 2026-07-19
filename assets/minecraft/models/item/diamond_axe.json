@@ -620,6 +620,13 @@
 		{"predicate": {"custom_model_data": 1727 }, "model":"icons/rocket_launcher"},
 		{"predicate": {"custom_model_data": 1728 }, "model":"icons/amount/rocket_launcher/1"},
 
+		{"predicate": {"custom_model_data": 1729 }, "model":"icons/l96"},
+		{"predicate": {"custom_model_data": 1730 }, "model":"icons/amount/l96/1"},
+		{"predicate": {"custom_model_data": 1731 }, "model":"icons/amount/l96/2"},
+		{"predicate": {"custom_model_data": 1732 }, "model":"icons/amount/l96/3"},
+		{"predicate": {"custom_model_data": 1733 }, "model":"icons/amount/l96/4"},
+		{"predicate": {"custom_model_data": 1734 }, "model":"icons/amount/l96/5"},
+
                 {"predicate": {"custom_model_data": 2000 }, "model":"icons/chainsaw"},
 		{"predicate": {"custom_model_data": 2001 }, "model":"icons/amount/chainsaw/1"},
                 {"predicate": {"custom_model_data": 2002 }, "model":"icons/amount/chainsaw/2"},
