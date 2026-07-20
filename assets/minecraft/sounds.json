@@ -648,5 +648,15 @@
 		"sounds":[
 			"weapon/m39/gun.m39.shoot.far"
 		]
+	},
+	"l96.shot.far":{
+		"sounds":[
+			"weapon/l96/gun.l96.shoot.far.3p"
+		]
+	},
+	"l96.shot":{
+		"sounds":[
+			"weapon/l96/gun.l96.shoot"
+		]
 	}
 }
