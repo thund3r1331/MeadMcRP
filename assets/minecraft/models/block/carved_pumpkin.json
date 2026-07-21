@@ -1,11 +1,7 @@
 {
-	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
-	"texture_size": [64, 64],
 	"textures": {
 		"0": "models/armor/diving_mask",
-		"2": "icons/diving_mask",
-		"particle": "models/armor/diving_mask"
+		"1": "icons/diving_mask"
 	},
 	"elements": [
 		{
@@ -13,7 +9,7 @@
 			"to": [12.73005, 4.002, 11.22359],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.74605, -19.63516, 7.23958]},
 			"faces": {
-				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
 			}
 		},
 		{
@@ -70,6 +66,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"scale": [0, 0, 0]
