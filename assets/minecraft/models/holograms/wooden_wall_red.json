@@ -1,9 +1,6 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "wiew/red",
-		"particle": "wiew/red"
+		"0": "tech_icons/red"
 	},
 	"elements": [
 		{

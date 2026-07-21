@@ -1,9 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "builds/guntrap/floor_shotguntrap",
 	"textures": {
-		"0": "wiew/blue",
-		"particle": "wiew/blue"
+		"0": "tech_icons/blue"
 	},
 	"display": {
 		"thirdperson_righthand": {

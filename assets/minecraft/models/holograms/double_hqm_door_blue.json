@@ -1,7 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "builds/double_hqm_door/hqmdouble_door",
 	"textures": {
-		"texture2": "wiew/blue"
+		"0": "tech_icons/blue"
 	}
 }

@@ -1,9 +1,6 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
-	"parent": "builds/hqmdoor/hqmdoor-0",
+	"parent": "builds/hqm_door/0",
 	"textures": {
-		"0": "wiew/blue",
-		"particle": "wiew/blue"
+		"0": "tech_icons/blue"
 	}
 }

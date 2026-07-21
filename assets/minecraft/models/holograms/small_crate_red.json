@@ -1,8 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "builds/small_crate",
 	"textures": {
-		"0": "wiew/red",
-		"particle": "wiew/red"
+		"0": "tech_icons/red"
 	}
 }

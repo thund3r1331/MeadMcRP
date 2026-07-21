@@ -1,8 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "builds/double_wooden_door/doubledoor_wood",
+	"parent": "builds/double_wooden_door/0",
 	"textures": {
-		"texture1": "wiew/blue",
-		"texture2": "wiew/blue"
+		"0": "tech_icons/blue"
 	}
 }

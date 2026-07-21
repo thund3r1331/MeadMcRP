@@ -1053,49 +1053,49 @@
         },
         {
             "type": "bitmap",
-            "file": "symbols:item/cloth.png",
+            "file": "minecraft:icons/cloth.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋢"]
         },
         {
             "type": "bitmap",
-            "file": "symbols:item/hqm.png",
+            "file": "minecraft:icons/high_quality_metal.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋣"]
         },
         {
             "type": "bitmap",
-            "file": "icons/syringe_medical.png",
+            "file": "minecraft:icons/medical_syringe.png",
             "ascent": 9,
             "height": 10,
             "chars": ["情"]
         },
         {
             "type": "bitmap",
-            "file": "symbols:item/lqf.png",
+            "file": "minecraft:icons/low_grade_fuel.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋤"]
         },
         {
             "type": "bitmap",
-            "file": "symbols:item/metal.png",
+            "file": "minecraft:icons/metal_fragments.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋥"]
         },
         {
             "type": "bitmap",
-            "file": "symbols:item/stone.png",
+            "file": "minecraft:icons/stones.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋬"]
         },
         {
             "type": "bitmap",
-            "file": "symbols:item/tree.png",
+            "file": "minecraft:icons/tree.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋭"]
@@ -1130,84 +1130,84 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/music_disc_blocks.png",
+            "file": "minecraft:icons/cloth.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋢"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/music_disc_strad.png",
+            "file": "minecraft:icons/high_quality_metal.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋣"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/music_disc_stal.png",
+            "file": "minecraft:icons/bone_fragments.png",
             "ascent": 9,
             "height": 10,
             "chars": ["瓦"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/music_disc_13.png",
+            "file": "minecraft:icons/low_grade_fuel.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋤"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/skull_banner_pattern.png",
+            "file": "minecraft:icons/metal_fragments.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋥"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/creeper_banner_pattern.png",
+            "file": "minecraft:icons/stones.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋬"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/flower_banner_pattern.png",
+            "file": "minecraft:icons/wood.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⋭"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/piglin_banner_pattern.png",
+            "file": "minecraft:icons/scrap.png",
             "ascent": 9,
             "height": 10,
             "chars": ["≬"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/mojang_banner_pattern.png",
+            "file": "minecraft:icons/gun_powder.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𱍨"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/music_disc_mall.png",
+            "file": "minecraft:icons/sulfur.png",
             "ascent": 9,
             "height": 10,
             "chars": ["⩕"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:icons/smgbody.png",
+            "file": "minecraft:icons/smg_body.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𢙜"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:icons/metalspring.png",
+            "file": "minecraft:icons/metal_spring.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𡷹"]
@@ -1221,28 +1221,28 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:icons/metalpipe.png",
+            "file": "minecraft:icons/metal_pipe.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𠂇"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:icons/spear_stone.png",
+            "file": "minecraft:icons/stone_spear.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𠂕"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:icons/semibody.png",
+            "file": "minecraft:icons/semi_automatic_body.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𠃏"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:icons/riflebody.png",
+            "file": "minecraft:icons/rifle_body.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𠁥"]
@@ -1256,42 +1256,42 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:icons/techparts.png",
+            "file": "minecraft:icons/tech_trash.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𠄜"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:icons/metalblade.png",
+            "file": "minecraft:icons/metal_blade.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𠆺"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:icons/grenade_beancan.png",
+            "file": "minecraft:icons/beancan_grenade.png",
             "ascent": 9,
             "height": 10,
             "chars": ["𠂩"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/music_disc_chirp.png",
+            "file": "minecraft:icons/animal_fat.png",
             "ascent": 9,
             "height": 10,
             "chars": ["好"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/music_disc_cat.png",
+            "file": "minecraft:icons/leather.png",
             "ascent": 9,
             "height": 10,
             "chars": ["兹"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/music_disc_far.png",
+            "file": "minecraft:icons/charcoal.png",
             "ascent": 9,
             "height": 10,
             "chars": ["二"]
@@ -1312,14 +1312,14 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:icons/sewingkit.png",
+            "file": "minecraft:icons/sewing_kit.png",
             "ascent": 9,
             "height": 10,
             "chars": ["痴"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:icons/roadsigns.png",
+            "file": "minecraft:icons/road_signs.png",
             "ascent": 9,
             "height": 10,
             "chars": ["普"]

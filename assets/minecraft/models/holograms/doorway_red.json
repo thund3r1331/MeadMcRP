@@ -1,9 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "holograms/doorway_blue",
 	"textures": {
-		"0": "wiew/red",
-		"particle": "wiew/red"
+		"0": "tech_icons/red"
 	},
 	"display": {
 		"thirdperson_righthand": {

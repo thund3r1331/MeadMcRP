@@ -1,10 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "builds/garage_door",
 	"textures": {
-		"0": "wiew/red",
-		"1": "wiew/red",
-		"particle": "wiew/red"
+		"0": "tech_icons/red",
+		"1": "tech_icons/red"
 	},
 	"display": {
 		"thirdperson_righthand": {

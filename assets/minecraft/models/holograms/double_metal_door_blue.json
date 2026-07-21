@@ -1,7 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "builds/double_metal_door/metaldoube_door",
 	"textures": {
-		"texture3": "wiew/blue"
+		"0": "tech_icons/blue"
 	}
 }

@@ -1,8 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "builds/sleeping_bag",
 	"textures": {
-		"2": "wiew/red",
-		"particle": "wiew/red"
+		"0": "tech_icons/red"
 	}
 }

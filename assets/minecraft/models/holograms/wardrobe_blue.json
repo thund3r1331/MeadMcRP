@@ -1,8 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "builds/wardrobe",
 	"textures": {
-		"1": "wiew/blue",
-		"particle": "wiew/blue"
+		"0": "tech_icons/blue"
 	}
 }

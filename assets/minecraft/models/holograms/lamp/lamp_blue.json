@@ -1,8 +1,1 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "builds/lamp/lampoff",
-	"textures": {
-		"0": "wiew/blue",
-		"particle": "wiew/blue"
-	}
-}
+{"parent":"builds/lamp/lampoff","textures":{"0":"tech_icons/blue"}}

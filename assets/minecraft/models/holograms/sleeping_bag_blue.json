@@ -1,0 +1,6 @@
+{
+	"parent": "builds/sleeping_bag",
+	"textures": {
+		"0": "tech_icons/blue"
+	}
+}
