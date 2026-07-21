@@ -302,14 +302,7 @@
 		{"predicate": {"custom_model_data":699}, "model": "holograms/tree_mark"},
 
 		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
-		{"predicate": {"custom_model_data":701}, "model":"vehicles/head/copter_head"},
-		{"predicate": {"custom_model_data":702}, "model":"vehicles/head/copter_head_1"},
-		{"predicate": {"custom_model_data":703}, "model":"vehicles/head/copter_head_2"},
-		{"predicate": {"custom_model_data":704}, "model":"vehicles/head/copter_head_3"},
-		{"predicate": {"custom_model_data":705}, "model":"vehicles/head/copter_head_4"},
-		{"predicate": {"custom_model_data":706}, "model":"vehicles/head/copter_head_5"},
-		{"predicate": {"custom_model_data":707}, "model":"vehicles/head/copter_head_6"},
-		{"predicate": {"custom_model_data":708}, "model":"vehicles/head/copter_head_7"},
+		{"predicate": {"custom_model_data":701}, "model":"vehicles/copter_gif"}
 
 		{"predicate": {"custom_model_data":800}, "model":"builds/wooden_door/0"},
 		{"predicate": {"custom_model_data":801}, "model":"builds/wooden_door/1"},
