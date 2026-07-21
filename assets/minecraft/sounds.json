@@ -658,5 +658,20 @@
 		"sounds":[
 			"weapon/l96/gun.l96.shoot"
 		]
+	},
+	"vehicle.boat.mount":{
+		"sounds":[
+			"vehicle/vehicle.boat.mount"
+		]
+	},
+	"vehicle.boat.dismount":{
+		"sounds":[
+			"vehicle/vehicle.boat.dismount"
+		]
+	},
+	"vehicle.boat.move1":{
+		"sounds":[
+			"vehicle/vehicle.boat.move1"
+		]
 	}
 }
