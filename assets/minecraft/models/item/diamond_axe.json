@@ -621,12 +621,15 @@
 		{"predicate": {"custom_model_data": 1727 }, "model":"icons/weapons/rocket_launcher/0"},
                 {"predicate": {"custom_model_data": 1728 }, "model":"icons/weapons/rocket_launcher/1"},
 
-                {"predicate": {"custom_model_data": 1729 }, "model":"icons/weapons/l96/0"},
-                {"predicate": {"custom_model_data": 1730 }, "model":"icons/weapons/l96/1"},
-                {"predicate": {"custom_model_data": 1731 }, "model":"icons/weapons/l96/2"},
-                {"predicate": {"custom_model_data": 1732 }, "model":"icons/weapons/l96/3"},
-                {"predicate": {"custom_model_data": 1733 }, "model":"icons/weapons/l96/4"},
-                {"predicate": {"custom_model_data": 1734 }, "model":"icons/weapons/l96/5"},
+                {"predicate": {"custom_model_data": 1729 }, "model":"icons/weapons/l96_rifle/0"},
+                {"predicate": {"custom_model_data": 1730 }, "model":"icons/weapons/l96_rifle/1"},
+                {"predicate": {"custom_model_data": 1731 }, "model":"icons/weapons/l96_rifle/2"},
+                {"predicate": {"custom_model_data": 1732 }, "model":"icons/weapons/l96_rifle/3"},
+                {"predicate": {"custom_model_data": 1733 }, "model":"icons/weapons/l96_rifle/4"},
+                {"predicate": {"custom_model_data": 1734 }, "model":"icons/weapons/l96_rifle/5"},
+
+		{"predicate": {"custom_model_data": 1735 }, "model":"icons/weapons/speargun/0"},
+                {"predicate": {"custom_model_data": 1736 }, "model":"icons/weapons/speargun/1"},
 
                 {"predicate": {"custom_model_data": 2000 }, "model":"icons/tools/chainsaw/0"},
 		{"predicate": {"custom_model_data": 2001 }, "model":"icons/tools/chainsaw/1"},

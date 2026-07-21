@@ -1,1 +1,1 @@
-{"parent":"item/generated","textures":{"layer0":"number/z","layer1":"icons/burlap_shirt"}}
+{"parent":"item/generated","textures":{"layer0":"number/z","layer1":"icons/burlap_shirt"},"overrides":[{"predicate":{"custom_model_data":1},"model":"icons/single/diving_tank"}]}
