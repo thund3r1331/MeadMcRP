@@ -40,7 +40,7 @@
 		{ "predicate": { "custom_model_data": 51 }, "model": "icons/single/workbench_level_2"},
 		{ "predicate": { "custom_model_data": 52 }, "model": "icons/single/workbench_level_3"},
 		{ "predicate": { "custom_model_data": 53 }, "model": "icons/weapons/python_revolver/0"},
-		{ "predicate": { "custom_model_data": 54 }, "model": "icons/weapons/0"},
+		{ "predicate": { "custom_model_data": 54 }, "model": "icons/weapons/assault_rifle/0"},
 		{ "predicate": { "custom_model_data": 55 }, "model": "icons/weapons/semi_automatic_rifle/0"},
 		{ "predicate": { "custom_model_data": 56 }, "model": "icons/weapons/double_barrel_shotgun/0"},
 		{ "predicate": { "custom_model_data": 57 }, "model": "icons/weapons/thompson/0"},
