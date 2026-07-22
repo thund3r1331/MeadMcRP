@@ -630,6 +630,8 @@
 
 		{"predicate": {"custom_model_data": 1735 }, "model":"icons/weapons/speargun/0"},
                 {"predicate": {"custom_model_data": 1736 }, "model":"icons/weapons/speargun/1"},
+		{"predicate": {"custom_model_data": 1737 }, "model":"icons/study_lock/speargun"},
+                {"predicate": {"custom_model_data": 1738 }, "model":"icons/study_lockun/speargun"},
 
                 {"predicate": {"custom_model_data": 1740 }, "model":"icons/study_lock/speargun_spear"},
                 {"predicate": {"custom_model_data": 1741 }, "model":"icons/study_unlock/speargun_spear"},
