@@ -419,8 +419,8 @@
 		{"predicate":{"custom_model_data":916},"model":"builds/lamp/lampoff"},
 		{"predicate":{"custom_model_data":917},"model":"builds/lamp/lampon"},
 
-		{"predicate":{"custom_model_data":918},"model":"holograms/lamp/lamp_blue"},
-		{"predicate":{"custom_model_data":919},"model":"holograms/lamp/lamp_red"},
+		{"predicate":{"custom_model_data":918},"model":"holograms/lamp_blue"},
+		{"predicate":{"custom_model_data":919},"model":"holograms/lamp_red"},
 
 		{"predicate":{"custom_model_data":920},"model":"builds/double_wooden_door/0"},
 		{"predicate":{"custom_model_data":921},"model":"builds/double_wooden_door/1"},

@@ -1,6 +1,1 @@
-{
-	"parent": "holograms/window_blue",
-	"textures": {
-		"0": "tech_icons/red"
-	}
-}
+{"parent":"holograms/window_blue","textures":{"0":"tech_icons/red"}}

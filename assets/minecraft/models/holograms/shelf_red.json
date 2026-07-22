@@ -1,7 +1,1 @@
-{
-
-	"parent": "builds/shelf/shelf",
-	"textures": {
-		"0": "tech_icons/red"
-	}
-}
+{"parent":"builds/shelf/shelf","textures":{"0":"tech_icons/red"}}

@@ -1,6 +1,1 @@
-{
-	"parent": "builds/wardrobe",
-	"textures": {
-		"0": "wiew/red"
-	}
-}
+{"parent":"builds/wardrobe","textures":{"0":"tech_icons/red"}}

@@ -1,6 +1,1 @@
-{
-	"parent": "builds/furnace",
-	"textures": {
-		"0": "tech_icons/blue"
-	}
-}
+{"parent":"builds/furnace","textures":{"0":"tech_icons/blue"}}

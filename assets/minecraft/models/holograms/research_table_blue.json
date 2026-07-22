@@ -1,6 +1,1 @@
-{
-	"parent": "builds/research_table",
-	"textures": {
-		"0": "tech_icons/blue"
-	}
-}
+{"parent":"builds/research_table","textures":{"0":"tech_icons/blue"}}

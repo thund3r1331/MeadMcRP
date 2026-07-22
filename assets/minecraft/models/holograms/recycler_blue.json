@@ -1,6 +1,1 @@
-{
-	"parent": "builds/recycler/recycler-green",
-	"textures": {
-		"0": "tech_icons/blue"
-	}
-}
+{"parent":"builds/recycler/recycler-green","textures":{"0":"tech_icons/blue"}}

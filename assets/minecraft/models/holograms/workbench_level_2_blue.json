@@ -1,7 +1,1 @@
-{
-
-	"parent": "builds/workbench_level_2",
-	"textures": {
-		"0": "tech_icons/blue"
-	}
-}
+{"parent":"builds/workbench_level_2","textures":{"0":"tech_icons/blue"}}

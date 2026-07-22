@@ -1,6 +1,1 @@
-{
-	"parent": "builds/guntrap/shotguntrap",
-	"textures": {
-		"0": "tech_icons/blue"
-	}
-}
+{"parent":"builds/guntrap/shotguntrap","textures":{"0":"tech_icons/blue"}}

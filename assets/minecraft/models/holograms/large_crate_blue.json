@@ -1,6 +1,1 @@
-{
-	"parent": "builds/large_crate/large_crate",
-	"textures": {
-		"0": "tech_icons/blue"
-	}
-}
+{"parent":"builds/large_crate/large_crate","textures":{"0":"tech_icons/blue"}}

@@ -1,6 +1,1 @@
-{
-	"parent": "builds/vending_machine",
-	"textures": {
-		"0": "wiew/red"
-	}
-}
+{"parent":"builds/vending_machine","textures":{"0":"tech_icons/red"}}

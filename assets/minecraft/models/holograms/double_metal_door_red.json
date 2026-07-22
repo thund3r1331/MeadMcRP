@@ -1,6 +1,1 @@
-{
-	"parent": "builds/double_metal_door/metaldoube_door",
-	"textures": {
-		"0": "tech_icons/red"
-	}
-}
+{"parent":"builds/double_metal_door/metaldoube_door","textures":{"0":"tech_icons/red"}}

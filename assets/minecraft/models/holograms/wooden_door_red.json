@@ -1,6 +1,1 @@
-{
-	"parent": "builds/wooden_door/0",
-	"textures": {
-		"0": "wiew/red"
-	}
-}
+{"parent":"builds/wooden_door/0","textures":{"0":"tech_icons/red"}}
