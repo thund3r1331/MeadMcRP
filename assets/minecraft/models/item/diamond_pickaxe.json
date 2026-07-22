@@ -302,7 +302,7 @@
 		{"predicate": {"custom_model_data":699}, "model": "holograms/tree_mark"},
 
 		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
-		{"predicate": {"custom_model_data":701}, "model":"vehicles/copter_gif"}
+		{"predicate": {"custom_model_data":701}, "model":"vehicles/copter_gif"},
 
 		{"predicate": {"custom_model_data":800}, "model":"builds/wooden_door/0"},
 		{"predicate": {"custom_model_data":801}, "model":"builds/wooden_door/1"},
