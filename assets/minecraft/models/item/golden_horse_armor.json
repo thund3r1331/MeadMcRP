@@ -79,6 +79,10 @@
   { "predicate": { "custom_model_data": 72 }, "model": "icons/blueprint/medical_syringe"},
   { "predicate": { "custom_model_data": 73 }, "model": "icons/blueprint/hazmat_suit"},
 
+  {"predicate": {"custom_model_data": 74 }, "model":"icons/study_lock/speargun"},
+  {"predicate": {"custom_model_data": 75 }, "model":"icons/study_unlock/speargun"},
+  {"predicate": {"custom_model_data": 76 }, "model":"icons/blueprint/speargun"},
+
   { "predicate": { "custom_model_data": 200 }, "model": "icons/study_lock/12_gauge_buckshot"},
   { "predicate": { "custom_model_data": 201 }, "model": "icons/study_unlock/12_gauge_buckshot"},
   { "predicate": { "custom_model_data": 202 }, "model": "icons/study_lock/hazmat_suit"},
