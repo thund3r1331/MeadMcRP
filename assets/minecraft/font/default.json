@@ -1116,6 +1116,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:icons/empty_propane_tank.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["傁"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:hud/hud/radiation.png",
 	    "ascent": 5,
             "height": 16,
