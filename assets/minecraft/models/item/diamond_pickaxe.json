@@ -299,7 +299,6 @@
 		{"predicate": {"custom_model_data":697}, "model": "consumable/bandage"},
 		{"predicate": {"custom_model_data":698}, "model": "consumable/medical_syringe"},
 
-		{"predicate": {"custom_model_data":699}, "model": "holograms/tree_mark"},
 
 		{"predicate": {"custom_model_data":700}, "model":"vehicles/copter_body"},
 		{"predicate": {"custom_model_data":701}, "model":"vehicles/copter_gif"},
