@@ -514,6 +514,16 @@
 			"hit/item.medical_syringe.use.other"
 		]
 	},
+	"bandage.use":{
+		"sounds":[
+			"hit/item.bandage.use"
+		]
+	},
+	"medkit.use":{
+		"sounds":[
+			"hit/item.medical_syringe.use.other"
+		]
+	},
 	"copter.work":{
 		"sounds":[
 			"vehicle/minicopter_work"
