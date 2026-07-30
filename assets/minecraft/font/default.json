@@ -1004,6 +1004,13 @@
         },
         {
             "type": "bitmap",
+            "file": "guis:campfire.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": ["இ"]
+        },
+        {
+            "type": "bitmap",
             "file": "guis:vending-machine.png",
             "ascent": 14,
             "height": 256,
