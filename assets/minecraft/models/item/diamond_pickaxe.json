@@ -72,6 +72,8 @@
 		{ "predicate": { "custom_model_data": 65 }, "model": "guns/speargun/speargun_unloaded_zoom"},
 		{ "predicate": { "custom_model_data": 66 }, "model": "guns/speargun/speargun_unloaded_reload"},
 
+		{ "predicate": { "custom_model_data": 67 }, "model": "guns/m249"},
+
 		{ "predicate": { "custom_model_data": 68 }, "model": "holograms/ladder_blue"},
 		{ "predicate": { "custom_model_data": 69 }, "model": "holograms/ladder_red"},
 
