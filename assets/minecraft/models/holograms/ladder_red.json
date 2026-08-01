@@ -1,0 +1,9 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "builds/ladder",
+	"textures": {
+		"0": "tech_icons/red",
+		"particle": "tech_icons/red"
+	}
+}
