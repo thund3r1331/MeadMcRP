@@ -2,6 +2,13 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "guis:lootbox.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": ["ᚠ"]
+        },
+        {
+            "type": "bitmap",
             "file": "guis:big.png",
             "ascent": 14,
             "height": 256,
