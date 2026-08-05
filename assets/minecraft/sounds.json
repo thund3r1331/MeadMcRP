@@ -683,5 +683,10 @@
 		"sounds":[
 			"vehicle/vehicle.boat.move1"
 		]
+	},
+	"m249.shoot":{
+		"sounds":[
+			"weapon/m249/gun.m249.shoot"
+		]
 	}
 }
