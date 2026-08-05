@@ -683,5 +683,25 @@
 		"sounds":[
 			"vehicle/vehicle.boat.move1"
 		]
+	},
+	"player.diving_breath":{
+		"sounds":[
+			"player/diving_tank.breathe"
+		]
+	},
+	"gun.spear_gun_reload.start":{
+		"sounds":[
+			"weapon/speargun/gun.speargun.reload.start"
+		]
+	},
+	"gun.spear_gun_reload":{
+		"sounds":[
+			"weapon/speargun/gun.speargun.reload"
+		]
+	},
+	"gun.spear_gun_shoot":{
+		"sounds":[
+			"weapon/speargun/gun.speargun.shoot"
+		]
 	}
 }
