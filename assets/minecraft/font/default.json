@@ -2,6 +2,13 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "guis:big.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": ["ꙮ"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:hud/icon.png",
             "ascent": -50,
             "height": 256,
