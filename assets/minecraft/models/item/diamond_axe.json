@@ -778,6 +778,13 @@
                 {"predicate": {"custom_model_data": 2226 }, "model":"icons/weapons/assault_rifle_102/27"},
                 {"predicate": {"custom_model_data": 2227 }, "model":"icons/weapons/assault_rifle_102/28"},
                 {"predicate": {"custom_model_data": 2228 }, "model":"icons/weapons/assault_rifle_102/29"},
-                {"predicate": {"custom_model_data": 2229 }, "model":"icons/weapons/assault_rifle_102/30"}
+                {"predicate": {"custom_model_data": 2229 }, "model":"icons/weapons/assault_rifle_102/30"},
+
+		{"predicate": {"custom_model_data": 2230 }, "model":"icons/construction/ladder/0"},
+		{"predicate": {"custom_model_data": 2230 }, "model":"icons/construction/ladder/1"},
+		{"predicate": {"custom_model_data": 2230 }, "model":"icons/construction/ladder/2"},
+		{"predicate": {"custom_model_data": 2230 }, "model":"icons/construction/ladder/3"},
+		{"predicate": {"custom_model_data": 2230 }, "model":"icons/construction/ladder/4"},
+		{"predicate": {"custom_model_data": 2230 }, "model":"icons/construction/ladder/5"}
 ]
 }
